@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #cce7ff, #ffffff);
+            color: #333;
+        }
+
+        .navbar {
+            background-color: #212020;
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-link {
+            color: #fff !important;
+            font-size: 1.1rem;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #ff6600 !important;
+        }
+
+        .content-section {
+            margin-top: 50px;
+        }
+
+        .card-body {
+            text-align: justify;
+        }
+
+        .card-title {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #003366;
+        }
+
+        .card-text {
+            font-size: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .highlight {
+            color: #0066cc;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" style="color: whitesmoke;"><b>House Price Prediction</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/upload">Upload</a>
+                      </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/property">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container content-section">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-lg">
+                    <div class="card-body">
+                        <h5 class="card-title">Understanding Machine Learning in House Price Prediction</h5>
+                        <p class="card-text">
+                            Machine learning (ML) is a subset of artificial intelligence (AI) that allows systems to
+                            learn from data, identify patterns, and make decisions without being explicitly programmed.
+                            In the case of <span class="highlight">house price prediction</span>, ML models are used
+                            to predict the price of a property based on various features such as location, size, and
+                            amenities.
+                        </p>
+                        <p class="card-text">
+                            One of the most popular models used in regression tasks like house price prediction using
+                            the <span class="highlight">XGBoost</span> model.
+                        </p>
+                        <h6>What is XGBoost?</h6>
+                        <p class="card-text">
+                            <span class="highlight">XGBoost (Extreme Gradient Boosting)</span> is a powerful and efficient
+                            implementation of gradient boosting, which is an ensemble learning technique. It builds
+                            a model by combining the predictions of several weak models, typically decision trees,
+                            and making them stronger. XGBoost has gained popularity due to its speed, flexibility,
+                            and high performance, especially when handling large datasets and complex relationships.
+                        </p>
+                        <h6>How XGBoost is Applied in House Price Prediction</h6>
+                        <p class="card-text">
+                            In house price prediction, we use XGBoost to build a predictive model that learns the
+                            relationship between features (such as number of rooms, location, and square footage) and
+                            the target variable (house price). The model is trained on a dataset of historical house
+                            prices and their corresponding features. XGBoost's gradient boosting approach helps to
+                            correct errors made by the previous models iteratively, improving the overall prediction
+                            accuracy.
+                        </p>
+
+                        <h6>Error Metrics in XGBoost</h6>
+                        <p class="card-text">
+                            After training an XGBoost model, it's essential to evaluate its performance using various
+                            <span class="highlight">error metrics</span> to ensure that it generalizes well to unseen data.
+                            Common error metrics include:
+                        </p>
+                        <ul class="card-text">
+                            <li><b>Mean Absolute Error (MAE):</b> Measures the average of the absolute errors between the
+                                predicted and actual values.</li>
+                            <li><b>Root Mean Squared Error (RMSE):</b> The square root of the mean squared error, used to
+                                provide a more interpretable metric in the same units as the target variable.</li>
+                            <li><b>R-Squared:</b> Indicates how well the model explains the variability of the target variable.</li>
+                        </ul>
+                        <p class="card-text">
+                            XGBoost provides the flexibility to choose the most appropriate metric based on the problem at hand.
+                            Lower MAE, or RMSE values indicate a better model, while a higher R-Squared suggests a
+                            model that explains more variance in the data.
+                        </p>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

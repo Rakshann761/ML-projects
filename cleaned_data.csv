@@ -1,0 +1,4061 @@
+,location,total_sqft,bath,price,bhk
+0,1st Phase JP Nagar,2825.0,4.0,250.0,4
+1,1st Phase JP Nagar,1875.0,3.0,167.0,3
+2,1st Phase JP Nagar,1394.0,2.0,100.0,2
+3,1st Phase JP Nagar,1077.0,2.0,93.0,2
+4,1st Phase JP Nagar,1590.0,3.0,131.0,3
+5,1st Phase JP Nagar,2180.0,3.0,210.0,3
+6,1st Phase JP Nagar,2077.0,3.0,175.0,3
+7,1st Phase JP Nagar,1205.0,2.0,85.0,2
+8,1st Phase JP Nagar,2615.0,5.0,222.0,4
+9,5th Phase JP Nagar,1150.0,3.0,52.5,2
+11,5th Phase JP Nagar,600.0,1.0,30.0,1
+12,5th Phase JP Nagar,1000.0,2.0,48.0,2
+13,5th Phase JP Nagar,1350.0,2.0,75.0,3
+14,5th Phase JP Nagar,1030.0,2.0,57.0,2
+15,5th Phase JP Nagar,1190.0,2.0,61.8,2
+16,5th Phase JP Nagar,1080.0,2.0,53.0,2
+17,5th Phase JP Nagar,1041.0,2.0,54.0,2
+18,5th Phase JP Nagar,1450.0,2.0,73.0,3
+19,7th Phase JP Nagar,1080.0,2.0,72.0,2
+20,7th Phase JP Nagar,1270.0,2.0,93.0,2
+21,7th Phase JP Nagar,1420.0,2.0,100.0,3
+22,7th Phase JP Nagar,1245.0,2.0,94.0,2
+23,7th Phase JP Nagar,1175.0,2.0,82.0,2
+24,7th Phase JP Nagar,1400.0,2.0,95.0,3
+25,7th Phase JP Nagar,2225.0,3.0,160.0,3
+26,7th Phase JP Nagar,1050.0,2.0,71.0,2
+27,7th Phase JP Nagar,1450.0,2.0,100.0,3
+28,7th Phase JP Nagar,1420.0,2.0,96.0,3
+29,7th Phase JP Nagar,1680.0,3.0,120.0,3
+30,7th Phase JP Nagar,980.0,2.0,69.0,2
+31,7th Phase JP Nagar,1180.0,2.0,72.0,2
+33,7th Phase JP Nagar,1270.0,2.0,83.0,2
+34,7th Phase JP Nagar,2503.0,4.0,188.0,4
+36,7th Phase JP Nagar,1575.0,2.0,110.0,3
+37,7th Phase JP Nagar,1850.0,3.0,140.0,3
+38,7th Phase JP Nagar,1575.0,2.0,120.0,3
+39,7th Phase JP Nagar,1680.0,3.0,120.0,3
+40,7th Phase JP Nagar,1175.0,2.0,82.5,2
+41,7th Phase JP Nagar,1215.0,2.0,90.0,2
+42,7th Phase JP Nagar,1050.0,2.0,75.0,2
+43,7th Phase JP Nagar,1300.0,3.0,89.13,3
+44,7th Phase JP Nagar,1130.0,2.0,73.0,2
+45,7th Phase JP Nagar,1450.0,3.0,100.0,3
+46,7th Phase JP Nagar,1275.0,2.0,87.0,2
+48,7th Phase JP Nagar,1680.0,3.0,117.0,3
+49,7th Phase JP Nagar,1000.0,2.0,53.0,2
+50,7th Phase JP Nagar,1680.0,3.0,125.0,3
+51,7th Phase JP Nagar,1460.0,2.0,100.0,3
+53,7th Phase JP Nagar,1200.0,2.0,62.5,2
+54,7th Phase JP Nagar,1000.0,2.0,70.65,2
+55,7th Phase JP Nagar,1080.0,2.0,75.0,2
+56,7th Phase JP Nagar,1680.0,3.0,125.0,3
+58,7th Phase JP Nagar,1100.0,3.0,60.0,2
+60,7th Phase JP Nagar,1680.0,3.0,117.0,3
+61,7th Phase JP Nagar,1050.0,2.0,77.0,2
+62,7th Phase JP Nagar,1050.0,2.0,75.0,2
+63,7th Phase JP Nagar,1040.0,2.0,75.0,2
+64,7th Phase JP Nagar,1400.0,2.0,95.0,3
+65,7th Phase JP Nagar,1800.0,3.0,130.0,3
+66,7th Phase JP Nagar,1050.0,2.0,68.0,2
+67,7th Phase JP Nagar,1000.0,2.0,60.0,2
+68,7th Phase JP Nagar,1680.0,3.0,125.0,3
+69,7th Phase JP Nagar,1050.0,2.0,77.47,2
+70,7th Phase JP Nagar,1270.0,2.0,80.0,2
+71,7th Phase JP Nagar,1680.0,3.0,122.0,3
+72,7th Phase JP Nagar,1130.0,2.0,85.0,2
+73,7th Phase JP Nagar,1680.0,3.0,130.0,3
+74,7th Phase JP Nagar,980.0,2.0,77.44,2
+77,7th Phase JP Nagar,1976.0,3.0,145.0,3
+78,7th Phase JP Nagar,1600.0,2.0,110.0,3
+80,7th Phase JP Nagar,1450.0,2.0,102.0,3
+81,7th Phase JP Nagar,1575.0,2.0,110.0,3
+83,7th Phase JP Nagar,750.0,1.0,47.0,1
+84,7th Phase JP Nagar,1430.0,2.0,102.0,3
+85,7th Phase JP Nagar,1128.0,2.0,60.0,2
+86,8th Phase JP Nagar,1073.5,2.0,54.005,2
+87,8th Phase JP Nagar,451.0,1.0,29.9,1
+88,8th Phase JP Nagar,1062.0,2.0,42.47,2
+89,8th Phase JP Nagar,1455.0,3.0,73.31,3
+90,8th Phase JP Nagar,871.0,2.0,55.0,2
+91,8th Phase JP Nagar,1098.0,2.0,43.91,2
+92,8th Phase JP Nagar,1062.0,2.0,42.47,2
+93,8th Phase JP Nagar,500.0,1.0,31.0,1
+94,8th Phase JP Nagar,909.0,2.0,40.9,2
+95,8th Phase JP Nagar,1431.5,3.0,72.02,3
+96,8th Phase JP Nagar,500.0,1.0,30.0,1
+98,8th Phase JP Nagar,1504.0,2.0,83.0,3
+100,8th Phase JP Nagar,1089.0,2.0,43.55,2
+102,8th Phase JP Nagar,1513.0,2.0,62.0,2
+103,8th Phase JP Nagar,1006.0,2.0,44.0,2
+104,8th Phase JP Nagar,500.0,1.0,33.0,1
+105,8th Phase JP Nagar,1510.0,2.0,80.0,2
+107,8th Phase JP Nagar,1046.0,2.0,48.0,2
+109,8th Phase JP Nagar,1408.0,3.0,80.0,3
+111,9th Phase JP Nagar,1005.0,2.0,50.0,2
+113,9th Phase JP Nagar,1035.0,2.0,45.0,2
+114,9th Phase JP Nagar,1005.0,2.0,42.0,2
+115,9th Phase JP Nagar,1005.0,2.0,43.0,2
+116,9th Phase JP Nagar,835.0,2.0,37.0,2
+117,9th Phase JP Nagar,1466.0,2.0,71.0,2
+118,9th Phase JP Nagar,1480.0,2.0,80.0,2
+119,9th Phase JP Nagar,1073.0,2.0,52.36,2
+120,9th Phase JP Nagar,1719.3,2.0,88.0,3
+121,9th Phase JP Nagar,1780.0,3.0,88.0,3
+124,9th Phase JP Nagar,890.0,2.0,45.0,2
+125,9th Phase JP Nagar,1331.95,2.0,69.0,2
+126,AECS Layout,1199.0,2.0,65.0,2
+127,AECS Layout,1080.0,2.0,55.0,2
+128,AECS Layout,1123.0,2.0,64.0,2
+129,AECS Layout,1308.0,2.0,60.0,2
+130,AECS Layout,1005.0,2.0,55.0,2
+131,AECS Layout,2000.0,3.0,90.0,3
+132,Abbigere,985.0,2.0,40.39,2
+133,Abbigere,795.0,2.0,32.54,2
+134,Abbigere,1005.0,2.0,39.59,2
+136,Abbigere,1020.0,2.0,41.82,2
+137,Abbigere,985.0,2.0,40.39,2
+138,Abbigere,795.0,2.0,32.54,2
+139,Abbigere,1130.0,2.0,46.33,2
+140,Abbigere,795.0,1.0,32.6,2
+141,Abbigere,985.0,2.0,38.92,2
+142,Abbigere,1000.0,2.0,41.0,2
+143,Abbigere,995.0,2.0,40.8,2
+144,Abbigere,1020.0,2.0,40.8,2
+146,Akshaya Nagar,1897.0,3.0,120.0,3
+147,Akshaya Nagar,1410.0,2.0,80.0,3
+150,Akshaya Nagar,1430.0,2.0,75.0,3
+152,Akshaya Nagar,1092.0,2.0,60.0,2
+154,Akshaya Nagar,1884.0,3.0,98.0,3
+155,Akshaya Nagar,1314.0,2.0,68.8,2
+157,Akshaya Nagar,1265.0,2.0,67.0,2
+159,Akshaya Nagar,1420.0,2.0,75.0,3
+160,Akshaya Nagar,1412.0,2.0,88.0,3
+161,Akshaya Nagar,1434.0,3.0,84.0,3
+162,Akshaya Nagar,1419.0,2.0,87.0,3
+164,Akshaya Nagar,1100.0,2.0,48.0,2
+165,Akshaya Nagar,1896.0,3.0,102.0,3
+166,Akshaya Nagar,1300.0,2.0,66.0,2
+167,Akshaya Nagar,1225.0,2.0,68.0,2
+169,Akshaya Nagar,900.0,2.0,45.0,2
+170,Ambalipura,1105.0,2.0,75.0,2
+171,Ambalipura,1150.0,2.0,80.0,2
+172,Ambalipura,1332.0,2.0,79.0,2
+173,Ambalipura,1730.0,3.0,120.0,3
+174,Ambalipura,1351.0,2.0,77.0,2
+175,Ambalipura,2550.0,4.0,149.0,4
+176,Ambalipura,1625.0,2.0,145.0,3
+177,Ambalipura,1303.0,2.0,80.0,2
+178,Ambalipura,1607.0,2.0,112.0,3
+179,Ambalipura,1700.0,2.0,76.0,2
+180,Ambalipura,1607.0,2.0,112.0,3
+181,Ambedkar Nagar,1935.0,4.0,130.0,3
+182,Ambedkar Nagar,1424.0,2.0,90.0,2
+183,Ambedkar Nagar,2225.0,4.0,169.0,3
+184,Ambedkar Nagar,1850.0,4.0,139.0,3
+185,Ambedkar Nagar,1862.0,3.0,119.0,3
+186,Ambedkar Nagar,1424.0,2.0,90.0,2
+187,Ambedkar Nagar,2150.0,4.0,125.0,3
+188,Ambedkar Nagar,3530.0,4.0,290.0,4
+189,Ambedkar Nagar,1852.0,3.0,130.0,3
+190,Ambedkar Nagar,1850.0,4.0,120.0,3
+191,Ambedkar Nagar,1367.0,2.0,86.0,2
+192,Ambedkar Nagar,3565.0,4.0,255.0,4
+193,Ambedkar Nagar,1409.0,2.0,95.0,2
+194,Ambedkar Nagar,1950.0,4.0,120.0,3
+195,Ambedkar Nagar,1921.0,4.0,129.0,3
+196,Ambedkar Nagar,1935.0,4.0,125.0,3
+197,Ambedkar Nagar,1852.0,4.0,122.0,3
+198,Ambedkar Nagar,1950.0,4.0,120.0,3
+199,Ambedkar Nagar,1852.0,3.0,125.0,3
+200,Ambedkar Nagar,1850.0,4.0,121.0,3
+201,Ambedkar Nagar,1425.0,2.0,94.0,2
+202,Ambedkar Nagar,2395.0,4.0,150.0,3
+203,Anandapura,1167.0,2.0,43.76,2
+204,Anandapura,1141.0,2.0,42.79,2
+205,Anandapura,1576.0,3.0,59.1,3
+206,Anandapura,1151.0,2.0,43.1,2
+207,Anandapura,1141.0,2.0,42.75,2
+208,Anandapura,1151.0,2.0,42.9,2
+210,Anandapura,1250.0,2.0,45.0,2
+211,Anandapura,1151.0,2.0,43.16,2
+212,Anandapura,1576.0,3.0,58.7,3
+213,Ardendale,1750.0,3.0,100.0,3
+214,Ardendale,3198.0,4.0,200.0,4
+215,Ardendale,2422.0,4.0,160.0,4
+216,Ardendale,1750.0,3.0,100.0,3
+217,Ardendale,3200.0,4.0,205.0,4
+218,Ardendale,1728.0,3.0,95.0,3
+219,Ardendale,1732.46,3.0,92.0,3
+220,Ardendale,1224.0,2.0,70.0,2
+221,Ardendale,1777.26,3.0,105.0,3
+222,Ardendale,1650.0,3.0,82.0,3
+223,Ardendale,1650.0,3.0,82.0,3
+224,Ardendale,1224.0,2.0,67.0,2
+225,Ardendale,1723.0,3.0,95.0,3
+226,Ardendale,1777.26,3.0,89.0,3
+227,Ardendale,1777.26,3.0,92.0,3
+228,Attibele,450.0,1.0,11.0,1
+229,Attibele,1600.0,4.0,52.8,4
+230,Attibele,656.0,2.0,25.0,2
+231,Attibele,400.0,1.0,11.0,1
+232,Attibele,400.0,1.0,12.0,1
+233,Attibele,400.0,1.0,14.0,1
+234,Attibele,500.0,1.0,17.0,1
+235,Attibele,395.0,1.0,10.25,1
+236,Attibele,420.0,1.0,17.0,1
+238,Attibele,418.0,1.0,12.0,1
+239,Attibele,400.0,1.0,10.0,1
+240,Attibele,695.0,1.0,25.0,2
+241,Attibele,850.0,1.0,25.0,2
+242,Attibele,450.0,1.0,12.5,1
+246,Attibele,782.0,1.0,19.55,1
+248,Attibele,656.0,2.0,25.0,2
+249,Attibele,400.0,1.0,11.5,1
+250,Attibele,460.0,1.0,13.0,1
+251,Attibele,418.0,2.0,11.5,1
+252,Attibele,550.0,1.0,11.5,1
+254,Attibele,400.0,1.0,10.25,1
+255,Attibele,656.0,2.0,25.0,2
+256,Attibele,520.0,1.0,15.0,1
+257,BTM 2nd Stage,950.0,2.0,52.0,2
+258,BTM 2nd Stage,1200.0,2.0,80.0,2
+259,BTM 2nd Stage,1274.0,2.0,70.0,2
+260,BTM 2nd Stage,1070.0,2.0,48.0,2
+261,BTM 2nd Stage,1280.0,2.0,80.0,2
+262,BTM 2nd Stage,1100.0,2.0,70.0,2
+263,BTM 2nd Stage,1000.0,2.0,58.0,2
+264,BTM 2nd Stage,1265.0,2.0,55.0,2
+265,BTM 2nd Stage,965.0,2.0,56.0,2
+266,BTM 2nd Stage,1147.0,2.0,75.0,2
+267,BTM 2nd Stage,1400.0,2.0,90.0,2
+268,BTM 2nd Stage,1200.0,2.0,70.0,2
+270,Badavala Nagar,1494.0,2.0,94.55,3
+271,Badavala Nagar,1274.0,2.0,81.0,2
+272,Badavala Nagar,1842.0,3.0,115.0,3
+273,Badavala Nagar,1494.0,2.0,94.55,3
+274,Badavala Nagar,1274.0,2.0,81.0,2
+275,Badavala Nagar,1494.0,2.0,94.55,3
+276,Badavala Nagar,1842.0,3.0,115.0,3
+277,Badavala Nagar,1842.0,3.0,115.0,3
+278,Badavala Nagar,1842.0,3.0,115.0,3
+279,Balagere,1210.0,2.0,80.9,2
+280,Balagere,1205.0,2.0,78.5,2
+283,Balagere,1020.07,2.0,68.38,2
+284,Balagere,1205.47,2.0,81.0,2
+285,Balagere,1007.0,2.0,65.0,2
+288,Balagere,1210.0,2.0,83.0,2
+289,Balagere,675.0,1.0,45.0,1
+290,Balagere,656.0,1.0,43.0,1
+292,Balagere,1012.0,2.0,64.0,2
+293,Balagere,1007.0,2.0,62.0,2
+294,Balagere,1007.0,2.0,67.0,2
+295,Balagere,1007.0,2.0,66.0,2
+297,Balagere,790.5,1.0,42.295,1
+298,Balagere,1012.0,2.0,65.0,2
+299,Balagere,656.0,1.0,38.77,1
+300,Balagere,645.0,1.0,39.0,1
+301,Balagere,645.0,1.0,41.0,1
+302,Balagere,1210.0,2.0,82.0,2
+304,Balagere,1012.0,2.0,70.0,2
+305,Balagere,1007.0,2.0,68.0,2
+307,Balagere,1205.0,2.0,79.0,2
+308,Balagere,1012.0,2.0,68.0,2
+309,Banashankari,1300.0,2.0,75.0,3
+310,Banashankari,1800.0,3.0,115.0,3
+311,Banashankari,1125.0,2.0,63.0,2
+312,Banashankari,1310.0,2.0,80.0,2
+314,Banashankari,1260.0,2.0,75.0,2
+315,Banashankari,1350.0,2.0,83.0,3
+317,Banashankari,1700.0,3.0,125.0,3
+318,Banashankari,1390.0,2.0,86.0,2
+319,Banashankari,1460.0,2.0,70.0,2
+320,Banashankari,1200.0,2.0,60.0,2
+321,Banashankari,1290.0,2.0,80.0,2
+322,Banashankari,1186.0,2.0,65.0,2
+323,Banashankari,1650.0,3.0,101.0,3
+324,Banashankari,1330.0,2.0,77.0,2
+325,Banashankari,1185.0,2.0,67.0,2
+326,Banashankari,1650.0,3.0,101.0,3
+327,Banashankari,1310.0,2.0,80.43,2
+328,Banashankari,1430.0,2.0,87.8,2
+330,Banashankari,1800.0,3.0,125.0,3
+332,Banashankari,1770.0,3.0,108.0,3
+333,Banashankari,1800.0,3.0,125.0,3
+334,Banashankari,1100.0,2.0,63.0,2
+335,Banashankari,1260.0,2.0,75.0,2
+336,Banashankari,1426.0,3.0,85.0,3
+337,Bannerghatta Road,1050.0,2.0,65.0,2
+338,Bannerghatta Road,1170.0,2.0,66.0,3
+339,Bannerghatta Road,595.0,1.0,33.32,1
+340,Bannerghatta Road,1460.0,2.0,90.0,3
+342,Bannerghatta Road,1179.0,2.0,66.02,2
+343,Bannerghatta Road,1122.5,2.0,58.935,2
+344,Bannerghatta Road,1400.0,2.0,78.0,2
+345,Bannerghatta Road,1654.0,3.0,100.0,3
+347,Bannerghatta Road,1200.0,2.0,75.0,2
+349,Bannerghatta Road,595.0,1.0,31.83,1
+350,Bannerghatta Road,1255.0,2.0,65.26,2
+354,Bannerghatta Road,912.0,2.0,55.0,2
+355,Bannerghatta Road,1115.0,2.0,65.12,2
+356,Bannerghatta Road,1600.0,3.0,95.0,3
+357,Bannerghatta Road,1275.0,2.0,65.0,2
+358,Bannerghatta Road,892.0,2.0,39.0,2
+360,Bannerghatta Road,1260.0,2.0,70.0,2
+362,Bannerghatta Road,950.0,2.0,38.0,2
+363,Bannerghatta Road,1220.0,2.0,80.0,2
+364,Bannerghatta Road,1130.0,2.0,78.0,2
+365,Bannerghatta Road,1486.0,3.0,83.22,3
+367,Bannerghatta Road,1015.0,2.0,48.0,2
+368,Bannerghatta Road,1115.0,2.0,61.0,2
+369,Bannerghatta Road,1136.0,2.0,48.0,2
+370,Bannerghatta Road,1200.0,2.0,69.0,3
+372,Bannerghatta Road,1302.5,2.0,67.73,2
+373,Bannerghatta Road,1200.0,2.0,65.0,2
+374,Bannerghatta Road,1240.0,2.0,65.0,2
+376,Bannerghatta Road,1532.5,3.0,84.29,3
+377,Bannerghatta Road,1268.0,2.0,69.0,2
+378,Bannerghatta Road,1450.0,2.0,87.0,3
+379,Bannerghatta Road,960.0,2.0,58.0,2
+380,Bannerghatta Road,1275.0,2.0,73.0,2
+382,Bannerghatta Road,1215.0,2.0,68.0,2
+383,Bannerghatta Road,1215.0,2.0,68.0,2
+384,Bannerghatta Road,1894.0,3.0,115.0,3
+387,Bannerghatta Road,1280.0,2.0,60.16,2
+389,Bannerghatta Road,1215.0,2.0,68.0,2
+390,Bannerghatta Road,1365.0,3.0,76.18,3
+391,Bannerghatta Road,1115.0,2.0,78.0,2
+394,Bannerghatta Road,1655.0,3.0,90.0,3
+395,Bannerghatta Road,1247.0,2.0,47.39,2
+396,Bannerghatta Road,1237.5,2.0,49.49,2
+397,Bannerghatta Road,905.0,2.0,65.0,2
+398,Bannerghatta Road,2185.0,3.0,120.0,4
+399,Bannerghatta Road,1012.0,2.0,45.0,2
+401,Bannerghatta Road,1460.0,2.0,80.0,3
+402,Bannerghatta Road,1340.0,2.0,85.0,2
+404,Bannerghatta Road,1115.0,2.0,61.0,2
+405,Bannerghatta Road,1250.0,2.0,48.0,2
+406,Bannerghatta Road,1640.0,3.0,105.0,3
+410,Bannerghatta Road,1550.0,3.0,96.0,3
+411,Bannerghatta Road,1200.0,2.0,78.0,2
+413,Bannerghatta Road,700.0,1.0,31.2,1
+416,Bannerghatta Road,905.0,2.0,58.0,2
+418,Bannerghatta Road,1920.0,3.0,122.0,3
+420,Bannerghatta Road,1270.0,2.0,73.0,3
+421,Bannerghatta Road,1846.0,3.0,120.0,3
+422,Bannerghatta Road,1122.5,2.0,61.74,2
+423,Bannerghatta Road,1655.0,3.0,95.0,3
+424,Bannerghatta Road,1206.0,2.0,53.0,2
+425,Bannerghatta Road,1150.0,2.0,55.0,2
+426,Bannerghatta Road,1215.0,2.0,65.0,2
+427,Bannerghatta Road,1510.0,2.0,110.0,3
+428,Bannerghatta Road,1246.0,2.0,47.35,2
+429,Bannerghatta Road,1470.0,2.0,85.0,3
+430,Bannerghatta Road,970.0,2.0,57.0,2
+431,Battarahalli,1779.0,3.0,89.61,3
+432,Battarahalli,1945.0,3.0,97.42,3
+433,Battarahalli,1880.0,3.0,94.36,3
+434,Battarahalli,1636.0,2.0,82.89,2
+435,Battarahalli,1779.0,3.0,90.0,3
+436,Battarahalli,1516.0,3.0,65.0,3
+437,Battarahalli,2082.0,3.0,104.0,3
+438,Battarahalli,2024.0,3.0,103.0,3
+439,Battarahalli,1097.0,2.0,49.0,2
+441,Begur,1419.0,2.0,59.0,3
+442,Begur,1580.0,3.0,75.0,3
+443,Begur,1445.0,2.0,47.1,3
+444,Begur,1475.0,2.0,74.0,3
+445,Begur,3500.0,4.0,185.0,3
+446,Begur,1100.0,2.0,55.0,2
+447,Begur,1306.0,2.0,65.0,2
+448,Begur,1304.0,3.0,65.0,3
+449,Begur,1411.0,2.0,60.0,3
+450,Begur,815.0,2.0,40.0,2
+451,Begur,1443.0,2.0,70.0,3
+452,Begur Road,1200.0,2.0,44.0,2
+453,Begur Road,1200.0,2.0,46.8,2
+454,Begur Road,1160.0,2.0,44.0,2
+456,Begur Road,1615.0,3.0,59.76,3
+457,Begur Road,1200.0,2.0,43.2,2
+458,Begur Road,1160.0,2.0,44.08,2
+459,Begur Road,1200.0,2.0,45.0,2
+460,Begur Road,1410.0,2.0,53.0,3
+461,Begur Road,1260.0,2.0,46.62,2
+463,Begur Road,1500.0,2.0,70.0,3
+464,Begur Road,1160.0,2.0,42.0,2
+465,Begur Road,1200.0,2.0,45.0,2
+466,Begur Road,1500.0,2.0,55.0,3
+467,Begur Road,1410.0,2.0,52.17,3
+469,Begur Road,1583.0,3.0,74.4,3
+470,Begur Road,1170.0,2.0,46.0,2
+471,Begur Road,1160.0,2.0,42.92,2
+472,Begur Road,1410.0,2.0,52.17,3
+474,Begur Road,1565.0,2.0,59.76,3
+475,Begur Road,1160.0,2.0,42.0,2
+477,Begur Road,1410.0,2.0,53.58,3
+478,Begur Road,1200.0,2.0,42.6,2
+479,Begur Road,1160.0,2.0,42.0,2
+480,Begur Road,1334.0,2.0,42.69,2
+481,Begur Road,1565.0,2.0,57.91,3
+482,Begur Road,1200.0,2.0,45.6,2
+483,Begur Road,1215.0,2.0,43.13,2
+484,Begur Road,1160.0,2.0,36.54,2
+486,Begur Road,1200.0,2.0,44.4,2
+488,Begur Road,2464.5,6.0,118.0,4
+489,Begur Road,1160.0,2.0,44.0,2
+492,Begur Road,1200.0,2.0,42.0,2
+493,Begur Road,1240.0,2.0,45.88,2
+495,Begur Road,1200.0,2.0,44.0,2
+497,Begur Road,1100.0,2.0,42.6,2
+498,Begur Road,1565.0,2.0,57.91,3
+499,Begur Road,1200.0,2.0,44.4,2
+500,Begur Road,2500.0,6.0,122.5,4
+501,Begur Road,1160.0,2.0,36.54,2
+502,Begur Road,1215.0,2.0,43.75,2
+503,Begur Road,1200.0,2.0,44.73,2
+504,Begur Road,1410.0,2.0,54.99,3
+505,Bellandur,1250.0,2.0,76.0,2
+506,Bellandur,1000.0,2.0,50.0,2
+507,Bellandur,921.0,2.0,40.0,2
+509,Bellandur,1490.0,2.0,98.0,3
+512,Bellandur,1299.0,2.0,82.0,2
+513,Bellandur,900.0,2.0,56.0,2
+514,Bellandur,1457.0,2.0,85.0,2
+515,Bellandur,1050.0,2.0,72.0,2
+516,Bellandur,3600.0,4.0,260.0,4
+517,Bellandur,1310.0,2.0,72.0,2
+518,Bellandur,1785.0,3.0,118.0,3
+519,Bellandur,1051.0,2.0,60.0,2
+521,Bellandur,1685.0,3.0,100.0,3
+522,Bellandur,982.0,2.0,55.0,2
+523,Bellandur,1063.0,2.0,58.0,2
+524,Bellandur,1325.0,2.0,65.0,2
+525,Bellandur,1281.0,2.0,87.0,2
+526,Bellandur,1200.0,2.0,52.0,2
+527,Bellandur,1785.0,3.0,120.0,3
+528,Bellandur,1088.0,2.0,48.0,2
+529,Bellandur,1310.0,2.0,85.0,2
+530,Bellandur,1465.0,3.0,90.0,2
+531,Bellandur,1767.0,3.0,109.0,3
+532,Bellandur,1150.0,2.0,69.44,2
+533,Bellandur,1410.0,3.0,92.0,2
+534,Bellandur,1015.0,2.0,60.0,2
+536,Bellandur,1685.0,3.0,101.0,3
+537,Bellandur,1685.0,3.0,115.0,3
+538,Bellandur,1049.0,2.0,51.0,2
+541,Bellandur,1200.0,2.0,62.0,2
+545,Bellandur,960.0,2.0,48.0,2
+546,Bellandur,1690.0,2.0,116.0,3
+547,Bellandur,850.0,2.0,45.0,2
+548,Bellandur,1454.0,2.0,90.0,2
+550,Bellandur,1195.0,2.0,52.0,2
+552,Bellandur,1260.0,2.0,83.5,2
+553,Bellandur,1047.0,2.0,75.0,2
+554,Bharathi Nagar,1322.0,2.0,68.0,2
+555,Bharathi Nagar,1351.0,2.0,70.0,2
+556,Bharathi Nagar,1351.0,2.0,74.0,2
+557,Bharathi Nagar,1432.0,2.0,68.0,2
+558,Bharathi Nagar,1328.0,2.0,69.0,2
+559,Bhoganhalli,1670.0,3.0,99.0,3
+562,Bhoganhalli,1444.0,2.0,75.97,2
+563,Bhoganhalli,1447.0,2.0,75.97,2
+564,Bhoganhalli,1700.0,3.0,126.0,3
+565,Bhoganhalli,1447.0,2.0,75.97,2
+569,Bhoganhalli,1760.0,3.0,127.0,3
+571,Bhoganhalli,1447.0,2.0,75.97,2
+572,Bhoganhalli,1949.0,3.0,129.0,3
+573,Bhoganhalli,1760.0,3.0,128.0,3
+574,Bhoganhalli,1447.0,2.0,75.97,2
+575,Bhoganhalli,2439.0,4.0,185.0,4
+579,Bhoganhalli,1444.0,2.0,75.97,2
+580,Bhoganhalli,1205.0,2.0,64.47,2
+581,Bhoganhalli,1447.0,2.0,75.97,2
+582,Bhoganhalli,2439.0,5.0,170.0,4
+584,Bhoganhalli,1205.0,2.0,68.32,2
+585,Bhoganhalli,1260.0,2.0,69.9,2
+586,Bhoganhalli,2439.0,4.0,170.0,4
+587,Bhoganhalli,1707.0,3.0,115.0,3
+589,Bhoganhalli,970.0,2.0,52.5,2
+591,Bhoganhalli,1277.0,2.0,79.89,2
+593,Bhoganhalli,1703.0,3.0,120.0,3
+595,Billekahalli,1125.0,2.0,62.0,2
+596,Billekahalli,1090.0,2.0,52.0,2
+597,Billekahalli,1112.0,2.0,62.0,2
+598,Billekahalli,950.0,2.0,58.11,2
+599,Billekahalli,1360.0,2.0,110.0,2
+600,Billekahalli,1125.0,2.0,65.0,2
+601,Billekahalli,950.0,2.0,56.0,2
+602,Binny Pete,1755.0,3.0,122.0,3
+603,Binny Pete,665.0,1.0,50.75,1
+604,Binny Pete,2465.0,5.0,234.0,3
+605,Binny Pete,660.0,1.0,54.0,1
+606,Binny Pete,660.0,1.0,62.0,1
+607,Binny Pete,1365.0,2.0,122.0,2
+608,Binny Pete,2940.0,6.0,280.0,4
+609,Binny Pete,1795.0,3.0,139.0,3
+610,Binny Pete,1740.0,3.0,150.0,3
+611,Binny Pete,2406.0,5.0,289.0,3
+612,Binny Pete,1516.0,3.0,147.0,3
+613,Bisuvanahalli,1180.0,3.0,48.0,3
+617,Bisuvanahalli,1075.0,2.0,45.0,3
+619,Bisuvanahalli,845.0,2.0,33.0,2
+620,Bisuvanahalli,1075.0,2.0,45.0,3
+621,Bisuvanahalli,845.0,2.0,37.0,2
+624,Bisuvanahalli,845.0,2.0,29.0,2
+625,Bisuvanahalli,1075.0,2.0,47.0,3
+626,Bisuvanahalli,850.0,1.0,32.0,2
+627,Bisuvanahalli,1075.0,2.0,50.0,3
+628,Bisuvanahalli,1075.0,2.0,52.0,3
+629,Bisuvanahalli,1180.0,2.0,46.0,3
+630,Bisuvanahalli,1075.0,2.0,42.0,3
+631,Bisuvanahalli,845.0,2.0,37.0,2
+632,Bisuvanahalli,1075.0,2.0,43.0,3
+633,Bisuvanahalli,700.0,1.0,32.0,2
+634,Bisuvanahalli,1075.0,2.0,52.0,3
+635,Bisuvanahalli,1075.0,2.0,50.0,3
+637,Bisuvanahalli,845.0,2.0,33.0,2
+638,Bisuvanahalli,945.0,2.0,33.0,2
+639,Bisuvanahalli,845.0,2.0,30.0,2
+642,Bisuvanahalli,1075.0,2.0,43.0,3
+643,Bisuvanahalli,1080.0,2.0,45.0,3
+644,Bisuvanahalli,1180.0,2.0,55.5,3
+645,Bisuvanahalli,1075.0,2.0,47.0,3
+646,Bisuvanahalli,1075.0,2.0,48.0,3
+648,Bisuvanahalli,1075.0,2.0,45.0,3
+649,Bisuvanahalli,1075.0,2.0,44.0,3
+650,Bisuvanahalli,850.0,2.0,27.0,2
+651,Bisuvanahalli,1075.0,2.0,42.0,3
+652,Bisuvanahalli,845.0,2.0,32.0,2
+654,Bisuvanahalli,845.0,2.0,34.0,2
+656,Bommanahalli,910.0,2.0,45.0,2
+657,Bommanahalli,1050.0,2.0,46.0,2
+658,Bommanahalli,1100.0,1.0,55.0,2
+659,Bommanahalli,1350.0,2.0,72.0,2
+660,Bommanahalli,1020.0,2.0,55.0,2
+661,Bommanahalli,1355.0,2.0,73.17,2
+662,Bommanahalli,1160.0,2.0,53.0,2
+663,Bommanahalli,1050.0,2.0,54.0,2
+664,Bommasandra,1260.0,3.0,49.36,3
+665,Bommasandra,1200.0,3.0,46.0,3
+666,Bommasandra,1035.0,2.0,41.0,2
+667,Bommasandra,1035.0,2.0,41.73,2
+668,Bommasandra,1034.0,2.0,40.0,2
+669,Bommasandra,877.0,2.0,30.0,2
+670,Bommasandra,920.0,2.0,37.46,2
+671,Bommasandra,1035.0,2.0,41.43,2
+672,Bommasandra,1295.0,2.0,50.28,3
+673,Bommasandra,1015.0,2.0,40.0,2
+674,Bommasandra,1000.0,2.0,35.0,2
+675,Bommasandra,955.0,2.0,35.28,2
+676,Bommasandra,1005.0,2.0,39.77,2
+677,Bommasandra,1014.0,2.0,35.0,2
+678,Bommasandra,1020.0,2.0,40.89,2
+679,Bommasandra,920.0,2.0,37.2,2
+680,Bommasandra,800.0,1.0,32.0,2
+681,Bommasandra,1280.0,3.0,50.0,3
+682,Bommasandra,1127.0,2.0,45.0,2
+684,Bommasandra,877.0,2.0,29.0,2
+685,Bommasandra,1365.0,3.0,52.81,3
+686,Bommasandra,842.0,2.0,30.0,2
+687,Bommasandra,1260.0,3.0,49.36,3
+688,Bommasandra,1365.0,3.0,52.82,3
+689,Bommasandra,955.0,2.0,37.97,2
+690,Bommasandra,1089.0,2.0,40.0,2
+691,Bommasandra,1365.0,3.0,53.96,3
+692,Bommenahalli,1200.0,3.0,125.0,3
+693,Bommenahalli,1632.0,3.0,145.0,4
+694,Bommenahalli,1670.0,3.0,135.0,4
+695,Bommenahalli,1680.0,3.0,135.0,4
+696,Bommenahalli,1632.0,3.0,128.0,4
+697,Bommenahalli,3339.0,3.0,250.0,3
+698,Bommenahalli,1355.0,3.0,135.0,4
+699,Bommenahalli,1232.0,3.0,96.0,3
+700,Bommenahalli,1632.0,3.0,140.0,4
+701,Brookefield,1150.0,2.0,69.0,2
+702,Brookefield,1142.0,2.0,70.0,2
+705,Brookefield,1476.0,3.0,105.0,3
+706,Brookefield,1262.0,2.0,75.0,2
+707,Brookefield,1139.0,2.0,80.0,2
+708,Brookefield,1125.0,2.0,70.0,2
+709,Brookefield,1420.0,3.0,85.0,3
+711,Brookefield,941.0,2.0,48.0,2
+714,Brookefield,1100.0,2.0,55.0,2
+715,Brookefield,2400.0,3.0,140.0,4
+716,Brookefield,1225.0,2.0,66.5,2
+717,Brookefield,1080.0,2.0,50.0,2
+718,Brookefield,1200.0,2.0,75.0,2
+719,Brookefield,1089.0,2.0,49.0,2
+720,Brookefield,1130.0,2.0,56.0,2
+721,Brookefield,1270.0,2.0,95.0,2
+722,Brookefield,1706.0,3.0,115.0,3
+723,Brookefield,1389.0,2.0,94.0,2
+725,Brookefield,1225.0,2.0,72.0,2
+727,Brookefield,1746.0,3.0,115.0,3
+729,Brookefield,1382.0,2.0,84.5,2
+730,Brookefield,1260.0,2.0,70.0,2
+731,Budigere,1153.0,2.0,56.4,2
+732,Budigere,1162.0,2.0,59.9,2
+733,Budigere,1991.0,4.0,103.0,3
+734,Budigere,1153.0,2.0,57.0,2
+735,Budigere,1162.0,2.0,57.0,2
+736,Budigere,1139.0,2.0,56.8,2
+737,Budigere,1139.0,2.0,56.85,2
+738,Budigere,1991.0,4.0,100.0,3
+739,Budigere,664.0,1.0,35.0,1
+740,Budigere,1820.0,3.0,93.0,3
+741,Budigere,1636.0,3.0,85.0,3
+742,Budigere,1444.0,2.0,70.0,2
+743,Budigere,1139.0,2.0,60.0,2
+745,Budigere,1820.0,3.0,93.0,3
+747,Budigere,1162.0,2.0,58.0,2
+748,Budigere,1636.0,3.0,85.0,3
+749,Budigere,1087.0,2.0,54.3,2
+751,Budigere,664.0,1.0,35.4,1
+752,Budigere,1153.0,2.0,56.7,2
+754,Budigere,1139.0,2.0,56.5,2
+755,Budigere,1636.0,3.0,83.0,3
+756,Budigere,664.0,1.0,34.0,1
+758,Budigere,1162.0,2.0,58.0,2
+759,Budigere,1153.0,2.0,60.0,2
+760,Budigere,1820.0,3.0,99.0,3
+761,Budigere,1172.0,2.0,56.725,2
+764,Budigere,1820.0,3.0,95.0,3
+765,Budigere,1991.0,4.0,100.0,3
+766,Budigere,1820.0,3.0,95.5,3
+767,Budigere,1153.0,2.0,56.0,2
+768,Budigere,705.0,1.0,34.545,1
+769,Budigere,1153.0,2.0,56.5,2
+770,Budigere,1153.0,2.0,58.0,2
+771,Budigere,1636.0,3.0,88.0,3
+772,Budigere,1153.0,2.0,56.55,2
+773,Budigere,1153.0,2.0,56.5,2
+774,Budigere,1153.0,2.0,60.0,2
+775,CV Raman Nagar,1120.0,2.0,55.0,2
+776,CV Raman Nagar,740.0,2.0,37.0,2
+777,CV Raman Nagar,1392.0,2.0,98.0,2
+778,CV Raman Nagar,1825.0,3.0,126.0,3
+779,CV Raman Nagar,1025.0,2.0,50.0,2
+780,CV Raman Nagar,1198.0,2.0,60.0,2
+781,CV Raman Nagar,1560.0,2.0,85.0,2
+783,CV Raman Nagar,1100.0,2.0,58.0,2
+784,CV Raman Nagar,1051.0,2.0,61.0,2
+785,CV Raman Nagar,1020.0,2.0,55.0,2
+786,CV Raman Nagar,1285.0,2.0,65.0,2
+787,CV Raman Nagar,1040.0,2.0,50.0,2
+788,CV Raman Nagar,1392.0,2.0,95.0,2
+789,CV Raman Nagar,705.0,2.0,50.0,1
+790,Chandapura,650.0,1.0,17.0,2
+791,Chandapura,645.0,1.0,16.45,1
+792,Chandapura,645.0,1.0,16.45,1
+794,Chandapura,1015.0,2.0,25.88,2
+795,Chandapura,530.0,1.0,11.66,1
+797,Chandapura,1025.0,2.0,27.68,2
+798,Chandapura,582.5,1.0,15.135,1
+799,Chandapura,1015.0,2.0,25.88,2
+801,Chandapura,1065.0,2.0,33.0,3
+803,Chandapura,590.0,1.0,13.57,1
+804,Chandapura,645.0,1.0,16.45,1
+805,Chandapura,630.0,1.0,13.86,1
+807,Chandapura,1015.0,2.0,25.88,2
+808,Chandapura,520.0,1.0,14.04,1
+809,Chandapura,975.0,2.0,24.86,2
+810,Chandapura,645.0,1.0,16.45,1
+811,Chandapura,985.0,2.0,25.12,2
+812,Chandapura,645.0,1.0,16.45,1
+813,Chandapura,975.0,2.0,24.86,2
+814,Chandapura,700.0,1.0,19.0,2
+816,Chandapura,1095.0,2.0,32.0,3
+817,Chandapura,1208.51,3.0,42.0,3
+818,Chandapura,876.0,2.0,29.5,2
+819,Chandapura,645.0,1.0,16.45,1
+820,Chandapura,1505.0,2.0,42.0,3
+821,Chandapura,645.0,1.0,16.45,1
+822,Chandapura,937.0,2.0,30.0,2
+823,Chandapura,1025.0,2.0,27.68,2
+824,Chandapura,975.0,2.0,24.86,2
+825,Chandapura,800.0,2.0,25.0,2
+826,Chandapura,645.0,1.0,16.45,1
+827,Chandapura,778.0,2.0,25.29,2
+829,Chandapura,950.0,2.0,25.65,2
+830,Chandapura,645.0,1.0,16.45,1
+836,Chandapura,985.0,2.0,25.12,2
+838,Chandapura,1025.0,2.0,27.68,2
+840,Chandapura,1015.0,2.0,25.88,2
+841,Chandapura,1345.0,2.0,39.5,3
+842,Chandapura,1015.0,2.0,25.88,2
+844,Chandapura,975.0,2.0,24.86,2
+845,Chandapura,520.0,1.0,14.04,1
+848,Chandapura,1323.0,2.0,42.0,3
+849,Chandapura,985.0,2.0,25.12,2
+850,Chandapura,645.0,1.0,16.45,1
+851,Chandapura,645.0,1.0,16.45,1
+852,Chandapura,740.0,1.0,22.0,2
+853,Chandapura,876.0,2.0,28.47,2
+855,Chandapura,520.0,1.0,14.04,1
+856,Channasandra,1340.0,2.0,48.33,3
+857,Channasandra,1009.0,2.0,38.34,2
+858,Channasandra,1065.0,2.0,35.0,2
+859,Channasandra,1115.0,2.0,33.45,2
+860,Channasandra,1030.0,2.0,34.5,2
+861,Channasandra,1104.0,2.0,35.5,2
+862,Channasandra,1065.0,2.0,40.47,2
+863,Channasandra,1310.0,2.0,45.0,3
+864,Channasandra,1050.0,2.0,35.0,2
+865,Channasandra,1093.0,2.0,34.0,2
+866,Channasandra,1123.0,2.0,36.0,2
+867,Channasandra,1000.0,2.0,35.0,2
+868,Channasandra,1093.0,2.0,37.0,2
+869,Channasandra,1115.0,2.0,35.8,2
+870,Channasandra,1065.0,2.0,36.0,2
+871,Channasandra,1050.0,2.0,44.41,2
+872,Channasandra,1010.0,2.0,32.0,2
+873,Chikka Tirupathi,2600.0,5.0,120.0,4
+874,Chikka Tirupathi,1808.0,4.0,80.27,3
+875,Chikka Tirupathi,3297.0,3.0,135.0,3
+876,Chikka Tirupathi,3500.0,5.0,150.0,4
+877,Chikka Tirupathi,2704.0,5.0,105.0,4
+878,Chikka Tirupathi,3250.0,4.0,136.0,4
+879,Chikka Tirupathi,2665.0,5.0,125.0,4
+880,Choodasandra,1115.0,2.0,50.0,2
+881,Choodasandra,1300.0,2.0,57.0,2
+882,Choodasandra,1530.0,3.0,77.0,3
+885,Choodasandra,1197.0,2.0,63.0,2
+886,Choodasandra,1465.0,3.0,75.0,3
+887,Choodasandra,1115.0,2.0,50.0,2
+888,Choodasandra,1215.0,2.0,59.0,2
+889,Choodasandra,1254.0,2.0,65.0,3
+890,Choodasandra,725.0,2.0,36.0,2
+892,Choodasandra,1075.0,2.0,45.0,2
+893,Choodasandra,1180.0,2.0,71.22,2
+894,Choodasandra,1140.0,2.0,62.0,2
+896,Choodasandra,1560.0,3.0,78.0,3
+897,Choodasandra,1065.0,2.0,46.0,2
+898,Choodasandra,1115.0,2.0,50.0,2
+900,Choodasandra,1115.0,2.0,50.0,2
+901,Dasanapura,708.0,2.0,37.0,2
+902,Dasanapura,708.0,1.0,40.0,2
+903,Dasanapura,1286.0,3.0,61.44,3
+904,Dasanapura,814.0,2.0,42.0,2
+905,Dasanapura,1163.0,2.0,65.0,2
+906,Dasanapura,1286.0,2.0,68.0,3
+907,Dasanapura,708.0,1.0,41.0,1
+908,Dasanapura,814.0,2.0,43.7,2
+909,Dasarahalli,1295.0,2.0,65.0,2
+910,Dasarahalli,1520.0,2.0,75.0,3
+911,Dasarahalli,1150.0,2.0,70.0,2
+912,Dasarahalli,2100.0,3.0,120.0,3
+913,Dasarahalli,1333.0,2.0,78.56,2
+914,Dasarahalli,1220.0,2.0,62.0,2
+915,Devanahalli,1260.0,2.0,66.78,2
+916,Devanahalli,1282.0,2.0,68.52,3
+917,Devanahalli,1360.0,2.0,65.0,2
+918,Devanahalli,1010.0,2.0,51.0,2
+919,Devanahalli,1080.0,2.0,53.35,2
+920,Devanahalli,1080.0,2.0,44.0,2
+922,Devanahalli,1174.0,2.0,59.0,2
+923,Devanahalli,658.0,1.0,34.0,1
+924,Devanahalli,658.0,1.0,26.91,1
+925,Devanahalli,698.5,1.0,28.57,1
+926,Devanahalli,1080.0,2.0,52.0,2
+927,Devanahalli,1700.0,3.0,88.2,3
+928,Devanahalli,1498.0,3.0,79.15,3
+929,Devanahalli,1466.0,3.0,77.59,3
+930,Devanahalli,1020.0,2.0,49.87,1
+932,Devanahalli,1340.0,2.0,65.0,2
+933,Devanahalli,1230.0,2.0,56.45,2
+934,Devanahalli,1360.0,2.0,62.425,2
+935,Devanahalli,658.0,1.0,26.91,1
+937,Devanahalli,1010.0,2.0,58.0,2
+940,Dodda Nekkundi,1260.0,2.0,55.0,2
+941,Dodda Nekkundi,850.0,2.0,28.0,2
+942,Dodda Nekkundi,1080.0,2.0,50.0,2
+943,Dodda Nekkundi,1252.0,2.0,71.0,3
+944,Dodda Nekkundi,1145.0,2.0,46.5,2
+945,Dodda Nekkundi,1135.0,2.0,58.0,2
+946,Dodda Nekkundi,1200.0,2.0,71.0,2
+947,Dodda Nekkundi,1585.0,2.0,79.0,3
+948,Dodda Nekkundi,1005.0,2.0,45.0,2
+949,Doddathoguru,970.0,2.0,33.0,2
+950,Doddathoguru,1030.0,2.0,42.0,2
+951,Doddathoguru,1549.0,3.0,65.0,3
+952,Doddathoguru,1015.0,2.0,33.5,2
+953,Doddathoguru,1104.0,2.0,39.0,2
+954,Doddathoguru,915.0,2.0,32.0,2
+955,Doddathoguru,1595.0,3.0,62.0,3
+956,Doddathoguru,855.0,2.0,32.0,2
+957,Doddathoguru,925.0,2.0,30.0,2
+958,Doddathoguru,1208.0,3.0,45.0,3
+959,Doddathoguru,940.0,2.0,32.9,2
+960,Doddathoguru,1107.0,2.0,44.0,2
+961,Doddathoguru,907.0,2.0,40.0,2
+962,Domlur,1875.0,2.0,150.0,3
+963,Domlur,640.0,1.0,55.0,1
+964,Domlur,1050.0,2.0,85.0,2
+965,Domlur,1800.0,3.0,150.0,3
+966,Domlur,1950.0,3.0,165.0,3
+967,Domlur,780.0,1.0,70.0,1
+968,Domlur,1695.0,3.0,125.0,3
+969,Domlur,1246.0,2.0,95.0,2
+970,Domlur,2100.0,3.0,145.0,3
+971,EPIP Zone,1499.0,5.0,102.0,3
+972,EPIP Zone,2330.0,3.0,162.0,3
+973,EPIP Zone,1330.0,2.0,92.5,2
+974,EPIP Zone,1330.0,2.0,86.98,2
+975,EPIP Zone,1330.0,2.0,93.36,2
+977,EPIP Zone,1500.0,3.0,102.0,3
+978,EPIP Zone,1125.0,2.0,65.0,2
+979,EPIP Zone,1734.0,3.0,125.0,3
+981,EPIP Zone,1343.0,2.0,86.0,2
+982,EPIP Zone,2350.0,4.0,163.0,3
+983,EPIP Zone,1860.0,3.0,130.0,3
+984,EPIP Zone,2210.0,3.0,165.0,3
+985,EPIP Zone,2710.0,3.0,177.0,3
+991,Electronic City,1060.0,2.0,60.0,2
+992,Electronic City,1152.0,2.0,64.5,2
+997,Electronic City,589.0,1.0,27.0,1
+1000,Electronic City,1108.0,2.0,63.0,2
+1001,Electronic City,1128.0,2.0,65.0,2
+1002,Electronic City,1800.0,3.0,95.0,3
+1003,Electronic City,630.0,1.0,34.65,1
+1004,Electronic City,1128.0,2.0,63.0,2
+1005,Electronic City,1599.0,3.0,99.0,3
+1009,Electronic City,1128.0,2.0,68.75,2
+1010,Electronic City,1342.0,2.0,73.3,2
+1011,Electronic City,1360.0,2.0,71.0,3
+1014,Electronic City,1691.0,2.0,102.0,3
+1015,Electronic City,1128.0,2.0,65.49,2
+1017,Electronic City,1070.0,2.0,56.1,2
+1019,Electronic City,1128.0,2.0,65.65,2
+1023,Electronic City,1360.0,2.0,75.0,3
+1025,Electronic City,1128.0,2.0,64.0,2
+1027,Electronic City,1571.0,3.0,89.0,3
+1029,Electronic City,630.0,1.0,47.0,1
+1031,Electronic City,1374.0,2.0,72.0,3
+1033,Electronic City,1128.0,2.0,65.35,2
+1034,Electronic City,1128.0,2.0,65.0,2
+1038,Electronic City,1563.0,3.0,91.84,3
+1045,Electronic City,1128.0,2.0,68.0,2
+1046,Electronic City,1360.0,2.0,70.5,3
+1047,Electronic City,1571.0,3.0,105.0,3
+1050,Electronic City,1600.0,3.0,104.0,3
+1051,Electronic City,1500.0,2.0,100.0,3
+1054,Electronic City,1152.0,2.0,65.0,2
+1055,Electronic City,1070.0,2.0,60.0,2
+1056,Electronic City,1128.0,2.0,65.5,2
+1058,Electronic City,1152.0,2.0,65.75,2
+1061,Electronic City,1060.0,2.0,58.0,2
+1062,Electronic City,1025.0,2.0,54.1,2
+1066,Electronic City,1500.0,2.0,78.0,3
+1068,Electronic City,1575.0,3.0,90.0,3
+1069,Electronic City,435.0,1.0,19.5,1
+1070,Electronic City,1449.0,3.0,100.0,3
+1073,Electronic City,1575.0,3.0,101.0,3
+1076,Electronic City,1500.0,2.0,78.25,3
+1077,Electronic City,1363.0,2.0,79.0,2
+1079,Electronic City,1108.0,2.0,67.15,2
+1080,Electronic City,1128.0,2.0,65.7,2
+1085,Electronic City,1449.0,3.0,90.0,3
+1086,Electronic City,1070.0,2.0,58.0,2
+1088,Electronic City,1500.0,2.0,75.0,3
+1091,Electronic City,630.0,1.0,47.0,1
+1094,Electronic City,1073.0,2.0,60.0,2
+1095,Electronic City,1500.0,2.0,78.0,3
+1098,Electronic City,1140.0,2.0,70.93,2
+1102,Electronic City,2093.0,4.0,104.0,4
+1103,Electronic City,1025.0,2.0,53.9,2
+1104,Electronic City,940.0,2.0,54.0,2
+1105,Electronic City,435.0,1.0,21.0,1
+1106,Electronic City,1500.0,2.0,77.5,3
+1107,Electronic City,1631.0,3.0,80.0,3
+1110,Electronic City,435.0,1.0,22.0,1
+1115,Electronic City,1128.0,2.0,64.0,2
+1117,Electronic City,530.0,1.0,13.5,1
+1119,Electronic City,1571.0,3.0,83.0,3
+1121,Electronic City,1350.0,3.0,66.0,3
+1122,Electronic City,1652.0,3.0,110.0,3
+1124,Electronic City,1128.0,2.0,65.58,2
+1125,Electronic City,1355.0,2.0,97.6,2
+1126,Electronic City,635.0,1.0,28.0,1
+1127,Electronic City,1128.0,2.0,65.4,2
+1130,Electronic City,1355.0,2.0,72.9,2
+1132,Electronic City,1609.0,3.0,115.0,3
+1138,Electronic City,1108.0,2.0,63.0,2
+1139,Electronic City,630.0,1.0,40.5,1
+1142,Electronic City,605.0,1.0,22.0,1
+1146,Electronic City,1360.0,2.0,70.0,3
+1147,Electronic City,635.0,1.0,28.0,1
+1148,Electronic City,1128.0,2.0,65.45,2
+1154,Electronic City,630.0,1.0,46.0,1
+1155,Electronic City,630.0,1.0,33.7,1
+1159,Electronic City,1258.0,2.0,85.5,2
+1160,Electronic City,1386.0,2.0,85.0,2
+1161,Electronic City,550.0,1.0,27.0,1
+1164,Electronic City,1342.0,2.0,72.0,2
+1165,Electronic City,1275.0,3.0,70.0,3
+1169,Electronic City,1644.0,3.0,92.59,3
+1171,Electronic City,1128.0,2.0,64.8,2
+1173,Electronic City,710.0,1.0,40.42,1
+1175,Electronic City,1275.0,3.0,63.43,3
+1176,Electronic City,1518.0,3.0,75.0,3
+1178,Electronic City,1353.0,2.0,75.0,2
+1179,Electronic City,1128.0,2.0,67.0,2
+1180,Electronic City,1070.0,2.0,57.0,2
+1181,Electronic City,1700.0,3.0,90.0,3
+1184,Electronic City,1070.0,2.0,60.0,2
+1187,Electronic City,1615.0,3.0,97.0,3
+1188,Electronic City,1221.0,2.0,68.0,2
+1191,Electronic City,1342.0,2.0,90.0,2
+1192,Electronic City,1128.0,2.0,63.5,2
+1193,Electronic City,589.0,1.0,29.0,1
+1195,Electronic City,1575.0,3.0,94.5,3
+1197,Electronic City,1025.0,2.0,54.0,2
+1198,Electronic City,1500.0,2.0,70.0,3
+1200,Electronic City,2093.0,4.0,134.0,4
+1202,Electronic City,1355.0,2.0,73.0,2
+1203,Electronic City,1360.0,2.0,64.99,3
+1205,Electronic City Phase II,1056.0,2.0,39.07,2
+1206,Electronic City Phase II,1020.0,2.0,30.6,2
+1207,Electronic City Phase II,1069.0,2.0,45.0,2
+1208,Electronic City Phase II,630.0,1.0,28.35,1
+1210,Electronic City Phase II,1090.0,2.0,28.34,2
+1211,Electronic City Phase II,2225.0,4.0,98.88,4
+1213,Electronic City Phase II,1266.0,2.0,59.0,2
+1214,Electronic City Phase II,1000.0,2.0,28.88,2
+1217,Electronic City Phase II,972.0,2.0,44.0,2
+1218,Electronic City Phase II,1003.0,2.0,40.6,2
+1220,Electronic City Phase II,1395.0,2.0,62.78,3
+1221,Electronic City Phase II,1160.0,2.0,33.5,2
+1222,Electronic City Phase II,1065.0,2.0,30.75,2
+1224,Electronic City Phase II,1000.0,2.0,28.88,2
+1226,Electronic City Phase II,900.0,2.0,32.5,2
+1229,Electronic City Phase II,1418.0,3.0,52.47,3
+1230,Electronic City Phase II,1070.0,2.0,45.0,2
+1232,Electronic City Phase II,1140.0,2.0,33.06,2
+1233,Electronic City Phase II,1089.0,2.0,32.67,2
+1235,Electronic City Phase II,1160.0,2.0,33.5,2
+1236,Electronic City Phase II,975.0,2.0,45.0,3
+1237,Electronic City Phase II,1116.0,2.0,37.0,2
+1238,Electronic City Phase II,1125.0,2.0,29.25,2
+1239,Electronic City Phase II,1000.0,2.0,28.88,2
+1240,Electronic City Phase II,1000.0,2.0,28.88,2
+1241,Electronic City Phase II,1000.0,2.0,28.88,2
+1242,Electronic City Phase II,1165.0,2.0,30.29,2
+1244,Electronic City Phase II,1065.0,2.0,30.88,2
+1247,Electronic City Phase II,920.0,2.0,26.0,2
+1248,Electronic City Phase II,1140.0,2.0,33.84,2
+1249,Electronic City Phase II,1125.0,2.0,32.49,2
+1252,Electronic City Phase II,1140.0,2.0,32.92,2
+1253,Electronic City Phase II,1116.0,2.0,40.0,2
+1254,Electronic City Phase II,1150.0,3.0,46.0,3
+1255,Electronic City Phase II,1502.0,3.0,50.0,3
+1256,Electronic City Phase II,1020.0,2.0,32.0,2
+1257,Electronic City Phase II,1020.0,2.0,27.43,2
+1258,Electronic City Phase II,1025.0,2.0,26.65,2
+1259,Electronic City Phase II,1020.0,2.0,29.45,2
+1260,Electronic City Phase II,1000.0,2.0,28.88,2
+1262,Electronic City Phase II,1125.0,2.0,32.49,2
+1263,Electronic City Phase II,1200.0,2.0,34.65,2
+1264,Electronic City Phase II,1160.0,2.0,52.2,2
+1265,Electronic City Phase II,1244.0,2.0,55.0,2
+1266,Electronic City Phase II,1160.0,2.0,33.51,2
+1269,Electronic City Phase II,972.0,2.0,40.0,2
+1270,Electronic City Phase II,1160.0,2.0,33.51,2
+1272,Electronic City Phase II,1090.0,2.0,31.48,2
+1273,Electronic City Phase II,1140.0,2.0,32.92,2
+1274,Electronic City Phase II,1160.0,2.0,33.5,2
+1275,Electronic City Phase II,1025.0,2.0,29.6,2
+1277,Electronic City Phase II,1125.0,2.0,32.63,2
+1278,Electronic City Phase II,1140.0,2.0,34.0,2
+1281,Electronic City Phase II,1135.0,2.0,46.0,2
+1282,Electronic City Phase II,1165.0,2.0,33.64,2
+1284,Electronic City Phase II,1336.0,2.0,50.35,3
+1285,Electronic City Phase II,1065.0,2.0,30.76,2
+1286,Electronic City Phase II,1065.0,2.0,30.75,2
+1287,Electronic City Phase II,1140.0,2.0,33.06,2
+1288,Electronic City Phase II,1200.0,2.0,34.65,2
+1291,Electronics City Phase 1,1475.0,3.0,78.29,3
+1292,Electronics City Phase 1,1490.0,3.0,78.8,3
+1293,Electronics City Phase 1,1113.27,2.0,53.0,2
+1294,Electronics City Phase 1,1490.0,3.0,84.0,3
+1295,Electronics City Phase 1,1175.0,2.0,51.47,2
+1297,Electronics City Phase 1,1015.0,2.0,56.0,2
+1299,Electronics City Phase 1,1515.0,2.0,80.91,3
+1300,Electronics City Phase 1,1555.0,2.0,82.0,3
+1301,Electronics City Phase 1,1340.0,2.0,75.0,2
+1303,Electronics City Phase 1,1175.0,2.0,57.0,2
+1304,Electronics City Phase 1,755.0,1.0,42.41,1
+1305,Electronics City Phase 1,580.0,1.0,27.0,1
+1306,Electronics City Phase 1,940.0,2.0,49.0,2
+1307,Electronics City Phase 1,1335.0,2.0,67.0,2
+1308,Electronics City Phase 1,1175.0,2.0,69.0,2
+1309,Electronics City Phase 1,1113.12,2.0,55.0,2
+1310,Electronics City Phase 1,635.0,1.0,26.0,1
+1311,Electronics City Phase 1,1190.0,2.0,68.0,2
+1312,Electronics City Phase 1,1085.0,2.0,46.0,2
+1314,Electronics City Phase 1,1175.0,2.0,64.98,2
+1315,Electronics City Phase 1,1200.0,2.0,59.76,2
+1316,Electronics City Phase 1,1145.0,2.0,54.0,2
+1317,Electronics City Phase 1,1125.0,2.0,65.0,2
+1318,Electronics City Phase 1,1550.0,2.0,82.0,3
+1319,Electronics City Phase 1,1175.0,2.0,50.0,2
+1323,Electronics City Phase 1,1314.0,2.0,60.0,2
+1324,Electronics City Phase 1,1170.0,2.0,62.0,2
+1325,Electronics City Phase 1,1450.0,3.0,79.0,3
+1326,Electronics City Phase 1,1080.0,2.0,46.0,2
+1327,Electronics City Phase 1,1205.0,2.0,60.0,2
+1328,Electronics City Phase 1,1305.0,2.0,67.0,2
+1329,Electronics City Phase 1,755.0,1.0,30.12,1
+1330,Electronics City Phase 1,1175.0,2.0,60.0,2
+1331,Frazer Town,1700.0,3.0,180.0,3
+1332,Frazer Town,1870.0,3.0,185.0,3
+1333,Frazer Town,1750.0,3.0,150.0,3
+1335,Frazer Town,3500.0,4.0,330.0,3
+1336,Frazer Town,1550.0,2.0,140.0,2
+1337,Frazer Town,1900.0,4.0,145.0,3
+1338,Frazer Town,2560.0,3.0,265.0,3
+1340,Frazer Town,1315.0,2.0,140.0,2
+1341,Frazer Town,3435.0,2.0,341.0,4
+1342,Frazer Town,5400.0,3.0,400.0,3
+1343,Frazer Town,1870.0,3.0,180.0,3
+1344,Frazer Town,1420.0,2.0,120.0,2
+1345,Gollarapalya Hosahalli,861.0,2.0,34.5,2
+1346,Gollarapalya Hosahalli,1408.0,3.0,62.0,3
+1347,Gollarapalya Hosahalli,861.0,2.0,34.5,2
+1348,Gollarapalya Hosahalli,1318.0,3.0,54.0,3
+1349,Gollarapalya Hosahalli,861.0,2.0,36.5,2
+1350,Gollarapalya Hosahalli,1320.0,3.0,60.0,3
+1351,Gollarapalya Hosahalli,1345.0,3.0,60.0,3
+1352,Gollarapalya Hosahalli,1318.0,3.0,56.0,3
+1353,Gollarapalya Hosahalli,1129.0,2.0,50.0,2
+1354,Gottigere,1618.0,3.0,82.5,3
+1355,Gottigere,1222.0,2.0,63.0,2
+1356,Gottigere,1153.0,2.0,48.5,2
+1357,Gottigere,1460.0,2.0,65.0,3
+1358,Gottigere,1500.0,3.0,70.0,3
+1359,Gottigere,1621.0,3.0,72.0,3
+1360,Gottigere,990.0,2.0,40.0,2
+1361,Gottigere,1235.0,2.0,63.0,2
+1362,Gottigere,1385.0,3.0,64.0,3
+1363,Gottigere,1000.0,2.0,35.0,2
+1364,Gottigere,1010.0,2.0,35.0,2
+1367,Gottigere,945.0,2.0,45.0,2
+1369,Gottigere,1120.0,2.0,50.0,2
+1371,Gottigere,1205.0,2.0,56.58,2
+1372,Gottigere,1613.0,3.0,72.0,3
+1373,Gottigere,1245.0,2.0,59.0,2
+1374,Gottigere,1200.0,2.0,50.0,2
+1375,Green Glen Layout,1670.0,3.0,120.0,3
+1376,Green Glen Layout,1776.42,3.0,105.0,3
+1377,Green Glen Layout,940.0,2.0,56.8,2
+1378,Green Glen Layout,1075.0,2.0,60.0,2
+1379,Green Glen Layout,1715.0,3.0,115.0,3
+1380,Green Glen Layout,1751.0,2.0,115.0,3
+1381,Green Glen Layout,1530.0,3.0,105.0,3
+1382,Green Glen Layout,1752.0,3.0,105.0,3
+1383,Green Glen Layout,1680.0,4.0,95.0,3
+1384,Green Glen Layout,1728.0,3.0,125.0,3
+1385,Green Glen Layout,1645.0,3.0,110.0,3
+1386,Green Glen Layout,1517.0,3.0,100.0,3
+1387,Green Glen Layout,1750.0,3.0,120.0,3
+1388,Green Glen Layout,1751.0,3.0,115.0,3
+1389,Green Glen Layout,1750.0,3.0,105.0,3
+1390,Green Glen Layout,1885.0,3.0,135.0,3
+1391,Green Glen Layout,1715.0,3.0,120.0,3
+1392,Green Glen Layout,1623.29,2.0,105.0,3
+1393,Green Glen Layout,1715.0,3.0,115.0,3
+1394,Green Glen Layout,1715.0,3.0,105.0,3
+1395,Green Glen Layout,1600.0,3.0,105.0,3
+1396,Green Glen Layout,1717.0,3.0,125.0,3
+1397,Green Glen Layout,1715.0,3.0,112.0,3
+1398,Gubbalala,1470.0,2.0,82.0,3
+1399,Gubbalala,1745.0,3.0,125.0,3
+1400,Gubbalala,1745.0,3.0,104.0,3
+1401,Gubbalala,1745.0,3.0,115.0,3
+1402,Gubbalala,1745.0,3.0,110.0,3
+1403,Gubbalala,1205.0,2.0,70.0,2
+1404,Gubbalala,1435.0,2.0,80.0,3
+1405,Gubbalala,1475.0,2.0,80.0,2
+1406,Gubbalala,2000.0,3.0,125.0,3
+1407,Gubbalala,1285.0,2.0,90.0,2
+1408,Gunjur,1140.0,2.0,43.0,2
+1409,Gunjur,1600.0,3.0,75.0,3
+1410,Gunjur,1140.0,2.0,49.11,2
+1411,Gunjur,1195.0,2.0,44.0,2
+1412,Gunjur,1457.0,2.0,60.0,2
+1413,Gunjur,1080.0,2.0,41.0,2
+1416,Gunjur,1175.0,2.0,43.48,2
+1417,Gunjur,1362.0,3.0,62.63,3
+1418,Gunjur,1063.0,2.0,40.0,2
+1419,Gunjur,1235.0,2.0,52.76,2
+1420,Gunjur,1362.0,3.0,62.63,3
+1421,Gunjur,1362.0,3.0,62.63,3
+1422,Gunjur,1457.0,2.0,60.0,2
+1424,HSR Layout,1372.0,2.0,68.0,2
+1425,HSR Layout,1140.0,2.0,46.0,2
+1426,HSR Layout,1372.0,2.0,61.0,2
+1427,HSR Layout,1750.0,3.0,95.0,3
+1428,HSR Layout,1140.0,2.0,46.0,2
+1429,HSR Layout,1372.0,2.0,61.0,2
+1430,HSR Layout,1140.0,2.0,46.0,2
+1431,HSR Layout,1127.0,2.0,68.0,2
+1432,HSR Layout,1145.0,2.0,48.0,2
+1433,HSR Layout,1009.0,2.0,56.0,2
+1434,HSR Layout,1140.0,2.0,46.0,2
+1435,HSR Layout,1126.0,2.0,69.0,2
+1437,HSR Layout,1140.0,2.0,46.0,2
+1438,HSR Layout,1145.0,2.0,46.0,2
+1439,HSR Layout,1142.0,2.0,65.0,2
+1440,HSR Layout,1145.0,2.0,46.0,2
+1441,HSR Layout,1844.0,3.0,95.0,3
+1442,HSR Layout,1203.0,2.0,72.0,2
+1443,HSR Layout,1140.0,2.0,46.0,2
+1444,HSR Layout,1140.0,2.0,46.0,2
+1445,HSR Layout,1145.0,2.0,46.0,2
+1446,HSR Layout,1009.0,2.0,56.0,2
+1447,HSR Layout,1145.0,2.0,46.0,2
+1448,HSR Layout,1100.0,2.0,44.0,2
+1449,HSR Layout,1203.0,2.0,60.0,2
+1450,HSR Layout,1140.0,2.0,46.0,2
+1451,HSR Layout,1844.0,3.0,89.0,3
+1452,HSR Layout,1203.0,2.0,60.0,2
+1453,HSR Layout,1140.0,2.0,46.0,2
+1454,Haralur Road,1240.0,2.0,70.0,2
+1457,Haralur Road,1056.0,2.0,61.0,2
+1459,Haralur Road,1810.0,3.0,100.0,3
+1460,Haralur Road,1194.0,2.0,46.0,2
+1462,Haralur Road,1225.0,2.0,67.38,2
+1463,Haralur Road,1920.0,3.0,115.0,3
+1464,Haralur Road,1875.0,3.0,110.0,3
+1465,Haralur Road,1140.0,2.0,43.0,2
+1466,Haralur Road,2017.0,3.0,125.0,3
+1467,Haralur Road,1140.0,2.0,43.0,2
+1468,Haralur Road,1875.0,3.0,110.0,3
+1469,Haralur Road,1300.0,2.0,73.0,2
+1470,Haralur Road,1225.0,2.0,67.38,2
+1471,Haralur Road,3400.0,5.0,240.0,4
+1472,Haralur Road,1464.0,2.0,56.0,2
+1473,Haralur Road,1230.0,2.0,78.0,2
+1474,Haralur Road,1300.0,2.0,79.0,2
+1475,Haralur Road,1444.0,2.0,80.0,3
+1477,Haralur Road,1225.0,2.0,70.0,2
+1479,Haralur Road,1830.0,3.0,101.0,3
+1480,Haralur Road,1810.0,3.0,126.0,3
+1481,Haralur Road,1464.0,2.0,56.0,2
+1482,Haralur Road,1520.0,2.0,96.0,3
+1483,Haralur Road,1300.0,2.0,75.0,2
+1484,Haralur Road,2017.0,2.0,125.0,3
+1485,Haralur Road,2805.0,5.0,160.0,4
+1487,Haralur Road,1520.0,2.0,90.0,3
+1488,Haralur Road,1985.0,3.0,130.0,3
+1489,Haralur Road,1255.0,2.0,90.0,3
+1490,Haralur Road,1056.0,2.0,60.0,2
+1491,Haralur Road,1140.0,2.0,58.0,2
+1492,Haralur Road,1560.0,3.0,90.0,3
+1493,Haralur Road,1520.0,2.0,85.0,3
+1495,Haralur Road,1520.0,2.0,96.0,3
+1496,Haralur Road,1510.0,3.0,83.05,3
+1497,Haralur Road,1056.0,2.0,65.0,2
+1498,Haralur Road,1810.0,3.0,100.0,3
+1499,Haralur Road,575.0,1.0,38.0,1
+1500,Haralur Road,1140.0,2.0,43.0,2
+1501,Haralur Road,1850.0,3.0,120.0,3
+1503,Haralur Road,1730.0,3.0,95.0,3
+1504,Haralur Road,1225.0,2.0,77.0,2
+1505,Haralur Road,1285.0,2.0,78.0,2
+1506,Haralur Road,1225.0,2.0,67.48,2
+1507,Haralur Road,1225.0,2.0,69.84,2
+1508,Haralur Road,1315.0,2.0,85.0,2
+1509,Haralur Road,1300.0,2.0,75.0,2
+1510,Haralur Road,1140.0,2.0,43.0,2
+1511,Haralur Road,1300.0,2.0,75.0,2
+1512,Haralur Road,1230.0,2.0,67.65,2
+1514,Haralur Road,1255.0,3.0,90.0,3
+1515,Haralur Road,1735.0,3.0,97.0,3
+1516,Haralur Road,1810.0,3.0,97.83,3
+1517,Haralur Road,1200.0,2.0,46.0,2
+1518,Haralur Road,1810.0,3.0,112.0,3
+1519,Harlur,1174.0,2.0,69.0,2
+1520,Harlur,1197.0,2.0,84.0,2
+1521,Harlur,1757.0,3.0,132.0,3
+1522,Harlur,1174.0,2.0,76.0,2
+1523,Harlur,1754.0,3.0,125.0,3
+1524,Harlur,1290.0,2.0,85.0,2
+1525,Harlur,1752.12,3.0,116.0,3
+1526,Harlur,1754.0,3.0,124.0,3
+1527,Harlur,1290.0,2.0,87.0,2
+1528,Harlur,1749.0,3.0,115.0,3
+1529,Harlur,2240.0,5.0,155.0,3
+1531,Harlur,1197.0,2.0,79.0,2
+1532,Harlur,1174.0,2.0,78.0,2
+1533,Harlur,1197.0,2.0,79.0,2
+1534,Harlur,1174.0,2.0,75.0,2
+1535,Harlur,1620.0,3.0,110.0,3
+1538,Harlur,1755.0,3.0,130.0,3
+1539,Harlur,1331.0,2.0,88.0,2
+1540,Harlur,1756.0,3.0,128.0,3
+1541,Harlur,1303.0,2.0,90.0,2
+1542,Harlur,1174.0,2.0,75.0,2
+1543,Harlur,1197.0,2.0,78.0,2
+1544,Harlur,1290.0,2.0,89.9,2
+1545,Harlur,1386.0,2.0,85.0,2
+1546,Harlur,1174.0,2.0,74.0,2
+1547,Harlur,1174.0,2.0,78.0,2
+1548,Harlur,1755.0,3.0,115.0,3
+1550,Harlur,2569.0,4.0,175.0,4
+1551,Harlur,1197.0,2.0,77.0,2
+1552,Harlur,1752.12,3.0,125.0,3
+1553,Harlur,2569.0,5.0,180.0,4
+1554,Harlur,1197.0,2.0,76.0,2
+1555,Harlur,1197.0,2.0,75.0,2
+1556,Harlur,1755.0,3.0,117.0,3
+1557,Harlur,1197.0,2.0,79.9,2
+1558,Harlur,2990.0,4.0,225.0,4
+1559,Harlur,1335.0,2.0,72.76,2
+1561,Hebbal,5611.5,4.0,477.0,4
+1562,Hebbal,1349.0,2.0,98.2,2
+1563,Hebbal,2483.0,5.0,212.0,4
+1564,Hebbal,1760.0,2.0,130.0,3
+1565,Hebbal,3450.0,5.0,260.0,3
+1567,Hebbal,1337.0,2.0,82.0,2
+1568,Hebbal,1349.0,2.0,98.0,2
+1571,Hebbal,1790.0,3.0,127.0,3
+1572,Hebbal,687.325,2.0,42.72,2
+1573,Hebbal,2790.0,5.0,198.0,4
+1574,Hebbal,2483.0,5.0,215.0,4
+1575,Hebbal,812.0,2.0,55.0,2
+1576,Hebbal,2790.0,4.0,198.0,4
+1577,Hebbal,3067.0,4.0,230.0,4
+1578,Hebbal,3067.0,4.0,230.0,4
+1580,Hebbal,823.0,2.0,50.63,2
+1581,Hebbal,1420.0,2.0,123.0,2
+1583,Hebbal,1420.0,2.0,99.39,2
+1584,Hebbal,4235.0,4.0,365.0,4
+1585,Hebbal,1700.0,3.0,124.0,3
+1586,Hebbal,1420.0,2.0,99.39,2
+1588,Hebbal,1440.0,2.0,115.0,2
+1590,Hebbal,2400.0,4.0,180.0,3
+1592,Hebbal,1420.0,2.0,107.0,2
+1593,Hebbal,1320.0,2.0,92.0,2
+1594,Hebbal,1645.0,3.0,135.0,3
+1596,Hebbal,2483.0,5.0,230.0,4
+1597,Hebbal,2600.0,3.0,195.0,3
+1598,Hebbal,1645.0,3.0,117.0,3
+1599,Hebbal,1251.0,2.0,88.73,2
+1600,Hebbal,1645.0,3.0,121.0,3
+1602,Hebbal,2790.0,4.0,198.0,4
+1603,Hebbal,1645.0,3.0,120.0,3
+1604,Hebbal,1255.0,2.0,90.0,3
+1605,Hebbal,1645.0,3.0,117.0,3
+1608,Hebbal,1636.0,3.0,119.0,3
+1609,Hebbal,1255.0,2.0,95.0,3
+1610,Hebbal,2790.0,4.0,198.0,4
+1612,Hebbal,1255.0,2.0,95.0,3
+1613,Hebbal,1088.0,2.0,61.45,2
+1614,Hebbal,1349.0,2.0,97.8,2
+1616,Hebbal,1344.0,2.0,108.0,2
+1617,Hebbal,1255.0,2.0,90.0,3
+1619,Hebbal,2790.0,5.0,204.0,4
+1620,Hebbal,1088.0,2.0,62.0,2
+1621,Hebbal,1987.0,4.0,165.0,3
+1622,Hebbal,2790.0,5.0,198.0,4
+1623,Hebbal,1299.0,2.0,100.0,2
+1624,Hebbal,1645.0,3.0,117.0,3
+1625,Hebbal,1390.0,2.0,95.0,2
+1626,Hebbal,1333.0,2.0,100.0,2
+1628,Hebbal,2650.0,4.0,199.0,3
+1629,Hebbal,1800.0,3.0,140.0,3
+1630,Hebbal,2470.0,4.0,203.0,4
+1631,Hebbal,1255.0,2.0,95.0,3
+1632,Hebbal,1333.0,2.0,104.0,2
+1633,Hebbal,1645.0,3.0,117.0,3
+1634,Hebbal,2600.0,3.0,199.0,3
+1635,Hebbal,1345.0,2.0,97.0,2
+1636,Hebbal,985.0,2.0,62.0,2
+1637,Hebbal,1320.0,2.0,91.0,2
+1638,Hebbal,2388.0,3.0,195.0,3
+1639,Hebbal,2600.0,3.0,195.0,3
+1640,Hebbal,2630.0,5.0,188.0,4
+1641,Hebbal,2790.0,5.0,198.0,4
+1644,Hebbal,1420.0,2.0,99.39,2
+1646,Hebbal,3520.0,5.0,320.0,3
+1647,Hebbal,1162.0,2.0,69.0,2
+1648,Hebbal,4235.0,5.0,364.0,4
+1649,Hebbal,1299.0,2.0,97.0,2
+1651,Hebbal,2470.0,5.0,192.0,4
+1652,Hebbal,1645.0,3.0,117.0,3
+1655,Hebbal,1920.0,3.0,150.0,3
+1656,Hebbal,2375.0,4.0,189.0,4
+1657,Hebbal,1420.0,2.0,99.26,2
+1658,Hebbal,1252.0,2.0,92.0,2
+1659,Hebbal,2790.0,4.0,198.0,4
+1660,Hebbal,1294.0,2.0,115.0,2
+1661,Hebbal,4225.0,6.0,359.0,4
+1662,Hebbal,1740.0,2.0,137.0,3
+1664,Hebbal,1662.0,3.0,155.0,3
+1665,Hebbal,1349.0,2.0,98.0,2
+1666,Hebbal,4000.0,6.0,370.0,4
+1667,Hebbal,1349.0,2.0,96.8,2
+1668,Hebbal Kempapura,1700.0,3.0,155.0,3
+1669,Hebbal Kempapura,1800.0,3.0,175.0,3
+1670,Hebbal Kempapura,3522.0,3.0,380.0,3
+1671,Hebbal Kempapura,1300.0,2.0,102.0,2
+1672,Hebbal Kempapura,1466.0,2.0,140.0,3
+1673,Hebbal Kempapura,1725.0,2.0,165.0,3
+1674,Hebbal Kempapura,3408.0,3.0,260.0,3
+1675,Hebbal Kempapura,1485.0,3.0,132.0,2
+1676,Hebbal Kempapura,1400.0,2.0,108.0,2
+1677,Hebbal Kempapura,1800.0,3.0,150.0,3
+1678,Hebbal Kempapura,1785.0,3.0,165.0,3
+1679,Hebbal Kempapura,3729.0,4.0,384.0,4
+1680,Hebbal Kempapura,1600.0,3.0,170.0,3
+1681,Hebbal Kempapura,1730.0,3.0,175.0,3
+1682,Hegde Nagar,1569.0,3.0,101.0,3
+1683,Hegde Nagar,2026.0,3.0,132.0,3
+1684,Hegde Nagar,1801.0,3.0,115.0,3
+1685,Hegde Nagar,1341.0,2.0,97.0,2
+1686,Hegde Nagar,2112.95,4.0,145.0,3
+1687,Hegde Nagar,1703.0,3.0,113.0,3
+1688,Hegde Nagar,1570.0,3.0,105.0,3
+1689,Hegde Nagar,1801.0,3.0,140.0,3
+1690,Hegde Nagar,1584.01,3.0,103.0,3
+1691,Hegde Nagar,1965.0,4.0,125.0,3
+1692,Hegde Nagar,1847.0,3.0,135.0,3
+1693,Hegde Nagar,1965.0,4.0,132.0,3
+1694,Hegde Nagar,1703.0,3.0,125.0,3
+1695,Hegde Nagar,1847.0,3.0,125.0,3
+1696,Hegde Nagar,2144.6,4.0,145.0,3
+1697,Hegde Nagar,1718.0,3.0,119.0,3
+1698,Hegde Nagar,1847.0,3.0,123.0,3
+1699,Hegde Nagar,2087.01,3.0,115.0,3
+1700,Hegde Nagar,1703.0,3.0,130.0,3
+1701,Hegde Nagar,2087.01,4.0,135.0,3
+1702,Hegde Nagar,1718.0,3.0,130.0,3
+1703,Hegde Nagar,1884.0,4.0,118.0,3
+1704,Hegde Nagar,1930.0,4.0,122.0,3
+1705,Hegde Nagar,1584.01,3.0,104.0,3
+1706,Hegde Nagar,1168.0,2.0,68.0,3
+1707,Hegde Nagar,2162.03,4.0,129.0,3
+1708,Hegde Nagar,2087.01,4.0,160.0,3
+1709,Hegde Nagar,1348.0,2.0,80.5,3
+1710,Hennur,1075.0,2.0,52.0,2
+1711,Hennur,1255.0,2.0,52.32,2
+1712,Hennur,1225.0,2.0,57.0,2
+1713,Hennur,1255.0,2.0,57.5,2
+1714,Hennur,1259.0,2.0,57.0,2
+1715,Hennur,1255.0,2.0,53.5,2
+1716,Hennur,1231.0,2.0,48.0,2
+1717,Hennur,1040.0,2.0,42.12,2
+1718,Hennur,1041.0,2.0,40.6,2
+1719,Hennur,1231.0,2.0,50.0,2
+1720,Hennur,1255.0,2.0,53.5,2
+1721,Hennur,1255.0,2.0,57.5,2
+1722,Hennur,1020.0,2.0,48.0,2
+1723,Hennur,1255.0,2.0,52.32,2
+1724,Hennur,1295.0,2.0,64.0,2
+1725,Hennur,1345.0,2.0,69.0,3
+1726,Hennur,1255.0,2.0,58.0,2
+1727,Hennur,1255.0,2.0,52.32,2
+1728,Hennur,1255.0,2.0,52.35,2
+1730,Hennur,1830.5,3.0,84.205,3
+1731,Hennur,1255.0,2.0,53.57,2
+1732,Hennur,1255.0,2.0,56.5,2
+1733,Hennur,1295.0,2.0,62.0,2
+1734,Hennur Road,2089.0,3.0,140.0,3
+1735,Hennur Road,1385.0,2.0,83.09,2
+1736,Hennur Road,1317.5,2.0,63.77,2
+1737,Hennur Road,1904.0,3.0,120.0,3
+1739,Hennur Road,1561.0,3.0,95.0,3
+1741,Hennur Road,2060.0,3.0,149.0,3
+1742,Hennur Road,1482.0,2.0,92.0,3
+1743,Hennur Road,1232.0,2.0,89.0,2
+1745,Hennur Road,1482.0,2.0,87.0,3
+1746,Hennur Road,1891.0,3.0,139.0,3
+1747,Hennur Road,1232.0,2.0,69.61,2
+1748,Hennur Road,987.0,2.0,49.0,2
+1750,Hennur Road,2160.0,3.0,160.0,3
+1752,Hennur Road,1385.0,2.0,83.09,2
+1754,Hennur Road,2350.0,3.0,174.0,3
+1755,Hennur Road,1586.0,3.0,93.94,3
+1756,Hennur Road,1290.0,2.0,94.5,3
+1757,Hennur Road,1445.0,3.0,86.56,3
+1758,Hennur Road,1482.0,2.0,97.0,3
+1759,Hennur Road,1182.0,2.0,82.5,2
+1761,Hennur Road,1036.0,2.0,59.46,2
+1763,Hennur Road,1232.0,2.0,69.61,2
+1765,Hennur Road,2320.0,3.0,170.0,3
+1766,Hennur Road,1936.0,3.0,118.0,3
+1767,Hennur Road,1480.0,2.0,65.0,2
+1768,Hennur Road,1590.0,3.0,96.5,3
+1769,Hennur Road,1445.0,2.0,105.0,3
+1770,Hennur Road,1036.0,2.0,59.45,2
+1771,Hennur Road,1832.0,3.0,125.0,3
+1772,Hennur Road,1341.0,2.0,75.76,2
+1773,Hennur Road,1040.0,2.0,50.0,2
+1775,Hennur Road,1949.0,3.0,133.0,3
+1776,Hennur Road,1232.0,2.0,89.0,2
+1777,Hennur Road,1250.0,2.0,77.88,3
+1778,Hennur Road,2502.0,4.0,180.0,4
+1779,Hennur Road,1831.0,3.0,110.0,3
+1780,Hennur Road,1232.0,2.0,87.0,2
+1781,Hennur Road,1232.0,2.0,74.0,2
+1782,Hennur Road,1232.0,2.0,66.0,2
+1783,Hennur Road,1341.0,2.0,95.0,2
+1784,Hennur Road,1232.0,2.0,88.0,2
+1785,Hennur Road,2365.0,4.0,175.0,3
+1786,Hennur Road,1310.0,2.0,66.0,2
+1787,Hennur Road,1015.0,2.0,50.0,2
+1789,Hennur Road,2264.0,3.0,168.0,3
+1790,Hennur Road,2002.0,3.0,120.0,3
+1791,Hennur Road,1232.0,2.0,69.6,2
+1792,Hennur Road,1195.0,2.0,73.0,2
+1793,Hennur Road,1061.0,2.0,54.92,2
+1795,Hennur Road,2041.0,3.0,128.0,3
+1796,Hennur Road,1232.0,2.0,87.0,2
+1797,Hennur Road,1066.0,2.0,52.23,2
+1798,Hennur Road,973.0,2.0,56.0,2
+1799,Hennur Road,1255.0,2.0,84.0,2
+1800,Hennur Road,1232.0,2.0,83.0,2
+1801,Hennur Road,1832.0,3.0,116.0,3
+1802,Hennur Road,1445.0,2.0,86.69,3
+1806,Hennur Road,1450.0,3.0,88.6,3
+1807,Hennur Road,1155.0,2.0,69.18,2
+1808,Hennur Road,1053.0,2.0,53.0,2
+1809,Hennur Road,1904.0,3.0,129.0,3
+1810,Hennur Road,1981.0,3.0,134.0,3
+1811,Hennur Road,1155.0,2.0,69.18,2
+1812,Hennur Road,1590.0,3.0,105.0,3
+1813,Hennur Road,2041.0,3.0,138.0,3
+1814,Hennur Road,1100.0,2.0,78.0,3
+1815,Hennur Road,1232.0,2.0,69.61,2
+1816,Hennur Road,1460.0,2.0,80.3,2
+1818,Hennur Road,1933.0,3.0,140.0,3
+1819,Hennur Road,1030.0,2.0,46.5,2
+1820,Hennur Road,1232.0,2.0,69.61,2
+1822,Hennur Road,1445.0,2.0,89.56,3
+1823,Hennur Road,973.0,2.0,50.74,2
+1825,Hennur Road,1305.0,2.0,77.0,3
+1827,Hennur Road,1165.0,2.0,67.0,2
+1828,Hennur Road,980.0,2.0,51.0,2
+1829,Hennur Road,1232.0,2.0,80.0,2
+1830,Hennur Road,950.0,2.0,55.0,2
+1831,Hennur Road,1891.0,3.0,110.0,3
+1834,Hennur Road,1165.0,2.0,52.0,2
+1835,Hennur Road,1450.0,2.0,80.0,2
+1836,Hennur Road,1155.0,2.0,69.18,2
+1837,Hennur Road,1936.0,3.0,131.0,3
+1838,Hoodi,985.0,2.0,67.0,2
+1841,Hoodi,1425.0,2.0,80.0,2
+1842,Hoodi,1420.0,2.0,75.0,2
+1843,Hoodi,1639.0,3.0,110.0,3
+1845,Hoodi,1639.0,3.0,98.32,3
+1847,Hoodi,1026.0,2.0,60.87,2
+1848,Hoodi,1050.0,2.0,50.0,2
+1849,Hoodi,1400.0,2.0,78.0,2
+1850,Hoodi,1196.0,2.0,71.74,2
+1852,Hoodi,1500.0,2.0,84.0,2
+1853,Hoodi,1055.0,2.0,57.63,2
+1854,Hoodi,1925.0,2.0,114.0,3
+1855,Hoodi,1400.0,2.0,82.0,2
+1857,Hoodi,706.0,1.0,48.24,1
+1858,Hoodi,1257.0,2.0,69.0,2
+1859,Hoodi,1132.0,2.0,67.9,2
+1860,Hoodi,1925.0,3.0,110.0,3
+1862,Hoodi,1257.0,2.0,71.03,2
+1863,Hoodi,1305.0,2.0,75.0,2
+1865,Hoodi,1108.0,2.0,74.23,2
+1866,Hoodi,1257.0,2.0,68.5,2
+1867,Hoodi,1000.0,2.0,48.0,2
+1868,Hoodi,1063.0,2.0,61.17,2
+1869,Hoodi,1259.0,2.0,69.45,2
+1870,Hoodi,711.0,1.0,42.65,1
+1872,Hoodi,1715.0,2.0,100.0,3
+1873,Hoodi,1447.0,3.0,76.0,2
+1874,Hoodi,2144.0,3.0,140.0,3
+1875,Hoodi,1108.0,2.0,66.46,2
+1877,Hoodi,1837.0,3.0,110.0,3
+1879,Horamavu Agara,1106.0,2.0,43.09,2
+1880,Horamavu Agara,1107.83,2.0,41.51,2
+1881,Horamavu Agara,1145.0,2.0,41.21,2
+1882,Horamavu Agara,1000.0,2.0,46.0,2
+1883,Horamavu Agara,1150.0,2.0,42.0,2
+1885,Horamavu Agara,1080.0,2.0,38.0,2
+1886,Horamavu Agara,994.0,2.0,42.28,2
+1887,Horamavu Agara,1107.83,2.0,41.51,2
+1888,Horamavu Agara,1090.0,2.0,46.0,2
+1889,Horamavu Agara,1557.0,3.0,70.0,3
+1890,Hormavu,1500.0,2.0,78.0,2
+1891,Hormavu,1150.0,2.0,55.0,2
+1892,Hormavu,715.0,1.0,46.0,1
+1893,Hormavu,1180.0,2.0,50.0,2
+1894,Hormavu,1175.0,2.0,52.0,2
+1897,Hormavu,1153.0,2.0,65.0,2
+1898,Hormavu,1150.0,2.0,53.11,2
+1899,Hormavu,1123.0,2.0,56.0,2
+1902,Hormavu,1018.0,2.0,50.8,2
+1904,Hormavu,1143.0,2.0,53.0,2
+1905,Hormavu,1000.0,2.0,50.0,2
+1906,Hormavu,1200.0,2.0,68.0,2
+1907,Hormavu,1200.0,2.0,68.0,2
+1909,Hormavu,1250.0,2.0,60.0,2
+1910,Hormavu,583.0,1.0,28.275,1
+1912,Hormavu,1400.0,2.0,75.0,2
+1914,Hormavu,1200.0,2.0,73.0,2
+1915,Hormavu,1250.0,2.0,65.0,2
+1917,Hormavu,1075.0,2.0,53.7,2
+1918,Hormavu,1075.0,2.0,53.7,2
+1919,Hormavu,2282.0,4.0,115.0,4
+1920,Hormavu,1206.0,2.0,55.0,2
+1921,Hormavu,1310.0,2.0,67.0,2
+1922,Hormavu,1310.0,2.0,60.0,2
+1923,Hormavu,1210.0,2.0,69.0,2
+1925,Hosa Road,1161.0,2.0,55.15,2
+1927,Hosa Road,1161.0,2.0,55.15,2
+1928,Hosa Road,1430.0,2.0,97.52,2
+1929,Hosa Road,1365.0,2.0,92.0,2
+1931,Hosa Road,1332.0,2.0,86.12,3
+1932,Hosa Road,615.0,1.0,28.29,1
+1933,Hosa Road,1318.0,2.0,85.28,3
+1934,Hosa Road,1513.0,3.0,103.0,3
+1935,Hosa Road,1133.0,2.0,52.0,2
+1936,Hosa Road,1161.0,2.0,55.15,2
+1937,Hosa Road,1532.0,3.0,98.13,3
+1938,Hosa Road,1680.0,3.0,101.0,3
+1939,Hosa Road,1533.0,3.0,98.18,3
+1940,Hosa Road,1040.0,2.0,68.59,2
+1941,Hosa Road,1040.0,2.0,61.0,2
+1943,Hosa Road,1311.0,2.0,84.86,3
+1944,Hosa Road,1512.0,3.0,103.0,3
+1945,Hosa Road,800.0,1.0,39.99,1
+1947,Hosa Road,1364.0,2.0,64.79,2
+1948,Hosa Road,1016.0,2.0,45.0,2
+1950,Hosa Road,1360.0,2.0,77.61,2
+1951,Hosa Road,1170.0,2.0,65.0,2
+1952,Hosa Road,1161.0,2.0,55.15,2
+1953,Hosa Road,1538.0,3.0,107.0,3
+1954,Hosa Road,1470.0,2.0,84.22,3
+1955,Hosa Road,1513.0,3.0,103.0,3
+1957,Hosa Road,1161.0,2.0,48.75,2
+1958,Hosa Road,1893.0,3.0,130.0,3
+1960,Hosa Road,1016.0,2.0,39.95,2
+1961,Hosakerehalli,2378.0,3.0,262.0,3
+1962,Hosakerehalli,2376.0,3.0,203.0,3
+1963,Hosakerehalli,3205.0,5.0,380.0,4
+1965,Hosakerehalli,3024.0,5.0,350.0,4
+1966,Hosakerehalli,1304.0,2.0,100.0,2
+1967,Hosakerehalli,2480.0,3.0,245.0,3
+1968,Hosakerehalli,2480.0,4.0,260.0,3
+1970,Hosakerehalli,3033.0,4.0,326.0,4
+1971,Hosakerehalli,2480.0,4.0,265.0,3
+1972,Hosakerehalli,2376.0,3.0,240.0,3
+1973,Hoskote,1250.0,3.0,50.0,3
+1974,Hoskote,1225.0,3.0,40.0,3
+1975,Hoskote,1740.0,3.0,60.0,3
+1976,Hoskote,1170.0,2.0,45.0,2
+1978,Hoskote,1095.0,2.0,33.6,2
+1980,Hoskote,1065.0,2.0,31.5,2
+1981,Hoskote,1395.0,2.0,63.0,3
+1982,Hoskote,1065.0,2.0,28.5,2
+1983,Hoskote,945.0,2.0,35.0,2
+1984,Hoskote,1003.5,2.0,28.095,2
+1985,Hoskote,1065.0,2.0,33.75,2
+1986,Hoskote,509.0,1.0,23.0,1
+1987,Hosur Road,1656.0,2.0,120.0,2
+1988,Hosur Road,1194.0,2.0,69.0,2
+1990,Hosur Road,1510.0,2.0,105.0,3
+1992,Hosur Road,1508.0,2.0,110.0,3
+1993,Hosur Road,1345.0,2.0,106.0,2
+1994,Hosur Road,1590.0,2.0,125.0,3
+1995,Hosur Road,460.0,1.0,21.0,1
+1997,Hosur Road,950.0,2.0,60.0,2
+1998,Hosur Road,1194.0,2.0,71.64,2
+1999,Hosur Road,1766.0,3.0,130.0,3
+2001,Hosur Road,1345.0,2.0,106.0,2
+2002,Hosur Road,1250.0,2.0,55.0,2
+2005,Hosur Road,2000.0,4.0,130.0,4
+2006,Hosur Road,1250.0,2.0,65.0,2
+2008,Hosur Road,2289.0,3.0,180.0,3
+2009,Hosur Road,1345.0,2.0,106.0,2
+2011,Hosur Road,1223.0,2.0,93.0,2
+2013,Hulimavu,1125.0,2.0,50.0,2
+2014,Hulimavu,1242.0,2.0,51.0,2
+2015,Hulimavu,1100.0,2.0,71.5,2
+2016,Hulimavu,688.0,1.0,50.0,1
+2017,Hulimavu,1255.0,2.0,73.0,2
+2018,Hulimavu,1058.0,2.0,48.0,2
+2019,Hulimavu,1375.0,2.0,80.0,2
+2020,Hulimavu,1248.0,2.0,69.0,2
+2021,Hulimavu,1818.0,3.0,135.0,3
+2022,Hulimavu,1225.0,2.0,55.0,2
+2023,Hulimavu,1255.0,2.0,74.0,2
+2024,Hulimavu,1255.0,2.0,69.0,2
+2025,Hulimavu,1255.0,2.0,66.0,2
+2026,Hulimavu,3035.0,5.0,220.0,3
+2027,Hulimavu,1127.0,2.0,65.0,2
+2028,Hulimavu,1200.0,2.0,50.0,2
+2030,Hulimavu,1430.0,2.0,90.0,3
+2031,Hulimavu,1000.0,2.0,45.0,2
+2034,Hulimavu,1276.0,2.0,76.0,2
+2035,Hulimavu,1315.0,2.0,60.48,2
+2036,Hulimavu,1021.0,2.0,76.0,2
+2038,Hulimavu,1231.0,2.0,84.5,2
+2039,Iblur Village,3235.0,3.0,235.0,3
+2040,Iblur Village,3596.0,5.0,290.0,4
+2041,Iblur Village,1920.0,3.0,130.0,3
+2042,Iblur Village,1995.0,3.0,135.0,3
+2043,Iblur Village,3596.0,5.0,282.0,4
+2044,Iblur Village,1918.0,3.0,129.0,3
+2046,Iblur Village,2100.0,4.0,145.0,3
+2047,Iblur Village,1920.0,3.0,150.0,3
+2048,Iblur Village,1920.0,3.0,130.0,3
+2049,Iblur Village,1920.0,3.0,150.0,3
+2050,Iblur Village,2000.0,4.0,138.0,3
+2051,Iblur Village,3596.0,5.0,260.0,4
+2052,Iblur Village,3596.0,5.0,279.0,4
+2053,Iblur Village,2666.0,4.0,200.0,3
+2054,Iblur Village,5384.0,5.0,420.0,5
+2055,Iblur Village,5515.0,6.0,425.0,5
+2056,Iblur Village,1920.0,3.0,130.0,3
+2057,Iblur Village,3596.0,4.0,268.0,4
+2059,Indira Nagar,1128.0,2.0,105.0,2
+2060,Indira Nagar,2800.0,3.0,330.0,3
+2062,Indira Nagar,1210.0,2.0,102.0,2
+2063,Indira Nagar,1224.0,2.0,105.0,2
+2064,Indira Nagar,1145.0,2.0,100.0,2
+2065,Indira Nagar,1470.0,2.0,170.0,2
+2066,Indira Nagar,1475.0,2.0,171.0,2
+2068,Indira Nagar,1149.0,2.0,130.0,2
+2070,JP Nagar,1850.0,3.0,150.0,3
+2071,JP Nagar,1100.0,2.0,70.0,2
+2072,JP Nagar,940.0,2.0,49.0,2
+2074,JP Nagar,4624.5,4.0,314.5,4
+2075,JP Nagar,1078.0,2.0,45.0,2
+2076,JP Nagar,1050.0,1.0,44.0,1
+2077,JP Nagar,1352.5,2.0,93.865,2
+2078,JP Nagar,1200.0,2.0,62.0,2
+2079,JP Nagar,1300.0,2.0,90.87,2
+2080,JP Nagar,1300.0,2.0,109.0,2
+2081,JP Nagar,750.0,1.0,52.5,1
+2082,JP Nagar,1200.0,2.0,78.0,2
+2084,JP Nagar,820.0,2.0,45.0,2
+2085,JP Nagar,1750.0,3.0,123.0,3
+2088,JP Nagar,745.0,1.0,34.27,1
+2089,JP Nagar,1150.0,2.0,90.0,2
+2090,JP Nagar,1960.0,3.0,138.0,3
+2092,JP Nagar,1250.0,2.0,60.0,2
+2093,JP Nagar,2400.0,3.0,196.0,3
+2094,JP Nagar,1300.0,2.0,91.65,2
+2095,JP Nagar,1250.0,2.0,93.0,2
+2096,JP Nagar,1500.0,2.0,108.0,3
+2097,JP Nagar,1520.0,3.0,125.0,3
+2098,JP Nagar,1405.0,2.0,99.0,2
+2099,JP Nagar,1157.0,2.0,73.0,2
+2101,Jakkur,1417.0,2.0,75.0,2
+2102,Jakkur,1590.0,2.0,125.0,3
+2103,Jakkur,1710.0,3.0,107.0,3
+2104,Jakkur,3467.86,6.0,249.0,4
+2105,Jakkur,1865.0,3.0,124.0,3
+2106,Jakkur,1760.0,3.0,139.0,3
+2107,Jakkur,1290.0,2.0,100.0,2
+2108,Jakkur,1452.19,2.0,100.0,2
+2109,Jakkur,1798.0,3.0,120.0,3
+2110,Jakkur,1300.0,2.0,85.0,2
+2111,Jakkur,1950.0,3.0,131.0,3
+2113,Jakkur,1230.0,2.0,76.0,2
+2114,Jakkur,1290.0,2.0,80.0,2
+2115,Jakkur,1760.0,3.0,110.0,3
+2117,Jakkur,1483.0,2.0,98.0,2
+2120,Jakkur,1650.0,3.0,111.0,3
+2121,Jakkur,2423.0,4.0,160.0,3
+2122,Jakkur,1125.0,2.0,65.0,2
+2123,Jakkur,1230.0,2.0,79.0,2
+2124,Jakkur,1202.0,2.0,79.0,2
+2125,Jakkur,1858.0,3.0,123.0,3
+2127,Jakkur,1785.0,3.0,130.0,3
+2128,Jakkur,1080.0,2.0,60.0,2
+2129,Jakkur,1260.0,2.0,71.195,2
+2130,Jakkur,1816.0,3.0,119.0,3
+2131,Jakkur,1424.0,2.0,80.0,2
+2132,Jakkur,1290.0,2.0,85.0,2
+2133,Jakkur,1290.0,2.0,80.04,2
+2134,Jakkur,1282.0,2.0,72.0,2
+2136,Jakkur,1660.0,3.0,104.0,3
+2137,Jakkur,1291.0,2.0,75.0,2
+2138,Jakkur,1473.0,2.0,85.0,2
+2139,Jakkur,1660.0,3.0,104.0,3
+2140,Jakkur,1950.0,3.0,131.0,3
+2141,Jakkur,1432.0,2.0,85.0,2
+2142,Jakkur,1710.0,3.0,110.0,3
+2144,Jalahalli,2250.0,3.0,160.0,3
+2145,Jalahalli,1694.0,2.0,125.0,2
+2146,Jalahalli,1400.0,1.0,80.0,2
+2147,Jalahalli,1045.0,2.0,76.77,2
+2148,Jalahalli,2113.0,3.0,155.0,3
+2149,Jalahalli,1932.0,4.0,135.0,3
+2150,Jalahalli,1045.0,2.0,58.0,2
+2151,Jalahalli,2384.0,4.0,165.0,3
+2152,Jalahalli,790.0,2.0,49.5,2
+2155,Jalahalli,615.0,1.0,46.0,1
+2156,Jalahalli,905.0,2.0,55.0,2
+2157,Jalahalli,615.0,1.0,46.0,1
+2158,Jalahalli,1470.0,2.0,102.0,3
+2159,Jalahalli,1244.0,2.0,88.0,2
+2160,Jalahalli,1407.0,2.0,98.49,2
+2161,Jalahalli,1200.0,2.0,66.0,1
+2163,Jalahalli,1045.0,2.0,76.77,2
+2165,Jalahalli,2086.0,3.0,160.0,3
+2167,Jalahalli,1313.0,2.0,68.0,2
+2171,Jigani,918.0,2.0,52.0,2
+2172,Jigani,918.0,2.0,48.0,2
+2174,Jigani,914.0,2.0,47.0,2
+2175,Jigani,927.0,2.0,55.0,2
+2176,Jigani,920.0,2.0,46.0,2
+2177,Jigani,918.0,2.0,45.0,2
+2178,Jigani,933.0,2.0,43.0,2
+2179,Jigani,918.0,2.0,55.0,2
+2180,Jigani,2400.0,3.0,149.0,3
+2181,Jigani,937.0,2.0,44.0,2
+2183,Jigani,923.0,2.0,50.0,2
+2185,Jigani,1221.0,3.0,72.0,3
+2186,Jigani,918.0,2.0,49.0,2
+2188,Jigani,914.0,2.0,49.0,2
+2189,Jigani,918.0,2.0,50.0,2
+2190,Jigani,1200.0,3.0,65.0,3
+2191,Jigani,914.0,2.0,55.0,2
+2195,Jigani,1221.0,3.0,75.0,3
+2196,Jigani,1252.0,3.0,70.0,3
+2199,Jigani,1221.0,3.0,70.0,3
+2201,Jigani,943.0,2.0,48.0,2
+2202,Jigani,918.0,2.0,56.0,2
+2205,Jigani,943.0,2.0,49.5,2
+2206,KR Puram,1277.5,2.0,56.8,2
+2207,KR Puram,930.0,2.0,39.0,2
+2208,KR Puram,1155.0,2.0,42.74,2
+2209,KR Puram,1225.0,2.0,46.55,2
+2210,KR Puram,1100.0,2.0,47.0,2
+2212,KR Puram,1015.0,2.0,43.0,2
+2213,KR Puram,1142.0,2.0,51.0,2
+2214,KR Puram,1021.0,2.0,48.0,2
+2215,KR Puram,1559.0,3.0,69.315,3
+2216,KR Puram,1035.0,2.0,40.5,2
+2217,KR Puram,1192.5,2.0,51.22,2
+2218,KR Puram,1290.0,2.0,49.02,2
+2219,KR Puram,1100.0,2.0,43.0,2
+2220,KR Puram,950.0,2.0,40.0,2
+2221,KR Puram,1156.0,2.0,72.0,2
+2223,KR Puram,750.0,2.0,40.0,2
+2224,KR Puram,1000.0,2.0,44.5,2
+2225,KR Puram,1140.0,2.0,43.32,2
+2226,KR Puram,1200.0,2.0,42.0,2
+2228,KR Puram,1040.0,2.0,50.0,2
+2229,KR Puram,1120.0,2.0,36.0,2
+2230,KR Puram,1150.0,2.0,42.0,2
+2231,KR Puram,1050.0,2.0,55.0,2
+2232,KR Puram,1085.0,2.0,46.5,2
+2233,KR Puram,1700.0,3.0,105.0,3
+2234,KR Puram,1200.0,2.0,72.0,2
+2235,KR Puram,1100.0,2.0,45.0,2
+2236,KR Puram,1035.0,2.0,40.0,2
+2237,KR Puram,1116.0,2.0,45.0,2
+2238,KR Puram,1300.0,2.0,57.0,3
+2239,KR Puram,866.28,2.0,36.38,2
+2240,KR Puram,1096.0,2.0,43.0,2
+2241,KR Puram,1204.0,2.0,58.0,2
+2242,KR Puram,1205.0,2.0,45.79,2
+2243,KR Puram,1827.0,3.0,97.0,3
+2245,KR Puram,1200.0,2.0,75.0,2
+2246,KR Puram,1245.0,2.0,60.0,2
+2247,Kadugodi,1260.0,2.0,54.0,3
+2248,Kadugodi,1762.0,3.0,91.45,3
+2249,Kadugodi,1580.0,2.0,65.0,3
+2250,Kadugodi,1762.0,3.0,110.0,3
+2251,Kadugodi,1314.0,2.0,68.2,2
+2252,Kadugodi,1100.0,2.0,45.0,2
+2253,Kadugodi,1711.0,3.0,75.0,3
+2254,Kadugodi,1314.0,2.0,78.0,2
+2255,Kadugodi,925.0,1.0,40.7,1
+2256,Kadugodi,1351.0,2.0,78.0,3
+2257,Kadugodi,1010.0,2.0,50.0,2
+2259,Kadugodi,1762.0,3.0,109.0,3
+2260,Kadugodi,1314.0,2.0,80.0,2
+2261,Kaggadasapura,1275.0,2.0,52.0,2
+2262,Kaggadasapura,2150.0,4.0,100.0,4
+2263,Kaggadasapura,1150.0,2.0,42.0,2
+2264,Kaggadasapura,1110.0,2.0,53.0,2
+2265,Kaggadasapura,1060.0,2.0,48.0,2
+2267,Kaggadasapura,1050.0,2.0,48.0,2
+2268,Kaggadasapura,1132.0,2.0,42.0,2
+2269,Kaggadasapura,1325.0,2.0,50.0,2
+2270,Kaggadasapura,1200.0,2.0,53.0,2
+2271,Kaggadasapura,1035.0,2.0,45.5,2
+2273,Kaggadasapura,1805.0,2.0,75.0,3
+2274,Kaggadasapura,1240.0,2.0,45.0,2
+2275,Kaggadasapura,1560.0,2.0,72.0,3
+2276,Kaggadasapura,1240.0,2.0,58.58,2
+2277,Kaggadasapura,1000.0,2.0,43.0,2
+2278,Kaggadasapura,1225.0,2.0,48.0,2
+2279,Kaggadasapura,960.0,2.0,45.0,2
+2280,Kaggadasapura,775.0,2.0,29.5,2
+2282,Kaggadasapura,1654.0,3.0,70.0,3
+2283,Kaggadasapura,1106.0,2.0,40.0,2
+2284,Kaggadasapura,1485.0,2.0,70.0,3
+2285,Kaggadasapura,1175.0,2.0,50.0,2
+2287,Kaggadasapura,1150.0,2.0,45.0,2
+2289,Kaggalipura,700.0,1.0,38.0,1
+2291,Kaggalipura,700.0,1.0,36.0,1
+2292,Kaggalipura,950.0,2.0,48.0,2
+2293,Kaggalipura,1000.0,2.0,60.0,2
+2294,Kaggalipura,950.0,2.0,50.0,2
+2295,Kaggalipura,950.0,2.0,47.0,2
+2296,Kaggalipura,1150.0,2.0,62.0,3
+2297,Kaggalipura,700.0,1.0,35.0,1
+2300,Kaggalipura,950.0,2.0,45.0,2
+2301,Kaggalipura,950.0,2.0,60.0,2
+2302,Kalena Agrahara,1804.0,3.0,120.0,3
+2304,Kalena Agrahara,1325.0,2.0,76.0,2
+2305,Kalena Agrahara,1450.0,2.0,85.0,3
+2306,Kalena Agrahara,1765.0,3.0,125.0,3
+2307,Kalena Agrahara,980.0,2.0,40.0,2
+2308,Kalena Agrahara,1187.0,2.0,52.0,2
+2310,Kalena Agrahara,610.0,1.0,39.0,1
+2311,Kalena Agrahara,1040.0,2.0,45.0,2
+2312,Kalena Agrahara,1450.0,3.0,100.0,3
+2314,Kalena Agrahara,800.0,2.0,40.0,2
+2315,Kalena Agrahara,1222.0,2.0,48.0,2
+2316,Kalena Agrahara,900.0,2.0,40.0,2
+2317,Kalena Agrahara,1837.0,2.0,95.0,3
+2318,Kalena Agrahara,1180.0,2.0,85.0,2
+2319,Kalena Agrahara,1510.0,3.0,78.0,3
+2320,Kalena Agrahara,1354.0,2.0,70.0,2
+2321,Kalena Agrahara,1200.0,3.0,70.0,2
+2322,Kalyan nagar,1375.0,3.0,75.0,3
+2323,Kalyan nagar,820.0,2.0,39.0,2
+2324,Kalyan nagar,1640.0,3.0,88.0,3
+2325,Kalyan nagar,1800.0,3.0,85.0,3
+2326,Kalyan nagar,1080.0,2.0,73.0,2
+2327,Kalyan nagar,2422.0,3.0,150.0,4
+2328,Kalyan nagar,1198.0,2.0,65.0,2
+2329,Kalyan nagar,1190.0,2.0,60.0,2
+2330,Kalyan nagar,1100.0,2.0,70.0,2
+2331,Kambipura,883.0,2.0,45.0,2
+2332,Kambipura,1082.0,2.0,56.0,3
+2333,Kambipura,883.0,2.0,45.0,2
+2334,Kambipura,883.0,2.0,39.0,2
+2335,Kambipura,883.0,2.0,45.0,2
+2336,Kambipura,883.0,2.0,39.0,2
+2337,Kambipura,1082.0,2.0,55.0,3
+2339,Kambipura,883.0,2.0,37.0,2
+2340,Kambipura,883.0,2.0,37.0,2
+2343,Kambipura,883.0,2.0,39.0,2
+2344,Kambipura,883.0,2.0,39.0,2
+2345,Kambipura,883.0,2.0,45.0,2
+2346,Kambipura,883.0,2.0,39.0,2
+2347,Kambipura,1082.0,2.0,55.0,3
+2348,Kammasandra,1595.0,3.0,65.0,3
+2349,Kammasandra,810.0,2.0,24.5,2
+2350,Kammasandra,657.5,1.0,18.41,1
+2351,Kammasandra,674.0,2.0,29.0,2
+2352,Kammasandra,1156.0,2.0,32.0,2
+2353,Kammasandra,870.0,2.0,24.0,2
+2354,Kammasandra,990.0,2.0,31.5,2
+2356,Kammasandra,1030.0,1.0,25.75,2
+2358,Kammasandra,1015.0,2.0,37.0,2
+2360,Kammasandra,1415.0,2.0,60.0,2
+2361,Kammasandra,1057.0,2.0,35.0,2
+2362,Kammasandra,1500.0,3.0,65.0,3
+2363,Kammasandra,985.0,2.0,40.5,2
+2364,Kammasandra,940.0,2.0,35.0,2
+2366,Kammasandra,610.0,1.0,18.5,1
+2367,Kanakapura,711.0,1.0,36.0,1
+2368,Kanakapura,711.0,1.0,38.0,1
+2371,Kanakapura,1295.0,2.0,64.0,2
+2372,Kanakapura,1151.0,2.0,59.0,2
+2373,Kanakapura,1110.0,2.0,38.85,2
+2374,Kanakapura,1090.0,2.0,38.15,2
+2375,Kanakapura,1283.0,2.0,68.0,2
+2377,Kanakapura,1120.0,2.0,39.2,2
+2379,Kanakapura,938.0,1.0,50.0,1
+2380,Kanakapura,825.0,1.0,35.475,1
+2381,Kanakapura,1090.0,2.0,38.15,2
+2382,Kanakapura,1489.0,2.0,70.0,3
+2383,Kanakapura,1477.0,2.0,69.5,3
+2384,Kanakpura Road,700.0,2.0,36.0,2
+2385,Kanakpura Road,950.0,2.0,57.0,2
+2387,Kanakpura Road,525.0,1.0,26.0,1
+2390,Kanakpura Road,525.0,1.0,27.25,1
+2391,Kanakpura Road,1100.0,2.0,58.0,3
+2392,Kanakpura Road,525.0,1.0,30.0,1
+2394,Kanakpura Road,1339.0,2.0,75.0,2
+2395,Kanakpura Road,1100.0,3.0,58.0,3
+2396,Kanakpura Road,525.0,1.0,26.0,1
+2398,Kanakpura Road,1843.0,3.0,95.84,3
+2399,Kanakpura Road,1290.0,2.0,74.0,2
+2400,Kanakpura Road,1665.0,3.0,86.58,3
+2402,Kanakpura Road,1542.0,2.0,85.0,3
+2408,Kanakpura Road,1495.0,2.0,90.0,2
+2411,Kanakpura Road,3500.0,6.0,225.0,4
+2412,Kanakpura Road,1420.0,2.0,75.0,3
+2413,Kanakpura Road,825.0,1.0,36.29,1
+2414,Kanakpura Road,983.0,2.0,50.6,2
+2419,Kanakpura Road,1843.0,3.0,95.84,3
+2421,Kanakpura Road,1366.0,3.0,76.85,2
+2422,Kanakpura Road,525.0,1.0,25.0,1
+2427,Kanakpura Road,525.0,1.0,30.0,1
+2429,Kanakpura Road,1051.0,2.0,56.74,2
+2430,Kanakpura Road,525.0,1.0,30.0,1
+2434,Kanakpura Road,1300.0,3.0,69.0,3
+2435,Kanakpura Road,700.0,2.0,40.0,2
+2436,Kanakpura Road,458.0,1.0,19.695,1
+2437,Kanakpura Road,2775.0,3.0,165.0,4
+2438,Kanakpura Road,1900.0,3.0,99.0,3
+2439,Kanakpura Road,1290.0,2.0,80.0,2
+2444,Kanakpura Road,1366.0,2.0,83.0,2
+2445,Kanakpura Road,700.0,2.0,40.0,2
+2447,Kanakpura Road,1339.0,2.0,71.5,2
+2449,Kanakpura Road,670.0,1.0,35.0,1
+2456,Kanakpura Road,525.0,1.0,30.0,1
+2459,Kanakpura Road,1498.0,3.0,95.0,3
+2460,Kanakpura Road,1665.0,3.0,86.91,3
+2461,Kanakpura Road,1665.0,3.0,86.58,3
+2462,Kanakpura Road,712.0,1.0,38.44,1
+2465,Kanakpura Road,1507.0,2.0,95.0,3
+2467,Kanakpura Road,1339.0,2.0,85.0,2
+2468,Kanakpura Road,525.0,1.0,27.0,1
+2469,Kanakpura Road,525.0,1.0,27.5,1
+2471,Kanakpura Road,525.0,1.0,26.25,1
+2473,Kanakpura Road,525.0,1.0,26.0,1
+2474,Kanakpura Road,1050.0,2.0,59.0,3
+2475,Kanakpura Road,1600.0,3.0,90.0,3
+2479,Kanakpura Road,1100.0,3.0,56.57,3
+2481,Kanakpura Road,1843.0,3.0,96.2,3
+2484,Kanakpura Road,1240.0,2.0,65.0,2
+2488,Kanakpura Road,700.0,2.0,41.0,2
+2492,Kanakpura Road,700.0,1.0,41.0,2
+2493,Kanakpura Road,1100.0,3.0,58.0,3
+2494,Kanakpura Road,700.0,2.0,40.0,2
+2497,Kanakpura Road,525.0,1.0,26.01,1
+2500,Kanakpura Road,1322.0,2.0,70.0,2
+2501,Kanakpura Road,1698.0,2.0,105.0,2
+2502,Kanakpura Road,1300.0,3.0,69.0,3
+2503,Kanakpura Road,1300.0,3.0,69.0,3
+2505,Kanakpura Road,1167.0,2.0,63.0,2
+2509,Kanakpura Road,1300.0,3.0,69.0,3
+2512,Kanakpura Road,1430.0,2.0,78.0,2
+2513,Kanakpura Road,700.0,2.0,36.0,2
+2516,Kanakpura Road,1100.0,3.0,58.0,3
+2521,Kanakpura Road,2000.0,3.0,105.0,3
+2523,Kanakpura Road,1843.0,3.0,95.0,3
+2526,Kanakpura Road,900.0,2.0,46.29,2
+2527,Kanakpura Road,850.0,1.0,37.32,1
+2529,Kanakpura Road,525.0,1.0,30.0,1
+2530,Kanakpura Road,1938.0,3.0,105.0,3
+2531,Kanakpura Road,1843.0,3.0,96.2,3
+2532,Kanakpura Road,525.0,1.0,26.0,1
+2536,Kanakpura Road,700.0,2.0,36.0,2
+2541,Kannamangala,957.0,2.0,58.0,2
+2542,Kannamangala,957.0,2.0,56.0,2
+2543,Kannamangala,1536.0,3.0,89.0,3
+2544,Kannamangala,2400.0,4.0,130.0,4
+2545,Kannamangala,1574.0,3.0,93.34,3
+2546,Kannamangala,957.0,2.0,52.5,2
+2547,Kannamangala,1536.0,3.0,104.0,3
+2548,Kannamangala,957.0,2.0,54.5,2
+2549,Kannamangala,957.0,2.0,55.0,2
+2550,Kannamangala,957.0,2.0,56.0,2
+2551,Karuna Nagar,2500.0,3.0,180.0,3
+2552,Karuna Nagar,2500.0,3.0,190.0,3
+2553,Karuna Nagar,1962.0,3.0,175.0,3
+2554,Karuna Nagar,1057.0,2.0,65.0,2
+2555,Karuna Nagar,1354.0,2.0,98.0,3
+2556,Karuna Nagar,1945.0,3.0,115.0,3
+2557,Karuna Nagar,1960.0,3.0,165.0,3
+2558,Kasavanhalli,1060.0,2.0,58.06,2
+2559,Kasavanhalli,1563.05,3.0,105.0,3
+2562,Kasavanhalli,1349.0,2.0,78.0,2
+2563,Kasavanhalli,1121.0,2.0,78.0,2
+2564,Kasavanhalli,1200.0,2.0,78.0,2
+2566,Kasavanhalli,1476.0,3.0,89.0,3
+2567,Kasavanhalli,1719.0,3.0,116.0,3
+2568,Kasavanhalli,1476.0,3.0,95.0,3
+2569,Kasavanhalli,1090.0,2.0,59.8,2
+2571,Kasavanhalli,770.0,1.0,43.82,1
+2572,Kasavanhalli,1147.0,2.0,60.0,2
+2573,Kasavanhalli,1495.0,2.0,83.0,2
+2575,Kasavanhalli,1375.0,2.0,78.0,2
+2576,Kasavanhalli,1476.0,3.0,105.0,3
+2577,Kasavanhalli,1158.0,2.0,67.0,2
+2578,Kasavanhalli,1214.0,2.0,67.0,2
+2579,Kasavanhalli,1575.0,2.0,85.0,2
+2580,Kasavanhalli,1100.0,2.0,68.0,2
+2581,Kasavanhalli,1715.0,3.0,112.0,3
+2582,Kasavanhalli,1100.0,2.0,65.0,2
+2584,Kasavanhalli,1585.0,2.0,90.0,2
+2585,Kasavanhalli,1245.0,2.0,80.0,2
+2586,Kasavanhalli,1747.0,3.0,110.0,3
+2587,Kasavanhalli,1377.0,2.0,80.0,2
+2588,Kasavanhalli,1121.0,2.0,75.0,2
+2589,Kenchenahalli,1015.0,2.0,58.0,2
+2590,Kenchenahalli,1150.0,2.0,58.0,2
+2591,Kenchenahalli,1280.0,2.0,69.0,3
+2592,Kenchenahalli,1410.0,2.0,73.0,3
+2593,Kenchenahalli,870.0,1.0,45.0,2
+2594,Kenchenahalli,1150.0,2.0,60.0,2
+2595,Kenchenahalli,700.0,1.0,35.0,1
+2596,Kenchenahalli,1060.0,2.0,52.0,2
+2597,Kenchenahalli,1150.0,2.0,57.0,2
+2599,Kengeri,750.0,2.0,38.0,2
+2600,Kengeri,726.0,2.0,31.0,2
+2601,Kengeri,1025.0,2.0,57.0,2
+2602,Kengeri,1255.0,2.0,50.0,2
+2603,Kengeri,750.0,2.0,36.0,2
+2604,Kengeri,726.0,2.0,35.0,2
+2605,Kengeri,416.0,1.0,19.5,1
+2606,Kengeri,900.0,2.0,45.0,2
+2607,Kengeri,787.0,2.0,31.0,2
+2608,Kengeri,540.0,1.0,22.5,1
+2609,Kengeri,750.0,2.0,35.5,2
+2611,Kengeri,1230.0,2.0,45.0,2
+2613,Kengeri,750.0,2.0,36.5,2
+2614,Kengeri,416.0,1.0,18.0,1
+2615,Kengeri,1220.0,2.0,63.0,2
+2616,Kengeri,1192.0,2.0,53.5,2
+2617,Kengeri,750.0,2.0,40.0,2
+2618,Kengeri,416.0,1.0,17.19,1
+2619,Kengeri Satellite Town,890.0,2.0,35.0,2
+2620,Kengeri Satellite Town,1415.0,2.0,66.0,3
+2621,Kengeri Satellite Town,1050.0,2.0,43.0,2
+2622,Kengeri Satellite Town,635.0,1.0,22.0,2
+2623,Kengeri Satellite Town,818.0,2.0,26.0,2
+2624,Kengeri Satellite Town,795.0,2.0,32.0,2
+2625,Kengeri Satellite Town,1302.5,2.0,44.285,2
+2626,Kengeri Satellite Town,920.0,2.0,39.0,2
+2627,Kengeri Satellite Town,985.0,2.0,42.0,2
+2628,Kengeri Satellite Town,1120.0,2.0,49.0,2
+2630,Kengeri Satellite Town,1110.0,2.0,43.0,2
+2631,Kengeri Satellite Town,1170.0,2.0,50.0,2
+2632,Kengeri Satellite Town,800.0,2.0,32.0,2
+2633,Kereguddadahalli,800.0,2.0,28.0,2
+2634,Kereguddadahalli,904.0,2.0,30.0,2
+2636,Kereguddadahalli,1000.0,2.0,30.0,2
+2637,Kereguddadahalli,1240.0,3.0,41.0,3
+2638,Kereguddadahalli,600.0,1.0,19.5,1
+2639,Kereguddadahalli,1080.0,2.0,32.0,2
+2640,Kereguddadahalli,1000.0,2.0,34.0,2
+2642,Kereguddadahalli,1280.0,3.0,42.0,3
+2643,Kereguddadahalli,1015.0,2.0,35.0,2
+2644,Kodichikkanahalli,995.0,2.0,41.0,2
+2645,Kodichikkanahalli,1495.0,2.0,75.0,3
+2646,Kodichikkanahalli,1125.0,2.0,52.0,2
+2647,Kodichikkanahalli,1150.0,2.0,48.0,2
+2648,Kodichikkanahalli,1620.0,2.0,85.0,3
+2650,Kodichikkanahalli,450.0,1.0,18.0,1
+2651,Kodichikkanahalli,1181.0,2.0,57.0,2
+2653,Kodichikkanahalli,976.0,2.0,50.0,2
+2654,Kodichikkanahalli,1299.0,2.0,58.0,2
+2655,Kodihalli,3252.0,5.0,335.0,4
+2656,Kodihalli,2700.0,4.0,270.0,3
+2657,Kodihalli,2392.0,4.0,260.0,3
+2658,Kodihalli,2408.0,4.0,260.0,3
+2659,Kodihalli,2500.0,4.0,260.0,3
+2660,Kodihalli,3260.0,5.0,388.0,4
+2661,Kodihalli,3197.0,5.0,335.0,4
+2662,Koramangala,1320.0,2.0,165.0,2
+2663,Koramangala,1253.0,2.0,102.0,2
+2664,Koramangala,1580.0,3.0,160.0,3
+2665,Koramangala,3500.0,5.0,425.0,4
+2666,Koramangala,1005.0,1.0,110.0,2
+2668,Koramangala,1300.0,2.0,110.0,2
+2669,Koramangala,1325.0,2.0,119.0,2
+2670,Koramangala,1260.0,2.0,100.0,2
+2671,Koramangala,1900.0,2.0,200.0,2
+2673,Koramangala,1320.0,2.0,150.0,2
+2674,Koramangala,1320.0,2.0,110.0,2
+2677,Koramangala,1744.0,3.0,200.0,3
+2678,Koramangala,1180.0,2.0,128.0,2
+2679,Koramangala,1320.0,2.0,160.0,2
+2680,Koramangala,1370.0,2.0,125.0,2
+2681,Koramangala,1100.0,2.0,85.0,2
+2683,Koramangala,1744.0,4.0,210.0,3
+2684,Koramangala,1320.0,2.0,160.0,2
+2685,Koramangala,1350.0,2.0,103.0,2
+2687,Koramangala,1320.0,2.0,160.0,2
+2688,Koramangala,1710.0,3.0,210.0,3
+2689,Koramangala,1600.0,3.0,170.0,3
+2690,Koramangala,1260.0,2.0,100.0,2
+2692,Kothanur,2400.0,2.0,150.0,3
+2693,Kothanur,1847.0,3.0,105.0,3
+2694,Kothanur,1847.0,3.0,110.0,3
+2695,Kothanur,1790.0,3.0,105.0,3
+2696,Kothanur,1790.0,3.0,97.0,3
+2697,Kothanur,1786.0,2.0,106.0,3
+2698,Kothanur,1787.0,3.0,107.0,3
+2699,Kothanur,1400.0,2.0,70.0,2
+2700,Kothanur,1787.0,3.0,120.0,3
+2701,Kothanur,1790.0,3.0,105.0,3
+2702,Kothanur,1790.0,3.0,120.0,3
+2703,Kudlu,1152.0,2.0,53.5,2
+2704,Kudlu,1092.0,2.0,44.0,2
+2705,Kudlu,1027.0,2.0,43.0,2
+2706,Kudlu,1092.0,2.0,44.0,2
+2707,Kudlu,1143.0,2.0,55.0,2
+2708,Kudlu,1024.0,2.0,44.0,2
+2710,Kudlu,1600.0,3.0,79.0,3
+2711,Kudlu,1027.0,2.0,42.0,2
+2712,Kudlu,1084.0,2.0,53.0,2
+2713,Kudlu,1300.0,2.0,56.0,2
+2714,Kudlu,1027.0,2.0,44.0,2
+2715,Kudlu,1027.0,2.0,44.0,2
+2716,Kudlu,720.0,1.0,33.0,1
+2717,Kudlu,1162.0,2.0,52.0,2
+2718,Kudlu Gate,1535.0,3.0,83.0,3
+2719,Kudlu Gate,1535.0,3.0,85.0,3
+2720,Kudlu Gate,1535.0,3.0,78.0,3
+2721,Kudlu Gate,1535.0,3.0,86.0,3
+2722,Kudlu Gate,1564.0,2.0,92.0,3
+2723,Kudlu Gate,1535.0,3.0,86.0,3
+2724,Kudlu Gate,1532.0,3.0,83.0,3
+2725,Kudlu Gate,1656.0,3.0,80.0,3
+2726,Kudlu Gate,812.0,2.0,38.25,2
+2727,Kudlu Gate,1535.0,3.0,85.0,3
+2728,Kudlu Gate,1850.0,3.0,120.0,3
+2729,Kudlu Gate,1164.0,2.0,75.0,2
+2730,Kudlu Gate,1850.0,3.0,110.0,3
+2732,Kundalahalli,735.0,2.0,57.99,2
+2733,Kundalahalli,1047.0,2.0,82.0,2
+2742,Kundalahalli,1047.0,2.0,84.0,2
+2743,Kundalahalli,1047.0,2.0,83.0,2
+2744,Kundalahalli,1047.0,2.0,82.62,2
+2745,Kundalahalli,1047.0,2.0,91.0,2
+2746,Kundalahalli,1724.0,3.0,146.0,3
+2748,Kundalahalli,1047.0,2.0,89.0,2
+2750,Kundalahalli,1047.0,2.0,72.0,2
+2752,Kundalahalli,1724.0,3.0,146.0,3
+2753,Kundalahalli,1047.0,2.0,91.0,2
+2757,Kundalahalli,1724.0,3.0,140.0,3
+2758,Lakshminarayana Pura,1185.0,2.0,75.0,2
+2759,Lakshminarayana Pura,1600.0,2.0,108.0,3
+2760,Lakshminarayana Pura,1180.0,2.0,75.0,2
+2761,Lakshminarayana Pura,1179.0,2.0,75.0,2
+2762,Lakshminarayana Pura,1149.0,2.0,75.0,2
+2763,Lakshminarayana Pura,1336.0,2.0,100.0,2
+2764,Lakshminarayana Pura,1175.0,2.0,75.0,2
+2765,Lakshminarayana Pura,1190.0,2.0,75.0,2
+2766,Lakshminarayana Pura,1200.0,2.0,75.0,2
+2767,Lakshminarayana Pura,1165.0,2.0,75.0,2
+2768,Lakshminarayana Pura,1145.0,2.0,75.0,2
+2769,Lakshminarayana Pura,1500.0,3.0,104.0,3
+2770,Lakshminarayana Pura,1169.0,2.0,75.0,2
+2771,Lakshminarayana Pura,1200.0,2.0,75.0,2
+2772,Lakshminarayana Pura,1172.0,2.0,75.0,2
+2773,Lakshminarayana Pura,1180.0,2.0,75.0,2
+2774,Lakshminarayana Pura,1200.0,2.0,83.0,2
+2775,Lakshminarayana Pura,1200.0,2.0,80.0,2
+2776,Lakshminarayana Pura,1195.0,2.0,75.0,2
+2777,Lakshminarayana Pura,1200.0,2.0,80.0,2
+2778,Lingadheeranahalli,1521.0,3.0,95.0,3
+2779,Lingadheeranahalli,1511.0,3.0,95.0,3
+2780,Lingadheeranahalli,1683.0,3.0,109.0,3
+2781,Lingadheeranahalli,1519.0,3.0,93.0,3
+2782,Lingadheeranahalli,1521.0,3.0,94.99,3
+2783,Lingadheeranahalli,1682.0,3.0,120.0,3
+2784,Lingadheeranahalli,1521.0,3.0,94.71,3
+2785,Lingadheeranahalli,1893.0,3.0,130.0,3
+2786,Lingadheeranahalli,1705.0,3.0,110.0,3
+2787,Lingadheeranahalli,2245.0,4.0,154.0,4
+2788,Lingadheeranahalli,1682.0,3.0,113.0,3
+2789,Lingadheeranahalli,1682.0,3.0,114.0,3
+2790,Lingadheeranahalli,1506.0,3.0,95.0,3
+2791,Lingadheeranahalli,1683.0,3.0,110.0,3
+2792,Lingadheeranahalli,1684.0,3.0,120.0,3
+2793,Lingadheeranahalli,2236.0,4.0,153.0,4
+2794,Lingadheeranahalli,1894.0,4.0,114.0,3
+2795,Lingadheeranahalli,2240.0,4.0,160.0,4
+2796,Magadi Road,1116.0,2.0,50.0,2
+2798,Magadi Road,884.0,2.0,41.1,2
+2799,Magadi Road,1005.0,2.0,55.78,2
+2800,Magadi Road,1000.0,2.0,46.5,2
+2802,Magadi Road,1345.0,2.0,55.0,2
+2804,Magadi Road,1116.0,2.0,51.89,2
+2805,Magadi Road,1052.0,2.0,60.0,3
+2806,Magadi Road,1318.0,2.0,68.0,3
+2808,Magadi Road,884.0,2.0,48.0,2
+2809,Mahadevpura,1434.0,2.0,67.39,3
+2810,Mahadevpura,1146.0,2.0,53.8,2
+2812,Mahadevpura,1400.0,2.0,65.8,3
+2813,Mahadevpura,1137.0,2.0,53.4,2
+2814,Mahadevpura,1152.0,2.0,54.0,2
+2815,Mahadevpura,1212.0,2.0,56.9,2
+2818,Mahadevpura,1236.0,2.0,58.0,2
+2819,Mahadevpura,1236.0,2.0,58.0,2
+2820,Malleshwaram,705.0,1.0,67.0,1
+2821,Malleshwaram,2500.0,5.0,325.0,4
+2822,Malleshwaram,686.0,1.0,62.5,1
+2823,Malleshwaram,2475.0,4.0,332.0,3
+2824,Malleshwaram,2475.0,4.0,320.0,3
+2825,Malleshwaram,900.0,2.0,95.0,2
+2826,Malleshwaram,1420.0,2.0,158.0,2
+2827,Malleshwaram,2000.0,3.0,250.0,3
+2828,Malleshwaram,2215.0,3.0,275.0,3
+2829,Malleshwaram,2475.0,4.0,300.0,3
+2830,Malleshwaram,1290.0,2.0,120.0,2
+2831,Malleshwaram,2475.0,4.0,326.0,3
+2832,Malleshwaram,2476.0,3.0,337.0,3
+2833,Malleshwaram,2475.0,4.0,337.0,3
+2834,Malleshwaram,2215.0,3.0,275.0,3
+2835,Malleshwaram,2200.0,3.0,275.0,3
+2836,Malleshwaram,2475.0,4.0,326.0,3
+2837,Malleshwaram,2475.0,4.0,340.0,3
+2838,Malleshwaram,2475.0,4.0,300.0,3
+2840,Marathahalli,1200.0,2.0,60.0,2
+2841,Marathahalli,1230.0,2.0,80.0,2
+2842,Marathahalli,3800.0,4.0,250.0,4
+2843,Marathahalli,1215.0,2.0,67.0,2
+2844,Marathahalli,2181.0,3.0,152.0,4
+2846,Marathahalli,1146.0,2.0,70.0,2
+2847,Marathahalli,1469.0,3.0,89.0,3
+2850,Marathahalli,1583.0,3.0,105.0,3
+2851,Marathahalli,1900.0,3.0,123.0,3
+2853,Marathahalli,1365.0,2.0,73.0,2
+2858,Marathahalli,1325.0,1.0,92.0,2
+2860,Marathahalli,1350.0,2.0,86.0,2
+2862,Marathahalli,607.0,1.0,35.0,1
+2863,Marathahalli,1583.0,3.0,109.0,3
+2865,Marathahalli,1350.0,2.0,89.0,2
+2866,Marathahalli,1020.0,2.0,57.0,2
+2867,Marathahalli,1600.0,3.0,88.0,2
+2869,Marathahalli,1358.0,2.0,81.0,2
+2870,Marathahalli,1205.0,2.0,75.0,2
+2871,Marathahalli,1200.0,2.0,67.0,2
+2872,Marathahalli,1050.0,2.0,65.0,2
+2875,Marathahalli,881.0,2.0,48.06,2
+2878,Marathahalli,1680.0,3.0,105.0,3
+2879,Marathahalli,700.0,1.0,38.0,1
+2880,Marathahalli,1469.0,3.0,89.0,3
+2881,Marathahalli,1690.0,3.0,116.0,3
+2882,Marathahalli,1065.0,2.0,55.0,2
+2885,Marathahalli,1730.0,3.0,115.0,3
+2886,Marathahalli,1250.0,2.0,68.0,2
+2887,Marathahalli,1350.0,2.0,90.0,2
+2888,Marathahalli,2500.0,5.0,175.0,4
+2890,Marathahalli,3400.0,4.0,235.0,4
+2891,Marathahalli,3800.0,4.0,235.0,4
+2892,Marathahalli,3951.0,4.0,230.0,4
+2893,Marathahalli,1270.0,2.0,73.0,2
+2895,Marathahalli,1144.0,2.0,65.0,2
+2899,Marathahalli,1270.0,2.0,80.0,2
+2900,Marathahalli,1146.0,2.0,69.0,2
+2901,Marsur,1800.0,4.0,145.0,4
+2902,Marsur,1200.0,3.0,90.0,3
+2903,Marsur,1200.0,3.0,120.0,3
+2904,Munnekollal,1102.0,2.0,53.67,2
+2905,Munnekollal,1390.0,3.0,68.0,3
+2906,Munnekollal,950.0,2.0,46.5,2
+2907,Munnekollal,1560.0,3.0,75.0,3
+2908,Munnekollal,1750.0,3.0,86.5,3
+2909,Munnekollal,1385.0,2.0,66.5,3
+2910,Munnekollal,1080.0,2.0,45.0,2
+2911,Munnekollal,1540.0,2.0,70.0,3
+2912,Munnekollal,1200.0,2.0,57.9,3
+2913,Munnekollal,1030.0,2.0,50.36,2
+2914,Mysore Road,1175.0,2.0,73.5,2
+2916,Mysore Road,1200.0,2.0,85.0,2
+2917,Mysore Road,1060.0,2.0,62.0,2
+2918,Mysore Road,980.0,2.0,45.47,2
+2919,Mysore Road,1070.0,2.0,49.65,2
+2920,Mysore Road,883.0,2.0,50.0,2
+2921,Mysore Road,1237.0,2.0,73.0,2
+2922,Mysore Road,883.0,2.0,45.0,2
+2923,Mysore Road,1029.5,2.0,50.855,2
+2924,Mysore Road,940.0,2.0,43.61,2
+2926,Mysore Road,1568.0,2.0,100.0,3
+2928,Mysore Road,1175.0,2.0,70.5,2
+2930,Nagarbhavi,884.0,2.0,36.0,1
+2931,Nagarbhavi,1350.0,2.0,54.6,3
+2932,Nagarbhavi,1223.0,2.0,60.0,2
+2933,Nagarbhavi,956.0,2.0,49.0,2
+2934,Nagarbhavi,1560.0,3.0,66.0,3
+2935,Nagarbhavi,1515.0,2.0,79.0,3
+2936,Nagarbhavi,1146.0,2.0,50.0,2
+2937,Nagarbhavi,1190.0,2.0,63.0,2
+2938,Nagarbhavi,1635.0,3.0,85.0,3
+2939,Nagavarapalya,1392.0,2.0,99.0,2
+2940,Nagavarapalya,705.0,1.0,52.5,1
+2941,Nagavarapalya,1300.0,3.0,80.0,3
+2942,Nagavarapalya,705.0,1.0,57.0,1
+2943,Nagavarapalya,705.0,1.0,55.0,1
+2944,Nagavarapalya,705.0,1.0,57.0,1
+2945,Nagavarapalya,1335.0,2.0,110.0,2
+2946,Neeladri Nagar,1053.0,2.0,45.0,2
+2947,Neeladri Nagar,1363.0,2.0,68.0,2
+2948,Neeladri Nagar,2556.0,3.0,133.0,3
+2949,Neeladri Nagar,674.0,1.0,21.0,1
+2950,Neeladri Nagar,527.0,1.0,26.0,1
+2951,Neeladri Nagar,1167.0,2.0,38.0,3
+2952,Neeladri Nagar,640.0,1.0,20.5,1
+2953,Neeladri Nagar,1105.0,2.0,30.0,2
+2954,Neeladri Nagar,1100.0,2.0,30.0,2
+2955,Neeladri Nagar,2111.0,3.0,103.0,3
+2956,Old Airport Road,2732.0,4.0,204.0,4
+2957,Old Airport Road,2690.0,4.0,191.0,4
+2958,Old Airport Road,2690.0,4.0,199.0,4
+2959,Old Airport Road,2690.0,4.0,191.0,4
+2960,Old Airport Road,2658.0,5.0,187.0,4
+2961,Old Airport Road,2774.0,4.0,208.0,4
+2962,Old Airport Road,2774.0,4.0,208.0,4
+2963,Old Airport Road,2690.0,4.0,201.0,4
+2964,Old Airport Road,2732.0,4.0,194.0,4
+2965,Old Airport Road,2658.0,5.0,189.0,4
+2966,Old Airport Road,2774.0,4.0,197.0,4
+2967,Old Airport Road,2774.0,4.0,197.0,4
+2968,Old Airport Road,2732.0,4.0,204.0,4
+2969,Old Airport Road,2774.0,4.0,208.0,4
+2970,Old Airport Road,1184.0,2.0,78.0,2
+2971,Old Airport Road,1055.0,2.0,75.0,2
+2972,Old Madras Road,1425.0,2.0,94.0,3
+2973,Old Madras Road,3715.0,6.0,224.5,4
+2976,Old Madras Road,935.0,2.0,45.0,2
+2978,Old Madras Road,1720.0,3.0,100.0,3
+2979,Old Madras Road,1200.0,2.0,72.0,2
+2980,Old Madras Road,1225.0,2.0,53.55,2
+2981,Old Madras Road,1100.0,2.0,70.0,2
+2982,Old Madras Road,2760.0,5.0,157.0,3
+2983,Old Madras Road,1171.0,2.0,75.0,2
+2984,Old Madras Road,935.0,2.0,45.0,2
+2985,Old Madras Road,4500.0,7.0,294.0,5
+2987,Old Madras Road,1065.0,2.0,47.86,2
+2988,Old Madras Road,2010.0,3.0,125.0,4
+2990,Old Madras Road,1480.0,2.0,84.0,3
+2991,Old Madras Road,1210.0,2.0,74.0,2
+2992,Old Madras Road,1171.0,2.0,72.0,2
+2994,Old Madras Road,1480.0,3.0,95.0,3
+2996,Old Madras Road,1210.0,2.0,80.0,2
+2997,Old Madras Road,1859.0,3.0,121.0,3
+2998,Old Madras Road,2990.0,5.0,173.0,3
+3000,Old Madras Road,2300.0,3.0,142.0,3
+3002,Old Madras Road,1210.0,2.0,80.0,2
+3003,Old Madras Road,1210.0,2.0,77.0,2
+3004,Old Madras Road,5020.0,7.0,287.0,5
+3006,Old Madras Road,1330.0,2.0,74.0,2
+3007,Old Madras Road,1720.0,3.0,106.0,3
+3008,Old Madras Road,2640.0,5.0,150.0,3
+3009,Old Madras Road,2990.0,3.0,170.0,3
+3011,Old Madras Road,1171.0,2.0,73.0,2
+3012,Old Madras Road,1630.0,3.0,110.0,3
+3013,Old Madras Road,1165.0,2.0,52.0,2
+3014,Old Madras Road,2640.0,2.0,170.0,2
+3015,Old Madras Road,1165.0,2.0,51.42,2
+3016,Padmanabhanagar,1100.0,2.0,65.0,2
+3017,Padmanabhanagar,1531.0,2.0,75.0,3
+3018,Padmanabhanagar,1400.0,3.0,65.0,3
+3019,Padmanabhanagar,1200.0,2.0,60.0,2
+3020,Padmanabhanagar,1067.0,2.0,52.0,2
+3021,Padmanabhanagar,1250.0,2.0,70.0,3
+3022,Padmanabhanagar,1360.0,3.0,75.0,3
+3023,Padmanabhanagar,2051.0,3.0,170.0,3
+3024,Padmanabhanagar,1150.0,2.0,50.0,2
+3025,Panathur,1359.0,2.0,87.0,2
+3026,Panathur,1438.0,2.0,100.0,2
+3027,Panathur,1688.0,3.0,118.0,3
+3028,Panathur,1198.0,2.0,77.0,2
+3029,Panathur,1180.0,2.0,70.0,2
+3030,Panathur,1546.0,3.0,99.0,3
+3031,Panathur,1195.0,2.0,84.0,2
+3033,Panathur,1109.0,2.0,63.0,2
+3034,Panathur,1199.0,2.0,85.0,2
+3035,Panathur,1255.0,2.0,79.0,2
+3036,Panathur,1198.0,2.0,82.0,2
+3037,Panathur,1235.0,2.0,65.0,2
+3038,Panathur,1199.0,2.0,85.0,2
+3039,Panathur,1199.0,2.0,85.0,2
+3040,Panathur,1713.0,3.0,120.0,3
+3042,Panathur,1398.0,2.0,97.0,2
+3043,Panathur,1230.0,2.0,80.0,2
+3044,Panathur,980.0,2.0,57.0,2
+3045,Panathur,1075.0,2.0,60.0,2
+3046,Panathur,1343.0,2.0,76.0,2
+3047,Parappana Agrahara,1194.0,2.0,47.0,2
+3048,Parappana Agrahara,1194.0,2.0,47.0,2
+3049,Parappana Agrahara,1194.0,2.0,47.0,2
+3050,Parappana Agrahara,1194.0,2.0,47.0,2
+3051,Parappana Agrahara,1194.0,2.0,47.0,2
+3052,Parappana Agrahara,1194.0,2.0,47.0,2
+3053,Parappana Agrahara,1194.0,2.0,47.0,2
+3054,Pattandur Agrahara,1550.0,2.0,80.0,3
+3055,Pattandur Agrahara,1025.0,2.0,44.5,2
+3056,Pattandur Agrahara,1247.0,2.0,59.8,2
+3057,Pattandur Agrahara,900.0,2.0,42.0,2
+3058,Pattandur Agrahara,1302.0,2.0,66.0,2
+3059,Pattandur Agrahara,1550.0,2.0,80.0,3
+3060,Pattandur Agrahara,1247.0,2.0,62.35,2
+3061,Pattandur Agrahara,1350.0,2.0,68.0,2
+3065,Rachenahalli,1050.0,2.0,52.5,2
+3067,Rachenahalli,1113.0,2.0,55.0,2
+3071,Rachenahalli,680.0,1.0,32.64,1
+3072,Rachenahalli,412.5,1.0,19.8,1
+3075,Rachenahalli,690.0,1.0,39.8,1
+3076,Rachenahalli,985.0,2.0,49.97,2
+3079,Rachenahalli,2710.0,3.0,170.0,3
+3080,Rachenahalli,985.0,2.0,49.97,2
+3081,Rachenahalli,1856.0,3.0,106.0,3
+3082,Rachenahalli,985.0,2.0,50.17,2
+3083,Rachenahalli,2600.0,3.0,160.0,3
+3084,Rachenahalli,1756.0,3.0,110.0,3
+3087,Rachenahalli,985.0,2.0,50.17,2
+3088,Raja Rajeshwari Nagar,1540.0,3.0,60.0,3
+3090,Raja Rajeshwari Nagar,1295.0,2.0,43.9,2
+3091,Raja Rajeshwari Nagar,1145.0,2.0,45.79,2
+3092,Raja Rajeshwari Nagar,1419.0,2.0,48.1,2
+3093,Raja Rajeshwari Nagar,1295.0,2.0,55.47,2
+3094,Raja Rajeshwari Nagar,1133.0,2.0,49.07,2
+3095,Raja Rajeshwari Nagar,1090.0,2.0,42.0,2
+3096,Raja Rajeshwari Nagar,1141.0,2.0,38.55,2
+3097,Raja Rajeshwari Nagar,1140.0,2.0,49.39,2
+3098,Raja Rajeshwari Nagar,1303.0,2.0,55.79,2
+3099,Raja Rajeshwari Nagar,1143.0,2.0,38.65,2
+3100,Raja Rajeshwari Nagar,1610.0,3.0,74.0,3
+3102,Raja Rajeshwari Nagar,1128.0,2.0,38.24,2
+3103,Raja Rajeshwari Nagar,1157.0,2.0,53.8,2
+3105,Raja Rajeshwari Nagar,1530.0,3.0,61.2,3
+3106,Raja Rajeshwari Nagar,1030.0,2.0,50.0,2
+3107,Raja Rajeshwari Nagar,1144.0,2.0,38.55,2
+3108,Raja Rajeshwari Nagar,1196.0,2.0,51.51,2
+3109,Raja Rajeshwari Nagar,1306.0,2.0,55.91,2
+3110,Raja Rajeshwari Nagar,1608.0,3.0,67.98,3
+3112,Raja Rajeshwari Nagar,1151.0,2.0,39.02,2
+3113,Raja Rajeshwari Nagar,1570.0,2.0,65.0,3
+3115,Raja Rajeshwari Nagar,1196.0,2.0,51.15,2
+3116,Raja Rajeshwari Nagar,1419.0,2.0,48.0,2
+3117,Raja Rajeshwari Nagar,1560.0,2.0,62.4,3
+3118,Raja Rajeshwari Nagar,648.0,1.0,31.75,1
+3119,Raja Rajeshwari Nagar,1140.0,2.0,38.55,2
+3120,Raja Rajeshwari Nagar,1090.0,2.0,43.59,2
+3122,Raja Rajeshwari Nagar,1023.0,2.0,42.0,2
+3123,Raja Rajeshwari Nagar,1070.0,2.0,50.0,2
+3124,Raja Rajeshwari Nagar,1510.0,2.0,59.0,3
+3125,Raja Rajeshwari Nagar,1128.0,2.0,48.79,2
+3126,Raja Rajeshwari Nagar,1267.0,2.0,42.85,2
+3127,Raja Rajeshwari Nagar,1120.0,2.0,37.95,2
+3128,Raja Rajeshwari Nagar,1240.0,2.0,53.27,2
+3129,Raja Rajeshwari Nagar,1165.0,2.0,45.0,2
+3130,Raja Rajeshwari Nagar,1120.0,2.0,37.97,2
+3131,Raja Rajeshwari Nagar,1140.0,2.0,38.65,2
+3132,Raja Rajeshwari Nagar,1303.0,2.0,44.17,2
+3134,Raja Rajeshwari Nagar,1185.0,2.0,40.17,2
+3135,Raja Rajeshwari Nagar,1140.0,2.0,49.27,2
+3137,Raja Rajeshwari Nagar,1095.0,2.0,38.33,2
+3138,Raja Rajeshwari Nagar,1303.0,2.0,55.79,2
+3139,Raja Rajeshwari Nagar,1133.0,2.0,38.41,2
+3140,Raja Rajeshwari Nagar,1151.0,2.0,49.0,2
+3141,Raja Rajeshwari Nagar,1267.0,2.0,54.35,2
+3143,Raja Rajeshwari Nagar,1100.0,2.0,50.0,2
+3144,Raja Rajeshwari Nagar,1185.0,2.0,40.17,2
+3145,Raja Rajeshwari Nagar,1751.0,3.0,72.0,3
+3146,Raja Rajeshwari Nagar,1306.0,2.0,44.17,2
+3147,Raja Rajeshwari Nagar,1196.0,2.0,40.44,2
+3148,Raja Rajeshwari Nagar,1128.0,2.0,40.0,2
+3149,Raja Rajeshwari Nagar,1151.0,2.0,39.0,2
+3150,Raja Rajeshwari Nagar,1375.0,2.0,54.99,3
+3151,Raja Rajeshwari Nagar,1060.0,2.0,48.0,2
+3152,Raja Rajeshwari Nagar,1128.0,2.0,48.79,2
+3153,Raja Rajeshwari Nagar,1170.0,2.0,50.0,2
+3154,Raja Rajeshwari Nagar,1185.0,2.0,51.15,2
+3155,Raja Rajeshwari Nagar,1255.0,2.0,53.87,2
+3156,Raja Rajeshwari Nagar,1419.0,2.0,60.42,2
+3157,Raja Rajeshwari Nagar,1693.0,3.0,71.38,3
+3158,Raja Rajeshwari Nagar,1196.0,2.0,40.54,2
+3159,Raja Rajeshwari Nagar,1196.0,2.0,40.54,2
+3162,Raja Rajeshwari Nagar,1133.0,2.0,38.37,2
+3163,Raja Rajeshwari Nagar,1140.0,2.0,48.7,2
+3164,Raja Rajeshwari Nagar,1140.0,2.0,38.65,2
+3165,Raja Rajeshwari Nagar,1140.0,2.0,38.55,2
+3166,Raja Rajeshwari Nagar,1295.0,2.0,55.47,2
+3167,Raja Rajeshwari Nagar,1133.0,2.0,40.0,2
+3171,Raja Rajeshwari Nagar,1185.0,2.0,51.15,2
+3172,Raja Rajeshwari Nagar,1295.0,2.0,43.9,2
+3173,Raja Rajeshwari Nagar,1196.0,2.0,40.54,2
+3174,Raja Rajeshwari Nagar,1240.0,2.0,42.04,2
+3175,Raja Rajeshwari Nagar,1530.0,3.0,64.0,3
+3176,Raja Rajeshwari Nagar,1587.0,3.0,73.8,3
+3178,Raja Rajeshwari Nagar,1295.0,2.0,55.47,2
+3179,Raja Rajeshwari Nagar,945.0,2.0,45.0,2
+3180,Raja Rajeshwari Nagar,1303.0,2.0,55.78,2
+3181,Raja Rajeshwari Nagar,1419.0,2.0,48.1,2
+3182,Raja Rajeshwari Nagar,1270.0,2.0,62.0,2
+3183,Raja Rajeshwari Nagar,1260.0,2.0,62.0,3
+3184,Raja Rajeshwari Nagar,1196.0,2.0,40.54,2
+3185,Raja Rajeshwari Nagar,1580.0,2.0,66.85,3
+3186,Raja Rajeshwari Nagar,1196.0,2.0,40.54,2
+3187,Raja Rajeshwari Nagar,1206.0,2.0,40.7,2
+3188,Raja Rajeshwari Nagar,1485.0,2.0,63.0,3
+3189,Raja Rajeshwari Nagar,1335.0,2.0,56.0,3
+3191,Raja Rajeshwari Nagar,1255.0,2.0,42.54,2
+3192,Raja Rajeshwari Nagar,1530.0,3.0,64.86,3
+3193,Raja Rajeshwari Nagar,1140.0,2.0,44.0,2
+3194,Raja Rajeshwari Nagar,1140.0,2.0,39.0,2
+3195,Raja Rajeshwari Nagar,1187.0,2.0,40.14,2
+3196,Rajaji Nagar,1640.0,3.0,229.0,3
+3198,Rajaji Nagar,3516.0,4.0,540.0,4
+3199,Rajaji Nagar,1640.0,3.0,223.0,3
+3200,Rajaji Nagar,2849.0,5.0,300.0,5
+3201,Rajaji Nagar,1800.0,3.0,260.0,3
+3202,Rajaji Nagar,1640.0,3.0,241.0,3
+3203,Rajaji Nagar,1370.0,2.0,170.0,2
+3204,Rajaji Nagar,2409.0,3.0,360.0,3
+3205,Rajaji Nagar,3436.0,6.0,500.0,4
+3206,Rajaji Nagar,1440.0,2.0,170.0,2
+3207,Rajaji Nagar,1440.0,2.0,185.0,2
+3208,Rajaji Nagar,1640.0,3.0,230.0,3
+3209,Rajaji Nagar,1800.0,2.0,250.0,3
+3210,Rajaji Nagar,1640.0,3.0,220.0,3
+3211,Rajaji Nagar,2500.0,3.0,350.0,3
+3214,Rajaji Nagar,2559.0,3.0,403.0,3
+3215,Rajaji Nagar,1763.0,3.0,262.0,2
+3216,Rajaji Nagar,1640.0,3.0,220.0,3
+3217,Rajaji Nagar,1800.0,3.0,240.0,3
+3218,Rajaji Nagar,1268.0,2.0,127.0,2
+3219,Rajaji Nagar,2450.0,3.0,330.0,3
+3220,Rajaji Nagar,1640.0,3.0,251.0,3
+3221,Rajaji Nagar,2367.0,4.0,340.0,3
+3222,Rajaji Nagar,1720.0,3.0,224.0,3
+3223,Rajaji Nagar,2500.0,3.0,340.0,3
+3224,Rajaji Nagar,2390.0,3.0,372.0,3
+3225,Rajaji Nagar,1763.0,3.0,240.0,2
+3226,Rajaji Nagar,2367.0,3.0,320.0,3
+3227,Rajaji Nagar,1440.0,2.0,165.0,2
+3228,Rajaji Nagar,1640.0,3.0,245.0,3
+3229,Rajiv Nagar,1690.0,3.0,125.0,3
+3230,Rajiv Nagar,1263.0,2.0,93.32,2
+3231,Rajiv Nagar,2340.0,4.0,148.0,4
+3232,Rajiv Nagar,2340.0,5.0,129.0,4
+3233,Rajiv Nagar,1330.0,2.0,93.0,2
+3234,Rajiv Nagar,2340.0,5.0,129.0,4
+3235,Rajiv Nagar,2340.0,4.0,145.0,4
+3236,Rajiv Nagar,2330.0,5.0,175.0,4
+3237,Rajiv Nagar,2340.0,5.0,160.0,4
+3238,Ramagondanahalli,1151.0,2.0,48.77,2
+3239,Ramagondanahalli,1251.0,2.0,47.0,2
+3240,Ramagondanahalli,1235.0,2.0,52.04,2
+3241,Ramagondanahalli,1610.0,2.0,111.0,3
+3243,Ramagondanahalli,1235.0,2.0,46.8,2
+3244,Ramagondanahalli,1215.0,2.0,51.26,2
+3245,Ramagondanahalli,2257.0,4.0,157.0,3
+3246,Ramagondanahalli,1251.0,2.0,47.4,2
+3247,Ramagondanahalli,1610.0,2.0,115.0,3
+3248,Ramagondanahalli,920.0,2.0,65.0,2
+3249,Ramagondanahalli,1215.0,2.0,45.5,2
+3250,Ramagondanahalli,1253.0,2.0,52.66,2
+3251,Ramagondanahalli,1295.0,2.0,95.0,2
+3252,Ramagondanahalli,1151.0,2.0,50.5,2
+3253,Ramagondanahalli,1235.0,2.0,49.3,2
+3254,Ramagondanahalli,2257.0,3.0,159.0,3
+3255,Ramagondanahalli,1295.0,2.0,95.0,2
+3257,Ramagondanahalli,1910.0,3.0,142.0,3
+3258,Ramagondanahalli,1215.0,2.0,46.1,2
+3260,Ramagondanahalli,1251.0,2.0,50.0,2
+3261,Ramagondanahalli,1610.0,2.0,115.0,3
+3262,Ramagondanahalli,1151.0,2.0,43.6,2
+3264,Ramagondanahalli,1251.0,2.0,53.0,2
+3265,Ramagondanahalli,1910.0,3.0,150.0,3
+3268,Ramagondanahalli,1251.0,2.0,46.0,2
+3270,Ramagondanahalli,1151.0,2.0,46.0,2
+3271,Ramagondanahalli,1610.0,2.0,112.0,3
+3272,Ramagondanahalli,1610.0,2.0,115.0,3
+3273,Ramagondanahalli,2787.0,5.0,220.0,4
+3275,Ramagondanahalli,1125.0,2.0,75.0,2
+3276,Ramagondanahalli,1151.0,2.0,42.5,2
+3277,Ramagondanahalli,2257.0,3.0,155.0,3
+3278,Ramagondanahalli,1500.0,3.0,100.0,3
+3279,Ramagondanahalli,1910.0,3.0,131.0,3
+3280,Ramamurthy Nagar,1040.0,2.0,50.0,2
+3281,Ramamurthy Nagar,1185.0,2.0,45.5,2
+3282,Ramamurthy Nagar,1170.0,2.0,46.8,2
+3283,Ramamurthy Nagar,1200.0,2.0,48.0,2
+3287,Ramamurthy Nagar,1125.0,2.0,47.0,2
+3288,Ramamurthy Nagar,1200.0,2.0,46.0,2
+3289,Ramamurthy Nagar,1200.0,2.0,57.9,2
+3290,Ramamurthy Nagar,1305.0,3.0,60.0,3
+3291,Ramamurthy Nagar,1170.0,2.0,44.0,2
+3292,Ramamurthy Nagar,1050.0,2.0,51.66,2
+3293,Ramamurthy Nagar,1101.0,2.0,50.0,2
+3294,Ramamurthy Nagar,935.0,2.0,39.0,2
+3295,Ramamurthy Nagar,960.0,2.0,35.0,2
+3296,Sahakara Nagar,2830.0,3.0,195.0,4
+3297,Sahakara Nagar,1500.0,2.0,95.0,3
+3298,Sahakara Nagar,1270.0,2.0,69.85,2
+3299,Sahakara Nagar,960.0,2.0,56.0,2
+3300,Sahakara Nagar,1048.0,2.0,50.0,2
+3301,Sahakara Nagar,1000.0,2.0,60.0,2
+3302,Sahakara Nagar,1370.0,2.0,90.0,3
+3303,Sahakara Nagar,1180.0,2.0,72.0,2
+3304,Sahakara Nagar,1270.0,2.0,96.0,2
+3305,Sahakara Nagar,1201.0,2.0,80.0,2
+3306,Sahakara Nagar,1291.0,2.0,72.3,2
+3307,Sarjapur,2250.0,3.0,148.0,3
+3308,Sarjapur,1600.0,3.0,75.0,3
+3309,Sarjapur,1242.5,2.0,43.49,2
+3310,Sarjapur,1128.0,2.0,60.0,2
+3311,Sarjapur,1185.0,2.0,47.0,2
+3312,Sarjapur,649.5,1.0,17.535,1
+3313,Sarjapur,1020.0,2.0,35.0,2
+3314,Sarjapur,950.0,2.0,32.5,2
+3315,Sarjapur,1285.0,2.0,68.0,3
+3316,Sarjapur,3190.0,3.0,160.0,4
+3317,Sarjapur,1215.0,2.0,40.0,2
+3319,Sarjapur,1200.0,3.0,78.0,3
+3320,Sarjapur,1000.0,2.0,30.0,2
+3321,Sarjapur,1157.0,2.0,40.0,2
+3322,Sarjapur,625.0,1.0,19.0,1
+3323,Sarjapur,2585.5,4.0,139.5,4
+3324,Sarjapur,940.0,2.0,25.38,2
+3325,Sarjapur,1404.0,2.0,53.35,3
+3326,Sarjapur,1364.0,2.0,56.0,3
+3327,Sarjapur,1124.0,2.0,30.35,2
+3328,Sarjapur,1044.0,2.0,32.0,2
+3329,Sarjapur,650.0,1.0,19.87,1
+3331,Sarjapur,1044.0,2.0,34.0,2
+3332,Sarjapur,1200.0,3.0,76.13,3
+3333,Sarjapur,1200.0,2.0,62.0,2
+3334,Sarjapur,900.0,2.0,27.98,2
+3337,Sarjapur,920.0,2.0,33.0,2
+3339,Sarjapur,1333.0,3.0,50.0,3
+3340,Sarjapur,1044.0,2.0,36.0,2
+3341,Sarjapur,950.0,2.0,35.0,2
+3343,Sarjapur,2172.0,3.0,100.0,3
+3344,Sarjapur,633.0,1.0,17.09,1
+3345,Sarjapur,1500.0,5.0,95.0,3
+3346,Sarjapur,2400.0,3.0,140.0,4
+3347,Sarjapur,1095.0,2.0,45.0,2
+3348,Sarjapur  Road,2497.0,3.0,140.0,3
+3350,Sarjapur  Road,1787.0,3.0,125.0,3
+3354,Sarjapur  Road,1346.0,2.0,74.03,2
+3355,Sarjapur  Road,1195.0,2.0,70.0,2
+3356,Sarjapur  Road,1550.0,3.0,100.0,3
+3357,Sarjapur  Road,2100.0,3.0,125.0,3
+3358,Sarjapur  Road,1691.0,3.0,113.0,3
+3359,Sarjapur  Road,1278.0,2.0,95.0,2
+3361,Sarjapur  Road,1984.0,4.0,146.0,3
+3365,Sarjapur  Road,1700.0,3.0,110.0,3
+3366,Sarjapur  Road,1157.0,2.0,75.0,3
+3367,Sarjapur  Road,1282.0,2.0,72.0,2
+3368,Sarjapur  Road,4111.0,4.0,310.0,4
+3369,Sarjapur  Road,3430.0,6.0,228.5,4
+3370,Sarjapur  Road,3900.0,4.0,300.0,4
+3373,Sarjapur  Road,1050.0,2.0,62.0,2
+3374,Sarjapur  Road,1700.0,3.0,135.0,3
+3375,Sarjapur  Road,1691.0,3.0,119.0,3
+3376,Sarjapur  Road,1846.0,3.0,140.0,3
+3379,Sarjapur  Road,1845.0,4.0,110.0,3
+3380,Sarjapur  Road,1233.0,2.0,77.65,2
+3382,Sarjapur  Road,3750.0,6.0,290.0,4
+3384,Sarjapur  Road,1680.0,3.0,112.0,3
+3385,Sarjapur  Road,1255.0,2.0,92.0,2
+3386,Sarjapur  Road,1311.0,2.0,78.0,2
+3387,Sarjapur  Road,1157.0,2.0,75.0,3
+3388,Sarjapur  Road,1145.0,2.0,75.0,2
+3391,Sarjapur  Road,2180.0,3.0,170.0,3
+3393,Sarjapur  Road,1750.0,3.0,110.0,3
+3396,Sarjapur  Road,1200.0,3.0,70.0,3
+3397,Sarjapur  Road,2600.0,3.0,200.0,3
+3398,Sarjapur  Road,685.0,1.0,40.0,1
+3400,Sarjapur  Road,1241.0,2.0,82.0,2
+3403,Sarjapur  Road,1280.0,2.0,76.0,2
+3406,Sarjapur  Road,1308.0,2.0,83.0,2
+3407,Sarjapur  Road,1592.0,3.0,91.0,3
+3408,Sarjapur  Road,1150.0,2.0,77.0,2
+3409,Sarjapur  Road,1965.0,3.0,120.0,3
+3410,Sarjapur  Road,2275.0,4.0,180.0,3
+3412,Sarjapur  Road,1418.0,2.0,78.0,2
+3413,Sarjapur  Road,1200.0,2.0,93.0,2
+3416,Sarjapur  Road,1525.0,2.0,87.0,3
+3419,Sarjapur  Road,715.0,1.0,29.0,1
+3420,Sarjapur  Road,1230.0,2.0,94.5,2
+3421,Sarjapur  Road,1750.0,3.0,99.0,3
+3423,Sarjapur  Road,1500.0,3.0,88.0,3
+3425,Sarjapur  Road,1846.0,3.0,145.0,3
+3426,Sarjapur  Road,1067.0,2.0,60.0,2
+3428,Sarjapur  Road,1700.0,3.0,95.0,3
+3430,Sarjapur  Road,2556.0,3.0,169.0,3
+3431,Sarjapur  Road,1278.0,2.0,90.0,2
+3433,Sarjapur  Road,1305.0,2.0,99.0,2
+3437,Sarjapur  Road,1455.0,2.0,98.0,3
+3438,Sarjapur  Road,1850.0,3.0,140.0,3
+3439,Sarjapur  Road,950.0,1.0,39.9,1
+3440,Sarjapur  Road,1826.0,3.0,130.0,3
+3441,Sarjapur  Road,1660.0,2.0,116.0,3
+3442,Sarjapur  Road,1700.0,3.0,108.0,3
+3445,Sarjapur  Road,539.0,1.0,45.0,1
+3446,Sarjapur  Road,1200.0,2.0,75.0,2
+3450,Sarjapur  Road,1877.0,4.0,150.0,3
+3451,Sarjapur  Road,1229.0,2.0,70.0,2
+3452,Sarjapur  Road,1711.0,3.0,110.0,3
+3453,Sarjapur  Road,1050.0,2.0,63.5,2
+3454,Sarjapur  Road,1350.0,2.0,102.0,2
+3456,Sarjapur  Road,1457.0,3.0,85.0,3
+3457,Sarjapur  Road,1685.0,3.0,135.0,3
+3459,Sarjapur  Road,1200.0,3.0,70.0,3
+3462,Sarjapur  Road,984.0,2.0,55.0,2
+3466,Sarjapur  Road,1320.0,2.0,100.0,2
+3467,Sarjapur  Road,1984.0,4.0,145.0,3
+3469,Sarjapur  Road,1550.0,2.0,89.0,3
+3470,Sarjapur  Road,2425.0,5.0,201.0,4
+3471,Sarjapur  Road,1691.0,3.0,113.0,3
+3472,Sarjapur  Road,2070.0,4.0,160.0,3
+3473,Sarjapur  Road,1435.0,3.0,90.0,3
+3475,Sarjapur  Road,1693.0,3.0,125.0,3
+3476,Sarjapur  Road,1826.0,3.0,125.0,3
+3477,Sarjapur  Road,1660.0,3.0,116.0,3
+3481,Sarjapur  Road,2900.0,4.0,240.0,4
+3482,Sarjapur  Road,1157.0,2.0,74.0,3
+3483,Sarjapur  Road,1700.0,3.0,118.0,3
+3484,Sarjapur  Road,1691.0,3.0,120.0,3
+3486,Sarjapur  Road,1308.0,2.0,75.0,2
+3487,Sarjapur  Road,1580.0,3.0,125.0,3
+3489,Sarjapur  Road,1763.25,3.0,98.0,3
+3490,Sarjapur  Road,1826.0,3.0,130.0,3
+3491,Sarjapur  Road,1550.0,2.0,98.0,3
+3494,Sarjapur  Road,984.0,2.0,59.0,2
+3495,Sarjapur  Road,1489.0,3.0,88.0,3
+3496,Sarjapur  Road,702.0,1.0,52.0,1
+3497,Sarjapur  Road,1242.0,2.0,75.0,2
+3498,Sarjapur  Road,2275.0,4.0,185.0,3
+3499,Sarjapur  Road,2100.0,3.0,135.0,3
+3501,Sarjapur  Road,1862.0,4.0,110.0,3
+3502,Sarjapur  Road,2275.0,4.0,175.0,3
+3503,Sarjapur  Road,1314.0,2.0,110.0,2
+3504,Sarjapur  Road,1787.0,3.0,116.0,3
+3506,Sarjapur  Road,1028.0,2.0,56.0,2
+3509,Sarjapur  Road,1691.0,3.0,100.0,3
+3510,Sarjapur  Road,1350.0,2.0,85.0,2
+3511,Sarjapur  Road,1157.0,2.0,72.0,3
+3512,Sarjapur  Road,1019.0,2.0,62.0,2
+3513,Sarjapur  Road,691.0,1.0,31.1,1
+3517,Sarjapur  Road,1881.0,3.0,145.0,3
+3518,Sarjapur  Road,2275.0,4.0,182.0,3
+3521,Sarjapur  Road,1881.0,3.0,145.0,3
+3523,Sarjapur  Road,2880.0,3.0,211.0,4
+3525,Sarjapur  Road,675.0,1.0,27.0,1
+3526,Sarjapur  Road,1346.0,2.0,74.03,2
+3527,Sarjapur  Road,1691.0,3.0,119.0,3
+3528,Sarjapur  Road,1335.0,2.0,95.0,2
+3530,Sarjapur  Road,1222.0,2.0,68.0,3
+3531,Sarjapur  Road,3420.0,4.0,225.0,4
+3532,Sarjapur  Road,1510.0,2.0,110.0,3
+3533,Sarjapur  Road,1242.0,2.0,78.0,2
+3535,Sarjapur  Road,1129.0,2.0,69.0,2
+3536,Sarjapur  Road,1850.0,3.0,140.0,3
+3538,Sarjapur  Road,1879.0,3.0,155.0,3
+3539,Sarjapur  Road,1157.0,2.0,75.0,3
+3540,Sarjapur  Road,2425.0,5.0,175.0,4
+3541,Sarjapur  Road,1323.0,2.0,74.0,2
+3542,Sarjapur  Road,2289.0,3.0,178.0,3
+3545,Sarjapur  Road,2100.0,3.0,130.0,3
+3546,Sarjapur  Road,702.0,1.0,35.8,1
+3547,Sarjapur  Road,1320.0,2.0,110.0,2
+3548,Sarjapur  Road,1800.0,3.0,128.0,3
+3549,Sarjapur  Road,2275.0,4.0,187.0,3
+3552,Sarjapur  Road,1112.0,2.0,62.0,2
+3554,Sarjapur  Road,1157.0,2.0,69.0,3
+3556,Sarjapur  Road,1026.0,2.0,60.8,2
+3558,Sarjapur  Road,1600.0,3.0,120.0,3
+3560,Sarjapur  Road,1346.0,2.0,74.03,2
+3561,Sarjapur  Road,475.0,1.0,26.0,1
+3564,Sarjapur  Road,1857.0,4.0,155.0,3
+3565,Sarjapur  Road,1660.0,2.0,116.0,3
+3568,Sarjapur  Road,2089.0,3.0,148.0,3
+3569,Sarjapur  Road,1290.0,2.0,88.0,2
+3570,Sarjapur  Road,1371.0,2.0,86.0,2
+3571,Sarjapur  Road,2140.0,3.0,139.0,3
+3574,Sarjapur  Road,2180.0,4.0,180.0,3
+3575,Sarjapur  Road,1691.0,3.0,119.0,3
+3576,Sarjapur  Road,2206.0,4.0,180.0,3
+3577,Sarjapur  Road,1691.0,3.0,100.0,3
+3578,Sarjapur  Road,1367.0,2.0,80.0,2
+3580,Sarjapur  Road,1984.0,4.0,148.0,3
+3581,Sarjapur  Road,1346.0,2.0,74.03,2
+3584,Sarjapur  Road,2425.0,5.0,195.0,4
+3585,Seegehalli,1525.0,3.0,65.0,3
+3586,Seegehalli,1830.0,4.0,82.0,3
+3587,Seegehalli,4000.0,3.0,235.0,3
+3589,Seegehalli,1553.0,3.0,68.0,3
+3590,Seegehalli,1639.0,3.0,120.0,3
+3591,Seegehalli,3000.0,4.0,235.0,3
+3592,Seegehalli,1683.0,3.0,80.0,3
+3593,Seegehalli,1176.0,2.0,50.0,2
+3594,Seegehalli,3000.0,4.0,240.0,3
+3595,Somasundara Palya,1255.0,2.0,67.0,2
+3596,Somasundara Palya,1448.0,2.0,68.0,2
+3597,Somasundara Palya,1178.0,2.0,73.0,2
+3598,Somasundara Palya,1260.0,2.0,60.0,2
+3599,Somasundara Palya,1174.0,2.0,74.0,2
+3600,Somasundara Palya,1033.0,2.0,48.0,2
+3601,Somasundara Palya,1185.0,2.0,70.0,2
+3602,Somasundara Palya,1200.0,2.0,75.0,2
+3603,Somasundara Palya,2400.0,3.0,140.0,4
+3604,Somasundara Palya,1186.0,2.0,72.0,2
+3605,Somasundara Palya,1186.0,2.0,76.0,2
+3606,Somasundara Palya,1185.0,2.0,75.0,2
+3607,Sonnenahalli,1415.0,2.0,55.0,3
+3608,Sonnenahalli,896.0,2.0,43.75,2
+3609,Sonnenahalli,1100.0,2.0,44.0,2
+3610,Sonnenahalli,1011.0,2.0,50.53,2
+3611,Sonnenahalli,614.5,1.0,30.715,1
+3612,Sonnenahalli,1484.0,3.0,74.18,3
+3613,Sonnenahalli,1610.0,3.0,80.48,3
+3614,Sonnenahalli,1415.0,2.0,65.0,3
+3615,Sonnenahalli,1268.0,2.0,58.0,2
+3616,Sonnenahalli,1268.0,2.0,56.0,2
+3617,Sonnenahalli,605.0,1.0,30.24,1
+3618,Sonnenahalli,1484.0,3.0,75.0,3
+3619,Subramanyapura,929.0,2.0,50.17,2
+3620,Subramanyapura,975.0,2.0,58.0,2
+3621,Subramanyapura,985.0,2.0,58.0,2
+3623,Subramanyapura,1313.0,2.0,73.0,2
+3624,Subramanyapura,1313.0,2.0,66.5,2
+3626,Subramanyapura,929.0,2.0,48.0,2
+3627,Subramanyapura,950.0,2.0,55.0,2
+3628,Subramanyapura,929.0,2.0,56.0,2
+3630,Subramanyapura,1260.0,2.0,76.0,3
+3631,Subramanyapura,960.0,2.0,55.0,2
+3632,Subramanyapura,1260.0,2.0,73.0,3
+3635,Subramanyapura,929.0,2.0,49.0,2
+3636,Subramanyapura,1260.0,2.0,75.0,3
+3638,Subramanyapura,929.0,1.0,51.0,2
+3639,Subramanyapura,1880.0,3.0,110.0,3
+3640,Talaghattapura,1868.0,3.0,131.0,3
+3641,Talaghattapura,2254.0,3.0,170.0,3
+3642,Talaghattapura,1868.0,3.0,121.0,3
+3643,Talaghattapura,1868.0,3.0,135.0,3
+3644,Talaghattapura,1856.0,3.0,135.0,3
+3645,Talaghattapura,1868.0,3.0,120.0,3
+3646,Talaghattapura,2254.0,3.0,170.0,3
+3647,Talaghattapura,2254.0,3.0,170.0,3
+3648,Talaghattapura,1804.0,3.0,115.0,3
+3649,Talaghattapura,1856.0,3.0,135.0,3
+3650,Talaghattapura,2254.0,3.0,153.0,3
+3651,Talaghattapura,2106.0,3.0,148.0,3
+3652,Talaghattapura,1856.0,3.0,135.0,3
+3653,Talaghattapura,2273.0,3.0,159.0,3
+3654,Talaghattapura,2099.0,3.0,147.0,3
+3655,Talaghattapura,2273.0,3.0,145.0,3
+3656,Talaghattapura,1804.0,3.0,127.0,3
+3657,Talaghattapura,2265.0,3.0,159.0,3
+3658,Talaghattapura,2099.0,3.0,134.0,3
+3659,Thanisandra,510.0,1.0,25.25,1
+3660,Thanisandra,1296.0,2.0,80.0,2
+3661,Thanisandra,2144.0,3.0,145.0,3
+3662,Thanisandra,445.0,1.0,28.0,1
+3663,Thanisandra,1296.0,2.0,83.0,2
+3664,Thanisandra,2144.0,3.0,135.0,3
+3666,Thanisandra,1093.0,2.0,70.0,2
+3667,Thanisandra,1265.0,2.0,79.0,3
+3668,Thanisandra,1265.0,2.0,85.0,2
+3669,Thanisandra,510.0,1.0,25.25,1
+3670,Thanisandra,1564.0,3.0,101.0,3
+3672,Thanisandra,1847.0,3.0,123.0,3
+3674,Thanisandra,1697.0,3.0,114.0,3
+3675,Thanisandra,1573.0,3.0,95.0,3
+3676,Thanisandra,1917.0,3.0,122.0,3
+3677,Thanisandra,693.0,1.0,34.3,1
+3678,Thanisandra,1098.0,2.0,68.0,2
+3679,Thanisandra,760.0,1.0,50.3,1
+3685,Thanisandra,1697.0,3.0,115.0,3
+3686,Thanisandra,923.0,1.0,60.84,1
+3688,Thanisandra,923.0,1.0,45.69,1
+3692,Thanisandra,1874.0,4.0,130.0,3
+3693,Thanisandra,1698.0,3.0,102.0,3
+3694,Thanisandra,1411.0,3.0,93.04,3
+3695,Thanisandra,1996.0,3.0,135.0,3
+3696,Thanisandra,1801.0,3.0,115.0,3
+3697,Thanisandra,1265.0,2.0,82.0,2
+3698,Thanisandra,1917.0,4.0,113.0,3
+3699,Thanisandra,662.0,1.0,42.0,1
+3700,Thanisandra,1948.0,3.0,130.0,3
+3702,Thanisandra,965.0,2.0,67.0,2
+3703,Thanisandra,1098.0,2.0,74.0,2
+3705,Thanisandra,1564.0,3.0,104.0,3
+3709,Thanisandra,2127.0,3.0,135.0,3
+3711,Thanisandra,1276.0,2.0,75.0,2
+3712,Thanisandra,693.0,1.0,34.3,1
+3715,Thanisandra,934.0,2.0,55.0,2
+3716,Thanisandra,1056.0,2.0,68.0,2
+3717,Thanisandra,1595.0,3.0,110.0,3
+3718,Thanisandra,1411.0,3.0,93.15,3
+3719,Thanisandra,1093.0,2.0,68.1,2
+3721,Thanisandra,1093.0,2.0,72.0,2
+3723,Thanisandra,1698.0,3.0,107.0,3
+3724,Thanisandra,1564.0,3.0,105.0,3
+3725,Thanisandra,1265.0,2.0,83.0,2
+3726,Thanisandra,784.0,1.0,35.285,1
+3727,Thanisandra,965.0,2.0,56.0,2
+3728,Thanisandra,1546.0,3.0,95.0,3
+3729,Thanisandra,777.0,1.0,38.535,1
+3730,Thanisandra,1697.0,3.0,110.0,3
+3731,Thanisandra,1492.0,3.0,88.0,3
+3732,Thanisandra,2072.0,3.0,122.0,3
+3733,Thanisandra,1880.0,3.0,120.0,3
+3734,Thanisandra,760.0,1.0,50.0,1
+3736,Thanisandra,1800.0,4.0,125.0,3
+3737,Thanisandra,933.0,2.0,58.0,1
+3739,Thanisandra,1996.0,4.0,123.0,3
+3740,Thanisandra,1183.0,2.0,77.25,2
+3741,Thanisandra,1491.0,3.0,88.0,3
+3742,Thanisandra,662.0,1.0,29.0,1
+3744,Thanisandra,1564.0,3.0,100.0,3
+3745,Thanisandra,663.0,1.0,46.1,1
+3746,Thanisandra,662.0,1.0,45.0,1
+3747,Thanisandra,1573.0,3.0,98.0,3
+3748,Thanisandra,1262.0,2.0,83.0,3
+3749,Thanisandra,1056.0,2.0,65.0,2
+3751,Thanisandra,1702.0,3.0,115.0,3
+3753,Thanisandra,1935.0,4.0,122.0,3
+3754,Thanisandra,933.0,2.0,55.0,2
+3755,Thanisandra,1183.0,2.0,77.3,2
+3756,Thanisandra,662.0,1.0,38.0,1
+3757,Thanisandra,1265.0,2.0,72.0,2
+3758,Thanisandra,1595.0,3.0,105.0,3
+3760,Thanisandra,580.0,1.0,27.5,1
+3761,Thanisandra,2087.0,4.0,139.0,3
+3763,Thanisandra,1098.0,2.0,71.0,2
+3764,Thanisandra,1411.0,3.0,93.25,3
+3767,Thanisandra,1732.0,3.0,112.0,3
+3768,Thanisandra,933.0,1.0,61.0,1
+3769,Thanisandra,1702.0,3.0,107.0,3
+3770,Thanisandra,747.0,1.0,34.355,1
+3771,Thanisandra,2030.0,4.0,125.0,3
+3773,Thanisandra,663.0,1.0,46.0,1
+3774,Thanisandra,1948.0,4.0,129.0,4
+3776,Thanisandra,1056.0,2.0,70.0,2
+3777,Thanisandra,1595.0,3.0,96.0,3
+3780,Thanisandra,1245.0,2.0,83.05,2
+3781,Thanisandra,2695.0,4.0,188.0,4
+3782,Thanisandra,1261.0,2.0,80.0,3
+3783,Thanisandra,1884.0,4.0,117.0,3
+3785,Thanisandra,1930.0,4.0,122.0,3
+3786,Thanisandra,777.0,1.0,38.46,1
+3788,Thanisandra,1930.0,4.0,120.0,3
+3789,Thanisandra,760.0,1.0,50.4,1
+3790,Thanisandra,663.0,1.0,32.82,1
+3791,Thanisandra,1801.0,3.0,115.0,3
+3792,Thanisandra,1806.0,6.0,116.0,3
+3794,Thanisandra,1305.0,2.0,90.0,2
+3795,Thanisandra,1965.0,4.0,125.0,3
+3796,Thanisandra,1573.0,3.0,100.0,3
+3799,Thanisandra,1917.0,4.0,130.0,4
+3801,Thigalarapalya,3122.0,6.0,230.0,4
+3803,Thigalarapalya,1297.0,2.0,103.0,2
+3804,Thigalarapalya,3122.0,6.0,235.0,4
+3805,Thigalarapalya,3122.0,6.0,245.0,4
+3807,Thigalarapalya,1418.0,2.0,101.0,2
+3808,Thigalarapalya,1418.0,2.0,104.0,2
+3810,Thigalarapalya,3122.0,5.0,225.0,4
+3811,Thigalarapalya,2912.0,6.0,210.0,4
+3812,Thigalarapalya,2072.0,4.0,159.0,3
+3815,Thigalarapalya,1418.0,2.0,104.0,2
+3816,Thigalarapalya,3122.0,6.0,237.0,4
+3817,Thigalarapalya,1418.0,2.0,105.0,2
+3818,Thigalarapalya,1418.0,2.0,104.0,2
+3821,Thigalarapalya,2072.0,4.0,155.0,3
+3823,Thigalarapalya,1418.0,2.0,105.0,2
+3824,Thigalarapalya,2072.0,4.0,160.0,3
+3828,Thigalarapalya,2072.0,4.0,160.0,3
+3829,Thigalarapalya,2072.0,4.0,155.0,3
+3830,Thigalarapalya,3122.0,6.0,235.0,4
+3833,Thigalarapalya,2072.0,4.0,157.0,3
+3834,Thigalarapalya,3362.0,5.0,249.0,4
+3835,Thigalarapalya,3122.0,6.0,245.0,4
+3840,Thigalarapalya,1400.0,2.0,105.0,2
+3843,Thubarahalli,1128.0,2.0,75.0,2
+3844,Thubarahalli,1185.0,2.0,65.0,2
+3845,Thubarahalli,975.0,2.0,55.0,2
+3846,Thubarahalli,1330.0,2.0,75.0,2
+3847,Thubarahalli,1085.0,2.0,70.0,2
+3848,Thubarahalli,1216.0,2.0,80.0,2
+3849,Thubarahalli,1200.0,2.0,80.0,2
+3850,Thubarahalli,1200.0,2.0,79.55,2
+3852,Thubarahalli,2625.0,3.0,175.0,3
+3853,Thubarahalli,1584.0,3.0,101.0,3
+3854,Tumkur Road,1500.0,3.0,95.0,3
+3855,Tumkur Road,1779.0,3.0,112.0,3
+3856,Tumkur Road,1586.0,3.0,100.0,3
+3857,Tumkur Road,1354.0,3.0,90.0,3
+3858,Tumkur Road,1240.0,2.0,84.0,3
+3859,Tumkur Road,1239.0,2.0,82.0,2
+3860,Tumkur Road,1246.0,2.0,82.0,2
+3861,Tumkur Road,1500.0,3.0,100.0,3
+3863,Tumkur Road,1416.0,3.0,94.0,3
+3864,Tumkur Road,1027.0,2.0,60.0,2
+3865,Tumkur Road,1027.0,2.0,68.62,2
+3866,Tumkur Road,1459.0,2.0,95.0,3
+3867,Tumkur Road,992.0,2.0,60.0,2
+3868,Tumkur Road,1066.0,2.0,52.5,2
+3869,Tumkur Road,1240.0,2.0,79.0,3
+3870,Tumkur Road,1441.0,2.0,95.0,3
+3871,Tumkur Road,1240.0,2.0,83.0,3
+3872,Tumkur Road,1027.0,2.0,67.0,2
+3874,Tumkur Road,1354.0,3.0,85.86,3
+3875,Uttarahalli,1020.0,2.0,45.0,2
+3876,Uttarahalli,1101.0,2.0,45.0,2
+3877,Uttarahalli,1330.0,2.0,56.0,3
+3878,Uttarahalli,1008.0,2.0,45.0,2
+3879,Uttarahalli,1150.0,2.0,49.0,2
+3880,Uttarahalli,1330.0,2.0,56.0,3
+3883,Uttarahalli,1045.0,2.0,45.0,2
+3884,Uttarahalli,850.0,2.0,37.93,2
+3886,Uttarahalli,1345.0,2.0,57.0,3
+3888,Uttarahalli,1279.0,2.0,48.0,2
+3890,Uttarahalli,1425.0,2.0,64.0,3
+3891,Uttarahalli,1155.0,2.0,40.42,2
+3892,Uttarahalli,1300.0,2.0,55.0,3
+3894,Uttarahalli,1215.0,2.0,52.85,3
+3896,Uttarahalli,1325.0,2.0,53.0,2
+3897,Uttarahalli,1300.0,2.0,60.0,3
+3898,Uttarahalli,850.0,2.0,35.0,2
+3899,Uttarahalli,1390.0,2.0,61.16,3
+3900,Uttarahalli,1090.0,2.0,45.0,2
+3901,Uttarahalli,1123.0,2.0,48.0,2
+3902,Uttarahalli,1329.0,2.0,56.0,3
+3905,Uttarahalli,1125.0,2.0,47.0,2
+3906,Uttarahalli,1180.0,2.0,41.3,2
+3908,Uttarahalli,1160.0,2.0,45.0,2
+3909,Uttarahalli,1330.0,2.0,57.0,3
+3910,Uttarahalli,1125.0,2.0,48.0,2
+3911,Uttarahalli,1160.0,2.0,40.6,2
+3912,Uttarahalli,1075.0,2.0,46.76,2
+3913,Uttarahalli,1155.0,2.0,40.6,2
+3915,Uttarahalli,1180.0,2.0,41.3,2
+3916,Uttarahalli,1002.0,2.0,40.08,2
+3917,Uttarahalli,1002.0,2.0,40.08,2
+3919,Uttarahalli,1155.0,2.0,40.43,2
+3920,Uttarahalli,1125.0,2.0,47.65,2
+3921,Uttarahalli,1300.0,2.0,55.0,2
+3922,Uttarahalli,1025.0,2.0,35.88,2
+3923,Uttarahalli,980.0,2.0,45.0,2
+3924,Uttarahalli,1125.0,2.0,47.0,2
+3925,Uttarahalli,1525.0,2.0,62.82,3
+3928,Uttarahalli,900.0,2.0,35.0,2
+3929,Uttarahalli,1065.0,2.0,42.6,2
+3931,Uttarahalli,1125.0,2.0,47.0,2
+3932,Uttarahalli,1270.0,2.0,55.25,3
+3933,Uttarahalli,1270.0,2.0,55.25,3
+3935,Uttarahalli,1330.0,2.0,58.0,3
+3937,Uttarahalli,1125.0,2.0,48.0,2
+3938,Uttarahalli,1345.0,2.0,57.0,3
+3939,Uttarahalli,1345.0,2.0,57.0,3
+3940,Uttarahalli,1037.0,2.0,36.0,2
+3942,Uttarahalli,1000.0,2.0,39.5,2
+3943,Uttarahalli,1308.0,2.0,53.0,3
+3944,Uttarahalli,1160.0,2.0,40.58,2
+3946,Uttarahalli,1000.0,2.0,35.0,2
+3947,Uttarahalli,1330.0,2.0,57.0,3
+3948,Uttarahalli,1125.0,2.0,47.0,2
+3949,Uttarahalli,1165.0,1.0,42.09,2
+3950,Uttarahalli,1290.0,2.0,56.12,3
+3951,Uttarahalli,1328.0,2.0,56.0,3
+3952,Uttarahalli,1290.0,2.0,56.12,3
+3954,Uttarahalli,1075.0,2.0,46.76,2
+3955,Uttarahalli,1345.0,2.0,57.0,3
+3956,Varthur,1160.0,2.0,44.0,2
+3957,Varthur,1091.0,2.0,34.9,2
+3958,Varthur,1535.0,3.0,65.99,3
+3959,Varthur,1024.0,2.0,42.0,2
+3960,Varthur,1125.0,2.0,40.0,2
+3961,Varthur,1112.0,2.0,40.0,2
+3962,Varthur,1055.0,2.0,45.35,2
+3963,Varthur,977.0,2.0,36.0,2
+3965,Varthur,1111.0,2.0,41.88,2
+3966,Varthur,1140.0,2.0,55.5,2
+3967,Varthur,1140.0,2.0,39.9,2
+3968,Varthur,1090.0,2.0,48.0,2
+3969,Varthur,1450.0,3.0,71.0,3
+3970,Varthur,1210.0,2.0,60.0,2
+3971,Varthur,1070.0,2.0,46.0,2
+3972,Varthur,965.0,2.0,34.0,2
+3973,Varthur,1120.0,2.0,44.24,2
+3974,Varthur,1085.0,2.0,45.0,2
+3976,Varthur,1155.0,2.0,60.0,2
+3977,Varthur,1155.0,2.0,39.0,2
+3978,Varthur,1180.0,2.0,55.0,2
+3980,Varthur,1738.0,2.0,57.35,2
+3981,Varthur,1045.0,2.0,40.65,2
+3982,Varthur,1155.0,2.0,39.0,2
+3983,Varthur,1615.0,3.0,69.43,3
+3984,Varthur,1210.0,2.0,64.15,2
+3986,Varthur,1105.0,2.0,38.0,2
+3987,Varthur,1760.0,2.0,85.0,2
+3988,Varthur,1210.0,2.0,54.0,2
+3989,Varthur,1112.0,2.0,40.0,2
+3991,Varthur,1665.0,3.0,71.58,3
+3992,Vijayanagar,1704.0,3.0,110.0,3
+3993,Vijayanagar,1933.0,3.0,129.0,3
+3994,Vijayanagar,1450.0,3.0,100.0,3
+3995,Vijayanagar,1826.0,3.0,121.0,3
+3996,Vijayanagar,1739.0,3.0,116.0,3
+3997,Vijayanagar,1490.0,3.0,100.0,3
+3998,Vijayanagar,1180.0,2.0,65.0,2
+3999,Vijayanagar,606.0,1.0,34.78,1
+4000,Vijayanagar,1520.0,2.0,103.0,3
+4001,Vijayanagar,1749.0,3.0,117.0,3
+4002,Vijayanagar,606.0,1.0,40.0,1
+4003,Vijayanagar,1300.0,2.0,75.0,3
+4004,Vijayanagar,2047.0,3.0,136.0,3
+4005,Vijayanagar,1178.0,2.0,82.0,2
+4006,Vijayanagar,1019.0,2.0,58.0,2
+4007,Vijayanagar,1375.0,2.0,75.0,3
+4008,Vittasandra,1404.0,2.0,71.0,2
+4009,Vittasandra,1246.0,2.0,67.0,2
+4010,Vittasandra,1404.0,2.0,69.3,2
+4011,Vittasandra,1246.0,2.0,67.3,2
+4012,Vittasandra,1246.0,2.0,64.5,2
+4013,Vittasandra,1246.0,2.0,64.5,2
+4014,Vittasandra,1246.0,2.0,68.0,2
+4016,Vittasandra,1404.0,2.0,75.0,2
+4017,Vittasandra,1246.0,2.0,65.0,2
+4018,Vittasandra,1404.0,2.0,68.8,2
+4019,Vittasandra,1246.0,2.0,62.3,2
+4022,Vittasandra,1404.0,2.0,70.0,2
+4023,Vittasandra,1404.0,2.0,75.0,2
+4025,Vittasandra,1246.0,2.0,67.0,2
+4028,Vittasandra,1246.0,2.0,67.5,2
+4029,Vittasandra,1246.0,2.0,67.5,2
+4030,Vittasandra,1404.0,2.0,70.0,2
+4031,Vittasandra,1404.0,2.0,67.5,2
+4032,Vittasandra,1246.0,2.0,67.4,2
+4034,Whitefield,1459.0,2.0,94.82,2
+4038,Whitefield,1280.0,2.0,75.0,2
+4040,Whitefield,1910.0,3.0,161.0,3
+4041,Whitefield,3252.0,4.0,230.0,4
+4044,Whitefield,1150.0,2.0,70.0,2
+4045,Whitefield,4144.0,4.0,315.0,4
+4046,Whitefield,1720.0,3.0,100.0,3
+4048,Whitefield,1640.0,4.0,91.0,3
+4051,Whitefield,2280.0,4.0,126.0,3
+4054,Whitefield,2225.0,2.0,125.0,3
+4056,Whitefield,2268.0,3.0,163.0,4
+4058,Whitefield,2400.0,4.0,200.0,4
+4060,Whitefield,1360.0,2.0,95.0,2
+4062,Whitefield,1697.0,3.0,94.79,3
+4063,Whitefield,5000.0,4.0,400.0,4
+4064,Whitefield,3000.0,5.0,250.0,4
+4065,Whitefield,1700.0,3.0,115.0,3
+4071,Whitefield,1500.0,3.0,130.0,3
+4072,Whitefield,1280.0,2.0,75.0,2
+4074,Whitefield,1405.0,2.0,78.0,3
+4075,Whitefield,2225.0,3.0,115.0,3
+4076,Whitefield,1272.0,2.0,95.05,2
+4081,Whitefield,1626.0,3.0,89.0,3
+4082,Whitefield,1585.0,3.0,88.0,3
+4083,Whitefield,1280.0,2.0,85.0,2
+4084,Whitefield,1697.0,3.0,108.0,3
+4086,Whitefield,3606.0,4.0,312.0,4
+4087,Whitefield,1485.0,2.0,90.0,2
+4088,Whitefield,950.0,1.0,50.0,1
+4089,Whitefield,825.0,1.0,45.0,1
+4092,Whitefield,1635.0,2.0,85.0,3
+4093,Whitefield,1216.0,2.0,79.0,2
+4097,Whitefield,920.0,2.0,63.0,2
+4098,Whitefield,1170.0,2.0,71.0,2
+4099,Whitefield,1118.0,2.0,75.0,2
+4100,Whitefield,1562.0,3.0,103.0,3
+4102,Whitefield,2321.0,4.0,128.0,3
+4103,Whitefield,1320.0,2.0,95.0,2
+4105,Whitefield,3010.0,3.0,200.0,3
+4106,Whitefield,1346.0,2.0,96.17,2
+4108,Whitefield,2500.0,4.0,155.0,4
+4109,Whitefield,2268.0,3.0,146.0,4
+4111,Whitefield,630.5,1.0,32.79,1
+4112,Whitefield,3537.0,5.0,210.0,4
+4114,Whitefield,1697.0,3.0,115.0,3
+4119,Whitefield,1269.0,2.0,75.0,2
+4120,Whitefield,1545.0,3.0,79.0,3
+4124,Whitefield,1132.0,2.0,79.28,2
+4126,Whitefield,2830.0,5.0,160.0,4
+4128,Whitefield,1195.0,2.0,70.0,2
+4129,Whitefield,1250.0,2.0,72.0,2
+4130,Whitefield,709.0,1.0,34.385,1
+4131,Whitefield,1320.0,2.0,79.5,2
+4132,Whitefield,750.0,2.0,52.7,2
+4137,Whitefield,3445.0,5.0,270.0,4
+4138,Whitefield,1700.0,3.0,140.0,3
+4139,Whitefield,1405.0,2.0,84.5,2
+4141,Whitefield,1150.0,2.0,90.0,2
+4143,Whitefield,1700.0,3.0,95.0,3
+4144,Whitefield,4960.0,4.0,400.0,4
+4146,Whitefield,2700.0,5.0,175.0,3
+4147,Whitefield,1216.0,2.0,84.0,2
+4148,Whitefield,2882.0,5.0,204.0,4
+4149,Whitefield,1840.0,3.0,140.0,3
+4150,Whitefield,1778.0,3.0,122.0,3
+4151,Whitefield,1400.0,2.0,80.0,2
+4152,Whitefield,650.0,1.0,25.0,1
+4153,Whitefield,2155.0,3.0,125.0,4
+4154,Whitefield,905.0,1.0,52.0,1
+4157,Whitefield,1216.0,2.0,75.0,2
+4158,Whitefield,1355.0,2.0,78.0,2
+4159,Whitefield,1255.0,2.0,77.0,2
+4160,Whitefield,1216.0,2.0,73.0,2
+4161,Whitefield,709.0,1.0,34.735,1
+4165,Whitefield,1745.0,3.0,100.0,3
+4167,Whitefield,825.0,1.0,44.9,1
+4171,Whitefield,1870.0,3.0,138.0,3
+4174,Whitefield,1655.0,3.0,113.0,3
+4175,Whitefield,530.0,1.0,29.44,1
+4177,Whitefield,905.0,1.0,50.0,1
+4178,Whitefield,1600.0,3.0,82.0,3
+4180,Whitefield,630.5,1.0,32.15,1
+4181,Whitefield,905.0,1.0,52.0,1
+4184,Whitefield,1216.0,2.0,83.0,2
+4189,Whitefield,1216.0,2.0,75.0,2
+4197,Whitefield,750.0,1.0,51.0,1
+4200,Whitefield,1173.0,2.0,77.0,2
+4206,Whitefield,2173.0,3.0,128.0,3
+4208,Whitefield,905.0,1.0,62.0,1
+4209,Whitefield,1870.0,3.0,138.0,3
+4210,Whitefield,1320.0,2.0,99.26,2
+4211,Whitefield,2901.0,4.0,190.0,3
+4212,Whitefield,1485.0,2.0,96.51,2
+4213,Whitefield,1755.0,3.0,101.0,3
+4215,Whitefield,2225.0,3.0,149.0,3
+4216,Whitefield,1250.0,2.0,82.0,2
+4218,Whitefield,1173.0,2.0,78.2,2
+4219,Whitefield,1740.0,4.0,130.0,3
+4220,Whitefield,1216.0,2.0,75.0,2
+4222,Whitefield,1655.0,3.0,120.0,3
+4223,Whitefield,4003.0,6.0,300.0,4
+4225,Whitefield,1180.0,2.0,70.0,2
+4226,Whitefield,2023.0,4.0,130.0,3
+4227,Whitefield,2134.0,4.0,118.0,3
+4229,Whitefield,905.0,1.0,60.0,1
+4236,Whitefield,2830.0,5.0,190.0,4
+4237,Whitefield,1295.0,2.0,78.5,2
+4238,Whitefield,840.0,1.0,57.6,1
+4239,Whitefield,640.0,1.0,19.83,1
+4242,Whitefield,1850.0,3.0,150.0,3
+4244,Whitefield,1216.0,2.0,75.0,2
+4245,Whitefield,1356.0,2.0,94.84,2
+4246,Whitefield,1338.0,2.0,103.0,2
+4249,Whitefield,3450.0,4.0,208.0,3
+4252,Whitefield,1267.0,2.0,90.33,2
+4253,Whitefield,1836.0,3.0,125.0,3
+4254,Whitefield,3596.0,3.0,200.0,3
+4255,Whitefield,1275.0,2.0,65.0,3
+4257,Whitefield,1216.0,2.0,82.0,2
+4258,Whitefield,1495.0,3.0,88.0,2
+4259,Whitefield,1564.0,3.0,103.0,3
+4260,Whitefield,1585.0,3.0,84.0,3
+4261,Whitefield,1216.0,2.0,75.0,2
+4262,Whitefield,1227.0,2.0,70.0,2
+4263,Whitefield,1704.0,3.0,120.0,3
+4266,Whitefield,1570.0,3.0,88.0,3
+4267,Whitefield,1216.0,2.0,84.03,2
+4268,Whitefield,1216.0,2.0,72.5,2
+4270,Whitefield,2025.0,4.0,115.0,3
+4271,Whitefield,1346.0,2.0,100.0,3
+4274,Whitefield,2990.0,3.0,198.0,4
+4276,Whitefield,1720.0,3.0,98.97,3
+4277,Whitefield,1600.0,3.0,95.0,3
+4278,Whitefield,1655.0,3.0,108.0,3
+4279,Whitefield,1740.0,3.0,95.0,3
+4281,Whitefield,1350.0,2.0,88.0,2
+4283,Whitefield,1216.0,2.0,80.0,2
+4284,Whitefield,2900.0,4.0,225.0,4
+4285,Whitefield,1340.0,2.0,101.0,2
+4287,Whitefield,1626.0,3.0,85.0,3
+4289,Whitefield,1100.0,2.0,65.0,2
+4291,Whitefield,1270.0,2.0,65.0,3
+4292,Whitefield,1216.0,2.0,73.0,2
+4294,Whitefield,3150.0,3.0,290.0,3
+4299,Whitefield,3940.0,5.0,265.0,4
+4300,Whitefield,1160.0,2.0,67.0,2
+4302,Whitefield,1180.0,2.0,77.0,2
+4303,Whitefield,2140.0,3.0,139.0,3
+4306,Whitefield,1012.0,2.0,58.0,2
+4308,Whitefield,1431.0,3.0,85.0,3
+4309,Whitefield,524.0,1.0,29.0,1
+4310,Whitefield,2135.0,3.0,149.0,4
+4312,Whitefield,3075.0,2.0,188.0,4
+4313,Whitefield,1760.0,3.0,160.0,3
+4314,Whitefield,1655.0,3.0,110.0,3
+4315,Whitefield,840.0,1.0,57.0,1
+4316,Whitefield,1725.0,3.0,106.0,3
+4319,Whitefield,1639.0,3.0,107.0,3
+4320,Whitefield,3565.0,4.0,218.0,4
+4321,Whitefield,3410.0,5.0,253.0,4
+4324,Whitefield,1250.0,2.0,85.0,2
+4325,Whitefield,1277.0,2.0,77.0,2
+4326,Whitefield,1820.0,3.0,140.0,3
+4327,Whitefield,3453.0,4.0,247.0,4
+4331,Whitefield,2280.0,4.0,125.0,3
+4332,Whitefield,2882.0,5.0,200.0,4
+4334,Whitefield,1639.5,3.0,92.63,3
+4336,Whitefield,1190.0,2.0,70.0,2
+4338,Whitefield,1270.0,2.0,94.0,2
+4339,Whitefield,1220.0,2.0,89.0,2
+4346,Whitefield,5400.0,5.0,475.0,4
+4347,Whitefield,1396.0,3.0,74.0,3
+4354,Whitefield,1615.0,3.0,96.9,3
+4359,Whitefield,1200.0,2.0,70.0,2
+4362,Whitefield,1216.0,2.0,75.0,2
+4364,Whitefield,2321.0,4.0,157.0,3
+4365,Whitefield,1224.0,2.0,75.0,2
+4366,Whitefield,1655.0,3.0,113.0,3
+4370,Whitefield,1270.0,2.0,110.0,2
+4371,Whitefield,1660.0,3.0,110.0,3
+4372,Whitefield,1270.0,2.0,105.0,2
+4374,Whitefield,1173.0,2.0,78.2,2
+4376,Whitefield,1457.0,2.0,105.0,3
+4377,Whitefield,1720.0,3.0,128.0,3
+4380,Whitefield,1564.0,3.0,103.0,3
+4383,Whitefield,1639.0,3.0,107.0,3
+4384,Whitefield,1760.0,3.0,139.0,3
+4385,Whitefield,613.0,1.0,48.0,1
+4386,Whitefield,1730.0,3.0,125.0,3
+4388,Whitefield,877.0,1.0,59.0,1
+4390,Whitefield,3453.0,4.0,231.0,5
+4392,Yelahanka,1326.0,2.0,78.0,2
+4393,Yelahanka,3050.0,5.0,213.0,5
+4399,Yelahanka,1705.0,3.0,95.0,3
+4400,Yelahanka,1234.0,2.0,80.0,2
+4401,Yelahanka,1315.0,2.0,85.0,2
+4402,Yelahanka,1170.0,2.0,62.5,2
+4404,Yelahanka,697.0,1.0,45.0,1
+4406,Yelahanka,2195.0,4.0,127.0,3
+4407,Yelahanka,1614.0,3.0,95.0,3
+4409,Yelahanka,628.0,1.0,24.0,1
+4411,Yelahanka,654.0,1.0,38.4,1
+4417,Yelahanka,1825.0,3.0,105.0,3
+4418,Yelahanka,1603.0,3.0,96.0,3
+4419,Yelahanka,1304.0,2.0,79.0,2
+4422,Yelahanka,1517.0,3.0,76.3,3
+4425,Yelahanka,1327.0,2.0,85.0,2
+4428,Yelahanka,1566.0,3.0,97.0,3
+4429,Yelahanka,1270.0,2.0,78.0,2
+4430,Yelahanka,1400.0,2.0,80.54,3
+4432,Yelahanka,1322.0,2.0,86.0,2
+4434,Yelahanka,2675.0,4.0,140.0,4
+4435,Yelahanka,654.0,1.0,37.0,1
+4436,Yelahanka,1465.0,3.0,80.01,3
+4444,Yelahanka,2145.0,3.0,125.0,3
+4446,Yelahanka,1322.0,2.0,75.0,2
+4448,Yelahanka,602.0,1.0,26.0,1
+4449,Yelahanka,1100.0,2.0,60.0,2
+4450,Yelahanka,1614.0,2.0,100.0,3
+4451,Yelahanka,1890.0,3.0,108.0,3
+4452,Yelahanka,1556.0,3.0,86.0,3
+4453,Yelahanka,1610.0,4.0,85.0,3
+4458,Yelahanka,1859.0,3.0,108.0,3
+4460,Yelahanka,1322.0,2.0,80.0,2
+4462,Yelahanka,2600.0,4.0,175.0,4
+4463,Yelahanka,1305.0,2.0,78.0,2
+4464,Yelahanka,1711.0,3.0,85.61,3
+4465,Yelahanka,1315.0,2.0,75.0,2
+4467,Yelahanka,1614.0,3.0,95.0,3
+4468,Yelahanka,1650.0,3.0,105.0,3
+4473,Yelahanka,1620.0,3.0,90.0,3
+4474,Yelahanka,654.0,1.0,36.25,1
+4475,Yelahanka,1614.0,3.0,93.0,3
+4476,Yelahanka,694.0,1.0,30.84,1
+4477,Yelahanka,1115.0,2.0,60.0,2
+4478,Yelahanka,2317.0,4.0,140.0,3
+4479,Yelahanka,1653.0,3.0,93.0,3
+4480,Yelahanka,654.0,1.0,38.0,1
+4481,Yelahanka,1445.0,2.0,82.0,2
+4483,Yelahanka,602.0,1.0,38.0,1
+4484,Yelahanka,697.0,1.0,35.0,1
+4486,Yelahanka,682.0,1.0,36.23,1
+4488,Yelahanka,1560.0,2.0,98.0,3
+4489,Yelahanka,1780.0,3.0,107.0,3
+4490,Yelahanka,1342.0,2.0,75.0,3
+4491,Yelahanka,1823.0,3.0,103.0,3
+4492,Yelahanka,1792.0,3.0,104.0,3
+4493,Yelahanka,1304.0,2.0,69.97,2
+4496,Yelahanka,1300.0,2.0,69.23,2
+4497,Yelahanka,1705.0,3.0,91.0,3
+4499,Yelahanka,1835.0,3.0,108.0,3
+4501,Yelahanka,1890.0,3.0,109.0,3
+4502,Yelahanka,700.0,1.0,38.0,1
+4503,Yelahanka,1491.0,3.0,85.0,3
+4507,Yelahanka,1600.0,3.0,100.0,3
+4510,Yelahanka,1705.0,3.0,85.0,3
+4511,Yelahanka,1350.0,2.0,85.0,3
+4512,Yelahanka,1633.0,3.0,110.0,3
+4513,Yelahanka,827.5,1.0,42.535,1
+4515,Yelahanka,1355.0,2.0,75.0,3
+4517,Yelahanka,1104.0,2.0,58.0,2
+4519,Yelahanka,1175.0,2.0,67.77,2
+4520,Yelahanka,602.0,1.0,33.0,1
+4521,Yelahanka,1315.0,2.0,77.0,2
+4524,Yelahanka,567.0,1.0,25.0,1
+4525,Yelahanka,602.0,2.0,30.0,1
+4527,Yelahanka,1234.0,2.0,80.0,2
+4530,Yelahanka,1267.0,3.0,78.0,2
+4531,Yelahanka,1360.0,2.0,78.19,2
+4532,Yelahanka New Town,650.0,1.0,33.0,1
+4533,Yelahanka New Town,500.0,1.0,20.0,1
+4534,Yelahanka New Town,1700.0,3.0,90.0,3
+4535,Yelahanka New Town,350.0,1.0,13.5,1
+4536,Yelahanka New Town,1541.0,3.0,80.0,3
+4537,Yelahanka New Town,1385.0,2.0,65.0,2
+4538,Yelahanka New Town,500.0,2.0,24.0,1
+4539,Yelahanka New Town,450.0,1.0,16.0,1
+4540,Yelahanka New Town,1599.0,3.0,80.0,3
+4541,Yelahanka New Town,960.0,2.0,50.0,2
+4542,Yelahanka New Town,1209.0,2.0,65.0,3
+4543,Yelahanka New Town,1400.0,2.0,80.0,3
+4544,Yelahanka New Town,500.0,1.0,18.0,1
+4545,Yelahanka New Town,488.0,1.0,20.0,1
+4547,Yelahanka New Town,1426.0,2.0,61.5,3
+4548,Yelahanka New Town,1290.0,2.0,70.0,2
+4550,Yeshwanthpur,1693.0,3.0,108.0,3
+4551,Yeshwanthpur,667.0,1.0,36.85,1
+4552,Yeshwanthpur,1950.0,4.0,130.0,4
+4553,Yeshwanthpur,665.0,1.0,36.85,1
+4557,Yeshwanthpur,671.0,1.0,36.85,1
+4558,Yeshwanthpur,1277.5,2.0,95.815,2
+4559,Yeshwanthpur,668.0,1.0,36.85,1
+4560,Yeshwanthpur,1185.0,2.0,75.84,2
+4561,Yeshwanthpur,1400.0,2.0,100.0,2
+4564,Yeshwanthpur,673.0,1.0,36.85,1
+4565,Yeshwanthpur,717.0,2.0,49.475,2
+4567,Yeshwanthpur,605.0,1.0,41.745,1
+4569,Yeshwanthpur,669.0,1.0,36.85,1
+4572,Yeshwanthpur,670.0,1.0,36.85,1
+4574,Yeshwanthpur,1240.0,2.0,80.0,2
+4575,Yeshwanthpur,1713.0,3.0,110.0,3
+4576,Yeshwanthpur,1144.0,2.0,67.0,2
+4578,Yeshwanthpur,666.0,1.0,36.8,1
+4580,Yeshwanthpur,1165.0,2.0,85.0,2
+4584,Yeshwanthpur,994.0,2.0,54.67,1
+4585,Yeshwanthpur,1500.0,3.0,100.0,3
+4589,Yeshwanthpur,674.0,1.0,36.85,1
+4591,Yeshwanthpur,672.0,1.0,36.85,1
+4594,Yeshwanthpur,1692.0,3.0,108.0,3
+4599,Yeshwanthpur,1855.0,3.0,135.0,3
+4600,other,600.0,1.0,38.0,1
+4602,other,845.0,2.0,55.0,2
+4603,other,2511.0,3.0,205.0,3
+4604,other,1660.0,2.0,105.0,3
+4605,other,1000.0,2.0,70.0,2
+4608,other,1413.0,2.0,75.0,3
+4610,other,1870.0,3.0,110.0,3
+4611,other,1260.0,2.0,85.05,3
+4613,other,1904.0,3.0,150.0,3
+4614,other,2000.0,3.0,175.0,3
+4615,other,1425.0,2.0,75.0,3
+4618,other,1580.0,3.0,100.0,3
+4619,other,1148.0,2.0,60.0,2
+4621,other,1644.0,3.0,84.0,3
+4622,other,1285.0,2.0,72.5,2
+4623,other,4050.0,3.0,280.0,3
+4624,other,2420.0,3.0,185.0,3
+4625,other,3045.0,3.0,170.0,3
+4627,other,4111.0,4.0,250.0,4
+4630,other,2000.0,4.0,120.0,4
+4632,other,1665.0,3.0,95.0,3
+4633,other,1560.0,3.0,115.0,3
+4636,other,1645.0,3.0,95.0,3
+4637,other,1192.0,2.0,74.0,2
+4639,other,1800.0,3.0,150.0,3
+4641,other,1308.0,2.0,89.04,2
+4645,other,1760.0,3.0,88.0,3
+4646,other,1069.0,2.0,55.0,2
+4649,other,5000.0,9.0,360.0,11
+4652,other,1200.0,2.0,62.0,2
+4653,other,1753.0,3.0,120.0,3
+4654,other,1000.0,2.0,53.0,2
+4655,other,1353.0,2.0,110.0,2
+4658,other,5000.0,9.0,210.0,9
+4659,other,1325.0,2.0,90.0,3
+4660,other,1056.0,2.0,80.0,2
+4665,other,1630.0,3.0,85.0,3
+4666,other,2791.0,3.0,223.0,3
+4667,other,834.0,1.0,60.0,1
+4668,other,1374.0,2.0,95.0,2
+4669,other,1375.0,3.0,70.0,3
+4670,other,469.0,1.0,25.0,1
+4672,other,750.0,1.0,40.0,1
+4674,other,1875.0,3.0,165.0,3
+4675,other,2300.0,3.0,120.0,3
+4677,other,1750.0,3.0,120.0,3
+4678,other,1500.0,2.0,87.0,3
+4684,other,1200.0,2.0,62.5,2
+4687,other,1468.0,2.0,140.0,2
+4691,other,1105.0,2.0,58.0,2
+4694,other,1566.0,3.0,83.3,3
+4695,other,1665.0,3.0,86.58,3
+4696,other,1976.0,3.0,184.0,3
+4698,other,1200.0,3.0,95.0,3
+4699,other,1180.0,2.0,69.0,2
+4701,other,1282.0,2.0,87.0,2
+4702,other,1350.0,2.0,80.0,2
+4703,other,650.0,2.0,42.0,2
+4705,other,1141.0,2.0,62.0,2
+4710,other,1464.0,2.0,105.0,3
+4712,other,1480.0,3.0,90.0,3
+4714,other,1500.0,3.0,115.0,3
+4715,other,1824.0,3.0,125.0,3
+4719,other,1865.0,3.0,145.0,3
+4720,other,1039.0,2.0,80.0,2
+4722,other,6000.0,5.0,400.0,4
+4726,other,1475.0,2.0,120.0,3
+4729,other,14000.0,3.0,800.0,4
+4733,other,1960.0,3.0,160.0,3
+4736,other,1050.0,2.0,67.0,2
+4737,other,1596.0,3.0,105.0,3
+4738,other,925.0,2.0,48.0,2
+4744,other,1150.0,2.0,72.2,2
+4747,other,1535.0,3.0,95.0,3
+4749,other,1440.0,2.0,98.0,2
+4750,other,1100.0,2.0,60.0,2
+4751,other,1080.0,2.0,80.0,2
+4753,other,1756.0,3.0,100.0,3
+4754,other,1532.0,3.0,92.0,3
+4755,other,1650.0,3.0,110.0,3
+4756,other,1200.0,2.0,66.0,2
+4760,other,1400.0,2.0,73.0,3
+4761,other,1373.0,3.0,72.0,3
+4763,other,1390.0,3.0,120.0,3
+4766,other,1600.0,3.0,80.0,3
+4769,other,1269.72,2.0,68.0,2
+4770,other,1168.0,3.0,70.0,3
+4773,other,1515.0,3.0,93.93,3
+4775,other,2070.0,3.0,162.0,3
+4777,other,1645.0,3.0,100.0,3
+4778,other,595.0,1.0,42.0,1
+4781,other,1170.0,2.0,86.0,2
+4782,other,2800.0,2.0,200.0,3
+4785,other,2028.0,4.0,162.0,4
+4787,other,1670.0,3.0,91.86,3
+4789,other,1250.0,2.0,80.0,3
+4790,other,1296.0,2.0,75.0,2
+4791,other,800.0,2.0,50.0,2
+4794,other,1250.0,2.0,65.0,2
+4795,other,1020.0,2.0,58.0,2
+4796,other,1614.0,3.0,110.0,3
+4797,other,3012.0,6.0,250.0,4
+4798,other,1450.0,2.0,135.0,3
+4799,other,1188.0,2.0,73.0,2
+4801,other,1150.0,2.0,63.0,2
+4802,other,2479.13,3.0,215.0,3
+4812,other,1685.0,2.0,110.0,3
+4813,other,1700.0,3.0,130.0,3
+4815,other,500.0,1.0,20.0,1
+4816,other,1765.0,3.0,105.0,3
+4817,other,1265.0,2.0,70.0,2
+4818,other,2045.0,4.0,154.0,3
+4819,other,925.0,2.0,51.0,2
+4820,other,1415.0,2.0,110.0,2
+4822,other,1840.0,3.0,155.0,3
+4823,other,1109.0,2.0,60.0,2
+4824,other,1533.0,3.0,115.0,3
+4825,other,1352.0,2.0,87.5,2
+4826,other,1560.0,3.0,85.0,3
+4827,other,3012.0,6.0,268.0,4
+4828,other,1375.0,2.0,85.0,3
+4832,other,1775.0,3.0,110.0,3
+4833,other,1500.0,3.0,88.0,3
+4835,other,1140.0,2.0,76.0,2
+4836,other,1000.0,1.0,55.0,2
+4837,other,1934.0,3.0,150.0,3
+4841,other,1850.0,3.0,168.0,3
+4844,other,1100.0,2.0,60.0,2
+4845,other,1760.0,3.0,145.0,3
+4847,other,1942.0,3.0,102.0,3
+4848,other,1000.0,2.0,53.0,2
+4850,other,1533.0,3.0,85.0,3
+4852,other,605.0,1.0,29.0,1
+4853,other,1452.55,2.0,110.0,2
+4854,other,1170.0,2.0,105.0,2
+4855,other,1352.0,2.0,85.0,2
+4856,other,1550.0,2.0,90.0,3
+4857,other,1405.0,2.0,77.0,3
+4858,other,1945.0,3.0,120.0,3
+4861,other,1030.0,2.0,61.0,2
+4863,other,1520.0,3.0,80.0,3
+4865,other,2072.0,3.0,108.0,3
+4866,other,1210.0,2.0,72.0,2
+4867,other,11338.0,9.0,1000.0,6
+4868,other,1170.0,2.0,68.0,2
+4872,other,1370.0,2.0,75.0,3
+4876,other,1900.0,3.0,160.0,3
+4878,other,4500.0,5.0,250.0,7
+4886,other,1300.0,2.0,80.0,2
+4887,other,2167.0,3.0,170.0,3
+4888,other,1165.0,2.0,75.0,2
+4891,other,1043.0,2.0,55.0,2
+4893,other,1180.0,2.0,100.0,2
+4897,other,1460.0,3.0,88.0,3
+4898,other,1685.0,3.0,95.0,3
+4899,other,4000.0,5.0,280.0,4
+4908,other,794.0,1.0,60.0,1
+4909,other,2800.0,3.0,250.0,3
+4911,other,4051.0,4.0,345.0,4
+4913,other,1308.0,2.0,92.66,2
+4914,other,1991.0,3.0,160.0,3
+4915,other,1325.0,2.0,70.0,2
+4923,other,1672.0,3.0,150.0,3
+4924,other,1468.0,3.0,130.0,2
+4927,other,1350.0,2.0,68.0,3
+4929,other,1200.0,2.0,90.0,2
+4930,other,1460.0,2.0,73.0,3
+4932,other,1125.0,2.0,75.0,2
+4933,other,1596.0,3.0,95.0,3
+4934,other,1639.0,3.0,123.0,3
+4937,other,925.0,2.0,63.0,2
+4938,other,1570.0,3.0,115.0,3
+4939,other,1665.0,3.0,86.91,3
+4940,other,1350.0,2.0,87.01,3
+4942,other,1340.0,3.0,77.0,3
+4947,other,596.0,1.0,42.0,1
+4948,other,1200.0,4.0,110.0,4
+4949,other,1405.0,2.0,70.0,3
+4950,other,1750.0,3.0,149.0,3
+4952,other,985.0,2.0,63.0,2
+4953,other,1490.0,2.0,88.0,3
+4956,other,4428.0,4.0,255.0,4
+4958,other,794.0,1.0,65.0,1
+4962,other,1374.0,2.0,70.0,3
+4964,other,1500.0,2.0,97.0,3
+4968,other,2400.0,2.0,160.0,2
+4970,other,1302.0,2.0,69.1,2
+4973,other,1390.0,2.0,80.0,3
+4974,other,1159.0,2.0,60.0,2
+4975,other,1350.0,2.0,80.99,3
+4976,other,1500.0,3.0,87.0,3
+4977,other,1839.0,3.0,165.0,3
+4982,other,1559.0,3.0,127.0,3
+4984,other,1750.0,3.0,150.0,3
+4985,other,1896.0,3.0,125.0,4
+4986,other,1605.0,2.0,85.0,3
+4987,other,1140.0,2.0,65.0,2
+4989,other,1255.0,2.0,80.0,2
+4990,other,1904.0,3.0,155.0,3
+4991,other,2135.0,3.0,160.0,3
+4992,other,1000.0,2.0,58.0,2
+4994,other,1325.0,2.0,70.0,2
+4996,other,2776.0,4.0,195.0,3
+4997,other,1185.0,2.0,85.0,2
+4998,other,1265.0,2.0,82.0,3
+4999,other,2000.0,3.0,160.0,3
+5000,other,1352.0,2.0,75.0,2
+5001,other,1300.0,2.0,70.0,3
+5003,other,1532.0,3.0,115.0,3
+5004,other,3100.0,3.0,250.0,3
+5005,other,1827.0,3.0,100.0,3
+5006,other,1210.0,2.0,75.0,2
+5007,other,1500.0,3.0,95.0,3
+5009,other,1180.0,2.0,63.0,2
+5010,other,2270.0,3.0,180.0,3
+5012,other,1400.0,2.0,78.0,2
+5013,other,1155.0,2.0,60.0,3
+5015,other,1645.0,3.0,95.0,3
+5019,other,1097.0,2.0,65.0,2
+5023,other,4104.0,4.0,360.0,4
+5025,other,1505.0,2.0,90.0,2
+5026,other,1810.0,4.0,148.0,3
+5027,other,1530.0,2.0,97.0,3
+5031,other,1400.0,2.0,80.0,2
+5032,other,745.0,2.0,50.0,2
+5034,other,833.0,1.0,49.0,1
+5035,other,1220.0,2.0,68.0,2
+5036,other,1545.0,3.0,85.0,3
+5039,other,1428.0,2.0,80.0,3
+5043,other,1655.0,3.0,155.0,3
+5044,other,1200.0,2.0,75.0,2
+5050,other,1730.0,3.0,140.0,3
+5052,other,1758.0,3.0,95.0,3
+5053,other,1342.0,3.0,92.0,3
+5056,other,1645.0,3.0,87.5,3
+5058,other,2600.0,3.0,140.0,3
+5062,other,1235.0,2.0,65.0,2
+5063,other,1300.0,3.0,77.99,3
+5067,other,1590.0,3.0,120.0,3
+5070,other,1560.0,2.0,145.0,2
+5071,other,1340.0,2.0,77.0,2
+5074,other,1665.0,3.0,105.0,3
+5076,other,2370.0,4.0,195.0,3
+5078,other,1065.0,2.0,58.0,2
+5079,other,1342.0,2.0,115.0,2
+5082,other,1200.0,3.0,72.0,3
+5084,other,1388.0,3.0,69.99,3
+5086,other,1170.0,2.0,86.0,2
+5087,other,4830.0,5.0,390.0,4
+5091,other,2065.0,3.0,130.0,3
+5093,other,3080.0,2.0,285.0,4
+5095,other,1100.0,2.0,85.0,2
+5096,other,1559.0,3.0,120.0,3
+5097,other,1550.0,2.0,79.0,3
+5102,other,1508.0,3.0,75.0,3
+5103,other,1110.0,2.0,58.0,2
+5105,other,1265.0,2.0,78.0,2
+5108,other,1495.0,2.0,75.0,3
+5109,other,1450.0,2.0,81.0,3
+5110,other,1143.0,2.0,62.0,2
+5113,other,600.0,1.0,43.0,1
+5114,other,925.0,2.0,48.0,2
+5116,other,1477.0,2.0,80.0,3
+5117,other,1793.0,3.0,98.0,3
+5120,other,3563.0,6.0,310.0,4
+5121,other,3300.0,5.0,318.0,4
+5122,other,2250.0,3.0,113.0,3
+5123,other,985.0,2.0,55.0,2
+5127,other,1350.0,2.0,68.0,3
+5128,other,1310.0,2.0,68.0,3
+5130,other,1760.0,3.0,160.0,3
+5132,other,1100.0,2.0,78.0,2
+5135,other,1475.0,3.0,78.0,3
+5136,other,1255.0,2.0,120.0,2
+5140,other,1233.0,2.0,100.0,2
+5142,other,1100.0,2.0,57.0,2
+5147,other,1652.5,3.0,90.0,3
+5148,other,2159.0,3.0,110.0,3
+5149,other,1680.0,3.0,135.0,3
+5156,other,1760.0,2.0,116.0,3
+5157,other,3317.5,5.0,268.5,4
+5159,other,1670.0,3.0,160.0,3
+5160,other,1410.0,2.0,75.0,2
+5161,other,900.0,2.0,50.0,2
+5167,other,1350.0,3.0,78.3,3
+5168,other,1560.0,3.0,125.0,3
+5169,other,550.0,1.0,23.0,1
+5170,other,1783.0,3.0,125.0,3
+5171,other,1570.0,3.0,78.0,3
+5172,other,1750.0,3.0,150.0,3
+5176,other,827.0,2.0,45.0,2
+5179,other,1458.0,3.0,79.0,3
+5182,other,2200.0,4.0,160.0,3
+5185,other,1656.0,3.0,90.0,3
+5186,other,1900.0,3.0,155.0,3
+5187,other,1100.0,2.0,61.0,2
+5188,other,1942.0,3.0,155.0,3
+5189,other,1515.0,3.0,90.0,3
+5190,other,935.0,2.0,51.5,2
+5195,other,583.0,1.0,26.9,1
+5198,other,1717.0,3.0,99.0,3
+5201,other,1190.0,2.0,70.0,2
+5202,other,1594.0,3.0,99.0,3
+5203,other,1250.0,2.0,68.0,2
+5206,other,2070.0,3.0,135.0,3
+5212,other,1500.0,2.0,130.0,2
+5214,other,1504.0,2.0,100.0,3
+5219,other,1490.0,2.0,115.0,3
+5221,other,1740.0,3.0,120.0,3
+5222,other,1020.0,2.0,60.0,2
+5223,other,550.0,1.0,16.0,1
+5226,other,3664.0,3.0,325.0,3
+5227,other,1520.0,3.0,111.0,3
+5229,other,1250.0,2.0,90.0,2
+5231,other,907.0,1.0,38.0,1
+5232,other,1230.0,2.0,70.0,2
+5233,other,1600.0,3.0,95.0,3
+5234,other,3463.0,6.0,310.0,4
+5235,other,1570.0,3.0,110.0,3
+5238,other,2120.0,3.0,177.0,3
+5239,other,1315.0,2.0,65.0,3
+5241,other,1713.0,3.0,125.0,3
+5244,other,1600.0,3.0,112.0,3
+5245,other,1266.67,2.0,69.0,2
+5247,other,1800.0,3.0,95.0,3
+5250,other,1089.0,2.0,60.0,2
+5252,other,1022.0,2.0,57.0,2
+5257,other,1333.0,2.0,77.27,2
+5258,other,2000.0,3.0,105.0,3
+5261,other,1069.0,2.0,55.0,2
+5262,other,1200.0,3.0,99.0,3
+5264,other,1012.0,2.0,59.0,2
+5268,other,1200.0,2.0,80.0,2
+5270,other,665.0,1.0,32.0,1
+5271,other,2456.0,3.0,220.0,3
+5274,other,1717.0,3.0,120.0,3
+5276,other,1504.0,2.0,102.0,3
+5278,other,1490.0,2.0,92.0,3
+5279,other,1044.0,2.0,60.0,2
+5280,other,1352.0,3.0,93.0,2
+5282,other,1640.0,3.0,84.0,3
+5284,other,1240.0,2.0,65.0,3
+5285,other,1293.0,2.0,75.0,2
+5290,other,2400.0,3.0,180.0,3
+5293,other,834.0,1.0,62.0,1
+5296,other,1335.0,2.0,87.0,3
+5302,other,1350.0,3.0,68.0,3
+5304,other,2274.24,4.0,160.0,3
+5306,other,1570.0,3.0,80.0,3
+5308,other,2515.0,4.0,155.0,3
+5309,other,1440.0,3.0,72.0,3
+5312,other,1567.0,3.0,140.0,2
+5314,other,1300.0,2.0,75.0,3
+5316,other,1050.0,2.0,55.0,2
+5317,other,1421.0,2.0,90.0,2
+5319,other,3200.0,3.0,260.0,3
+5320,other,1450.0,3.0,90.0,3
+5321,other,1374.0,3.0,72.0,3
+5322,other,1893.0,3.0,115.0,3
+5324,other,1308.0,2.0,89.04,2
+5325,other,1205.0,2.0,70.0,2
+5326,other,1500.0,3.0,90.0,3
+5328,other,1400.0,2.0,85.0,2
+5329,other,925.0,2.0,70.0,2
+5331,other,1480.0,3.0,74.0,3
+5332,other,1253.0,2.0,81.5,2
+5334,other,1315.0,3.0,65.0,3
+5336,other,1305.0,2.0,70.0,2
+5339,other,4800.0,5.0,420.0,4
+5341,other,2273.0,4.0,192.0,3
+5342,other,655.0,1.0,27.0,1
+5343,other,600.0,1.0,18.0,1
+5346,other,1400.0,2.0,78.0,3
+5347,other,985.0,2.0,57.0,2
+5348,other,1540.0,2.0,78.0,3
+5350,other,1760.0,3.0,142.0,3
+5354,other,2095.0,3.0,142.0,3
+5355,other,1600.0,2.0,88.0,3
+5357,other,1300.0,3.0,77.99,3
+5358,other,1280.0,2.0,100.0,3
+5359,other,1650.0,3.0,110.0,3
+5365,other,1257.0,2.0,93.0,2
+5366,other,1517.0,2.0,125.0,2
+5368,other,1325.0,2.0,73.0,2
+5370,other,1365.0,2.0,72.0,3
+5371,other,2159.0,3.0,120.0,3
+5372,other,1200.0,3.0,72.0,3
+5373,other,2700.0,2.0,260.0,3
+5375,other,1730.0,3.0,93.0,3
+5376,other,1998.0,3.0,117.0,3
+5377,other,1450.0,2.0,85.0,3
+5378,other,527.0,1.0,35.0,1
+5379,other,1804.0,3.0,150.0,3
+5383,other,1250.0,2.0,95.0,2
+5384,other,1850.0,3.0,95.0,3
+5385,other,1567.0,3.0,100.0,3
+5387,other,1471.0,2.0,75.0,3
+5388,other,1220.0,2.0,65.0,2
+5389,other,1256.0,2.0,65.0,2
+5390,other,1407.0,2.0,83.87,2
+5392,other,1200.0,2.0,67.0,2
+5396,other,1240.0,2.0,63.0,3
+5403,other,1075.0,2.0,57.0,2
+5404,other,1800.0,4.0,115.0,3
+5406,other,1499.0,3.0,89.0,3
+5409,other,1050.0,2.0,65.0,2
+5410,other,1056.0,2.0,55.0,2
+5412,other,1770.0,3.0,90.0,3
+5414,other,2357.0,3.0,135.0,3
+5415,other,1464.0,2.0,135.0,3
+5418,other,2400.0,4.0,130.0,3
+5419,other,1225.0,2.0,71.05,2
+5420,other,775.0,1.0,34.1,1
+5421,other,1732.5,3.0,91.855,3
+5427,other,1620.0,3.0,95.0,3
+5431,other,1700.0,3.0,110.0,3
+5432,other,3700.0,4.0,314.0,4
+5434,other,4800.0,6.0,420.0,4
+5437,other,1720.0,2.0,126.0,3
+5440,other,1100.0,2.0,61.0,2
+5444,other,1465.0,2.0,88.0,3
+5445,other,1450.0,3.0,75.0,3
+5446,other,800.0,1.0,29.5,1
+5447,other,1352.0,2.0,72.0,2
+5448,other,1500.0,3.0,90.0,3
+5449,other,1275.0,2.0,105.0,2
+5452,other,1237.0,3.0,78.0,3
+5457,other,1900.0,3.0,150.0,3
+5458,other,1160.0,2.0,75.0,2
+5459,other,1257.0,2.0,105.0,2
+5464,other,1155.0,2.0,65.0,2
+5466,other,1148.0,2.0,69.0,2
+5467,other,1719.0,3.0,110.0,3
+5469,other,3000.0,4.0,264.0,4
+5471,other,1320.0,2.0,90.0,2
+5477,other,1332.0,2.0,101.0,2
+5478,other,1012.0,2.0,59.0,2
+5483,other,1600.0,2.0,90.0,3
+5484,other,1508.0,3.0,75.0,3
+5486,other,2996.0,4.0,200.0,4
+5488,other,2357.0,3.0,135.0,3
+5489,other,1310.0,3.0,90.0,3
+5490,other,1400.0,2.0,80.0,3
+5491,other,1603.0,2.0,125.0,3
+5495,other,1275.0,2.0,69.0,2
+5496,other,1623.0,3.0,155.0,3
+5502,other,991.0,2.0,64.0,2
+5504,other,2648.0,3.0,238.0,3
+5506,other,1721.0,3.0,93.0,3
+5508,other,1480.0,3.0,75.0,3
+5510,other,4800.0,4.0,420.0,4
+5511,other,801.0,1.0,33.645,1
+5512,other,1300.0,2.0,80.0,3
+5513,other,1009.0,2.0,65.0,2
+5514,other,2400.0,4.0,135.0,4
+5516,other,4446.0,3.0,410.0,3
+5522,other,1130.0,2.0,75.0,2
+5526,other,1202.0,2.0,65.0,2
+5530,other,4041.0,4.0,345.0,4
+5531,other,1210.0,2.0,75.0,2
+5532,other,1600.0,3.0,130.0,3
+5534,other,1130.0,2.0,68.0,2
+5538,other,1100.0,2.0,57.6,2
+5539,other,2159.0,3.0,120.0,3
+5540,other,1340.0,2.0,71.0,2
+5543,other,1450.0,2.0,90.0,2
+5546,other,925.0,2.0,55.0,2
+5547,other,3900.0,3.0,250.0,3
+5548,other,1715.0,3.0,95.0,3
+5551,other,4382.0,4.0,400.0,4
+5552,other,1008.0,2.0,52.0,2
+5554,other,1293.0,2.0,80.0,2
+5555,other,1864.0,3.0,115.0,3
+5557,other,1010.0,2.0,52.0,2
+5559,other,1300.0,3.0,77.99,3
+5560,other,2950.0,4.0,250.0,4
+5561,other,1464.0,2.0,115.0,3
+5564,other,1733.5,3.0,120.0,3
+5565,other,1415.0,2.0,120.0,2
+5568,other,1025.0,2.0,65.0,2
+5569,other,1020.0,2.0,70.0,2
+5570,other,1155.0,2.0,69.0,2
+5572,other,1000.0,2.0,58.0,2
+5574,other,1423.0,2.0,71.73,3
+5577,other,907.0,2.0,55.43,2
+5578,other,1410.0,2.0,73.0,2
+5582,other,1201.0,2.0,65.0,2
+5583,other,1370.0,2.0,87.0,3
+5585,other,1265.0,2.0,68.0,2
+5586,other,1450.0,2.0,90.0,3
+5588,other,660.0,1.0,35.0,1
+5589,other,1140.0,2.0,60.0,2
+5590,other,1458.0,2.0,87.0,3
+5591,other,1178.0,2.0,80.0,2
+5594,other,1810.0,3.0,131.0,3
+5595,other,2400.0,2.0,195.0,3
+5596,other,1277.0,2.0,92.0,2
+5601,other,1839.0,3.0,160.0,3
+5604,other,650.0,1.0,50.0,1
+5605,other,720.0,1.0,32.39,1
+5606,other,2100.0,3.0,125.0,3
+5609,other,1100.0,2.0,60.0,2
+5611,other,1182.0,2.0,60.1,3
+5614,other,1410.0,3.0,90.0,3
+5615,other,1469.0,2.0,99.14,2
+5616,other,1460.0,2.0,87.0,3
+5617,other,1260.0,2.0,85.05,3
+5618,other,1250.0,2.0,65.0,2
+5619,other,2507.0,4.0,155.0,4
+5623,other,509.0,1.0,20.0,1
+5624,other,3535.0,4.0,215.0,4
+5626,other,2050.0,3.0,135.0,3
+5627,other,1600.0,3.0,100.0,3
+5629,other,1184.0,2.0,62.0,2
+5631,other,1515.0,2.0,135.0,3
+5632,other,3200.0,4.0,270.0,4
+5633,other,1165.0,2.0,65.0,2
+5635,other,1255.0,2.0,65.0,2
+5638,other,4395.0,3.0,240.0,3
+5641,other,1269.0,2.0,63.0,3
+5642,other,1220.0,2.0,65.0,2
+5643,other,2045.0,3.0,108.0,3
+5645,other,1310.0,2.0,88.0,2
+5646,other,1600.0,3.0,90.0,3
+5648,other,1441.0,2.0,115.0,2
+5650,other,610.0,1.0,28.0,1
+5651,other,1300.0,3.0,77.99,3
+5652,other,1864.0,3.0,120.0,3
+5655,other,1100.0,2.0,62.0,2
+5656,other,1392.0,3.0,69.46,3
+5657,other,1476.0,2.0,73.0,3
+5658,other,1279.0,2.0,100.0,2
+5663,other,740.0,1.0,23.65,1
+5667,other,1449.0,3.0,72.0,3
+5668,other,1300.0,2.0,95.0,2
+5670,other,1095.0,2.0,85.41,2
+5671,other,1776.0,3.0,124.0,3
+5673,other,6652.0,6.0,510.0,4
+5675,other,3150.0,4.0,180.0,4
+5676,other,1776.0,3.0,150.0,3
+5677,other,1293.0,2.0,80.0,2
+5678,other,1280.0,2.0,68.48,2
+5679,other,1475.0,3.0,75.0,3
+5682,other,1100.0,2.0,75.0,2
+5683,other,1192.0,2.0,75.0,2
+5685,other,1250.0,2.0,75.0,2
+5688,other,1180.0,2.0,65.0,2
+5695,other,1350.0,3.0,80.99,3
+5699,other,1000.0,2.0,60.0,2
+5702,other,675.0,1.0,35.0,1
+5708,other,485.0,1.0,19.5,1
+5709,other,1419.0,3.0,85.0,3
+5711,other,1145.0,2.0,60.0,3
+5714,other,2150.0,3.0,170.0,3
+5716,other,1368.0,2.0,87.0,2
+5717,other,1507.0,3.0,80.0,3
+5718,other,960.0,2.0,50.0,2
+5720,other,1175.0,2.0,83.0,2
+5721,other,1050.0,2.0,59.0,2
+5722,other,2400.0,3.0,200.0,4
+5723,other,1200.0,2.0,110.0,3
+5724,other,1400.0,3.0,98.0,3
+5728,other,1610.0,2.0,119.0,3
+5730,other,1010.0,2.0,52.0,2
+5732,other,2360.0,3.0,185.0,4
+5733,other,1760.0,3.0,90.0,3
+5734,other,1100.0,2.0,58.5,2
+5743,other,1105.0,2.0,57.0,2
+5745,other,1013.0,2.0,60.0,2
+5748,other,1625.0,3.0,95.0,3
+5749,other,1300.0,2.0,90.0,2
+5752,other,1420.0,2.0,95.0,3
+5754,other,2135.0,3.0,170.0,3
+5757,other,1150.0,2.0,90.0,2
+5758,other,5480.0,4.0,400.0,3
+5759,other,1500.0,3.0,75.0,3
+5760,other,5656.0,5.0,499.0,3
+5764,other,1625.0,3.0,150.0,3
+5766,other,1515.0,3.0,80.5,3
+5767,other,1470.0,2.0,99.0,3
+5770,other,1410.5,2.0,70.385,3
+5771,other,1231.0,2.0,66.0,2
+5772,other,1750.0,3.0,100.0,3
+5774,other,1738.0,3.0,110.0,3
+5775,other,1290.0,2.0,72.0,2
+5776,other,1876.0,3.0,150.0,3
+5777,other,1720.0,3.0,95.0,3
+5778,other,850.0,2.0,45.0,2
+5779,other,1832.0,3.0,160.0,3
+5781,other,1290.0,2.0,71.95,2
+5785,other,720.0,1.0,28.0,1
+5786,other,1100.0,2.0,90.0,2
+5788,other,600.0,1.0,22.8,1
+5789,other,540.0,1.0,24.0,1
+5795,other,1442.0,3.0,80.0,3
+5797,other,1855.0,3.0,96.0,3
+5798,other,1280.0,2.0,88.0,2
+5799,other,1175.0,2.0,75.0,2
+5800,other,1770.0,3.0,99.0,3
+5801,other,1800.0,3.0,130.0,3
+5804,other,1570.0,2.0,95.0,3
+5805,other,2250.0,3.0,180.0,3
+5808,other,1684.0,3.0,86.0,3
+5810,other,1989.0,4.0,155.0,3
+5812,other,1950.0,3.0,132.0,3
+5813,other,1600.0,3.0,102.0,3
+5817,other,1850.0,3.0,110.0,3
+5820,other,1719.0,3.0,95.0,3
+5821,other,1200.0,3.0,80.0,2
+5826,other,540.0,1.0,22.5,1
+5828,other,1100.0,2.0,85.0,2
+5829,other,1360.0,2.0,73.0,3
+5830,other,1945.0,3.0,135.0,3
+5832,other,1081.0,2.0,60.0,2
+5835,other,1369.0,2.0,72.0,3
+5837,other,1035.0,2.0,60.0,2
+5840,other,1830.0,3.0,95.0,3
+5843,other,1350.0,3.0,80.99,3
+5844,other,1100.0,2.0,64.08,2
+5847,other,1012.0,2.0,62.0,2
+5848,other,1200.0,2.0,75.0,2
+5849,other,1490.0,3.0,140.0,3
+5851,other,1650.0,1.0,130.0,2
+5852,other,1500.0,2.0,78.0,3
+5854,other,1155.0,2.0,64.0,2
+5855,other,1508.0,3.0,77.0,3
+5857,other,1095.0,2.0,57.0,2
+5859,other,1256.0,2.0,65.0,2
+5860,other,1353.0,2.0,110.0,2

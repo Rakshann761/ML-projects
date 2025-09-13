@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #cce7ff, #ffffff);
+            color: #333;
+        }
+
+        .navbar {
+            background-color: #212020;
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-link {
+            color: #fff !important;
+            font-size: 1.1rem;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #ff6600 !important;
+        }
+
+        .card {
+            background-color: #f8f9fa;
+            width: 30rem;
+            margin: auto;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-body {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .card-title {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #003366;
+        }
+
+        .card-text {
+            font-size: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .btn-primary {
+            background-color: #0066cc;
+            border-color: #0066cc;
+        }
+
+        .btn-primary:hover {
+            background-color: #005bb5;
+            border-color: #005bb5;
+        }
+
+        .card-img-top {
+            height: 300px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" style="color: whitesmoke;"><b>House Price Prediction</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="upload">Upload</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="property">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <div class="card shadow-lg">
+                    <img src="https://plus.unsplash.com/premium_photo-1697729606148-42a74a5bad37?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFuZ2Fsb3JlfGVufDB8fDB8fHww" class="card-img-top" alt="House Image">
+                    <div class="card-body">
+                        <h5 class="card-title">House Price prediction in Bangalore</h5>
+                        <p class="card-text">Click to see details about the house prices in Bangalore.</p>
+                        <a href="/card" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
